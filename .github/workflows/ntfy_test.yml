@@ -1,0 +1,20 @@
+name: Ntfy Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send test notification
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          curl -fsS \
+            -H "Title: Job Radar Test" \
+            -H "Priority: high" \
+            -H "Tags: white_check_mark" \
+            -d "GitHub → ntfy is working." \
+            "https://ntfy.sh/${NTFY_TOPIC}"
