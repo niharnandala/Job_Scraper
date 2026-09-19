@@ -1,6 +1,6 @@
-# ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-09-19 05:41 UTC*
+# ☕ HiringCafe — India Entry-Level AI Job Radar Roles
+*Last updated: 2026-09-19 14:06 UTC*
 
-**0 new role(s)** since last run · 18 total in last 30d
+**0 new role(s)** since last run · 0 total in last 30d
 
 No new roles since the last run.
