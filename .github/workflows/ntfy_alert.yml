@@ -1,0 +1,80 @@
+name: Free Job Notifications
+
+on:
+  workflow_run:
+    workflows:
+      - LinkedIn Watcher
+      - Indeed Watcher
+      - Google Jobs Watcher
+      - HiringCafe Watcher
+      - Glassdoor Watcher
+      - ZipRecruiter Watcher
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  notify:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Send new job notifications
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          topic = os.environ["NTFY_TOPIC"]
+
+          try:
+              with open("output/all_jobs.json", "r", encoding="utf-8") as f:
+                  jobs = json.load(f)
+          except Exception:
+              print("No job database found.")
+              raise SystemExit(0)
+
+          if isinstance(jobs, dict):
+              jobs = jobs.get("jobs", [])
+
+          # Only consider jobs seen in the most recent run.
+          new_jobs = [
+              j for j in jobs
+              if j.get("new_this_run") is True
+          ]
+
+          print(f"New jobs found: {len(new_jobs)}")
+
+          for job in new_jobs[:10]:
+              title = job.get("title", "New AI job")
+              company = job.get("company", "Unknown company")
+              location = job.get("location", "India")
+              url = job.get("url", "")
+
+              message = f"{title}\n{company}\n{location}\n{url}"
+
+              request = urllib.request.Request(
+                  f"https://ntfy.sh/{topic}",
+                  data=message.encode("utf-8"),
+                  headers={
+                      "Title": "New AI Job",
+                      "Priority": "high",
+                      "Tags": "briefcase",
+                  },
+                  method="POST",
+              )
+
+              try:
+                  urllib.request.urlopen(request, timeout=15).read()
+                  print(f"Sent: {title}")
+              except Exception as e:
+                  print(f"Notification failed: {e}")
+          PY
