@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-19 18:52 UTC*
+*Last updated: 2026-09-19 21:43 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
