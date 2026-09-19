@@ -8,7 +8,7 @@ on:
   # workflow_dispatch API; both triggers are safe to run together (dedupe + the
   # commit-push concurrency group prevent collisions).
   schedule:
-    - cron: "17 15-23,0-3 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       backfill:
