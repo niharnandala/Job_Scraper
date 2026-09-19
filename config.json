@@ -1,0 +1,256 @@
+{
+  "_README": "India entry-level AI job tracker",
+
+  "profile": {
+    "title": "India Entry-Level AI Job Radar",
+    "subtitle": "AI · LLM · GenAI · Backend · Deployment",
+    "emoji": "🤖"
+  },
+
+  "keywords": {
+    "_comment": "Job title must contain at least one include term.",
+    "include": [
+      "ai engineer",
+      "applied ai",
+      "llm engineer",
+      "genai engineer",
+      "generative ai",
+      "ai/ml engineer",
+      "machine learning engineer",
+      "forward deployed",
+      "solutions engineer",
+      "deployment engineer",
+      "backend engineer",
+      "software engineer",
+      "python backend",
+      "rag engineer",
+      "ai developer",
+      "ml engineer"
+    ],
+    "exclude": [
+      "senior",
+      "staff",
+      "principal",
+      "lead",
+      "manager",
+      "director",
+      "architect",
+      "intern",
+      "internship",
+      "trainee"
+    ],
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
+  },
+
+  "search_terms": {
+    "linkedin": [
+      "AI Engineer",
+      "Applied AI Engineer",
+      "LLM Engineer",
+      "GenAI Engineer",
+      "Generative AI",
+      "AI ML Engineer",
+      "Machine Learning Engineer",
+      "Forward Deployed",
+      "Solutions Engineer AI",
+      "Deployment Engineer AI",
+      "Backend Engineer AI",
+      "Python Backend AI",
+      "RAG Engineer"
+    ],
+    "indeed": [
+      "AI Engineer",
+      "LLM Engineer",
+      "GenAI Engineer",
+      "Machine Learning Engineer",
+      "Backend Engineer AI",
+      "Python Backend AI"
+    ],
+    "glassdoor": [
+      "AI Engineer",
+      "LLM Engineer",
+      "GenAI Engineer",
+      "Machine Learning Engineer"
+    ],
+    "ziprecruiter": [
+      "AI Engineer",
+      "LLM Engineer",
+      "GenAI Engineer",
+      "Machine Learning Engineer"
+    ],
+    "google_jobs": [
+      "AI Engineer",
+      "Applied AI Engineer",
+      "LLM Engineer",
+      "GenAI Engineer",
+      "Machine Learning Engineer",
+      "Backend Engineer AI",
+      "RAG Engineer"
+    ],
+    "hiring_cafe": [
+      "AI Engineer",
+      "LLM Engineer",
+      "GenAI Engineer",
+      "Machine Learning Engineer",
+      "Backend Engineer"
+    ],
+    "calcareers": [],
+    "usajobs": [],
+    "governmentjobs": [],
+    "workday": [
+      "AI Engineer",
+      "Machine Learning Engineer",
+      "LLM Engineer",
+      "Generative AI",
+      "Software Engineer AI"
+    ]
+  },
+
+  "locations": {
+    "linkedin": [
+      {
+        "name": "India",
+        "location": "India",
+        "geoId": "102713980"
+      }
+    ],
+    "indeed": [
+      {
+        "location": "India",
+        "country": "India"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "India",
+        "country": "India"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "India",
+        "country": "India"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "India",
+        "country": "India"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "India"
+      }
+    ],
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+
+  "location_filter": {
+    "terms": [
+      "india",
+      "remote",
+      "hyderabad",
+      "bangalore",
+      "bengaluru",
+      "chennai",
+      "pune",
+      "mumbai",
+      "delhi",
+      "gurgaon",
+      "gurugram",
+      "noida",
+      "kolkata",
+      "ahmedabad",
+      "jaipur",
+      "kochi"
+    ]
+  },
+
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+
+  "employers": {
+    "priority": [],
+    "exclude": []
+  },
+
+  "priority_topics": {
+    "terms": [
+      [
+        "LLM",
+        "\\bllm\\b|large language model"
+      ],
+      [
+        "RAG",
+        "\\brag\\b|retrieval augmented"
+      ],
+      [
+        "GenAI",
+        "genai|generative ai"
+      ],
+      [
+        "Agents",
+        "\\bagent(s)?\\b|agentic"
+      ],
+      [
+        "Python",
+        "\\bpython\\b"
+      ]
+    ]
+  },
+
+  "role_categories": {
+    "terms": [
+      [
+        "AI Engineering",
+        "ai engineer|applied ai|ai/ml|machine learning"
+      ],
+      [
+        "LLM/GenAI",
+        "llm|genai|generative ai|large language"
+      ],
+      [
+        "Forward Deployed",
+        "forward deployed"
+      ],
+      [
+        "Solutions/Deployment",
+        "solutions engineer|deployment engineer"
+      ],
+      [
+        "Backend",
+        "backend|python backend|software engineer"
+      ]
+    ]
+  },
+
+  "notify": {
+    "min_fit": 75,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
