@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-19 19:23 UTC*
+*Last updated: 2026-09-19 22:22 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4468403605/) — Yolex Labs
+- 📍 **Location:** Greater Bengaluru Area
+- 🕒 **Posted:** 2026-09-19
