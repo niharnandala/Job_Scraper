@@ -13,7 +13,7 @@ on:
       - completed
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   notify:
@@ -27,6 +27,7 @@ jobs:
       - name: Send new job notifications
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          WORKFLOW_NAME: ${{ github.event.workflow_run.name }}
         run: |
           python - <<'PY'
           import json
@@ -34,24 +35,31 @@ jobs:
           import urllib.request
 
           topic = os.environ["NTFY_TOPIC"]
+          workflow = os.environ["WORKFLOW_NAME"]
 
-          try:
-              with open("output/all_jobs.json", "r", encoding="utf-8") as f:
-                  jobs = json.load(f)
-          except Exception:
-              print("No job database found.")
+          source_files = {
+              "LinkedIn Watcher": "output/linkedin_jobs.json",
+              "Indeed Watcher": "output/indeed_jobs.json",
+              "Google Jobs Watcher": "output/google_jobs.json",
+              "HiringCafe Watcher": "output/hiringcafe_jobs.json",
+              "Glassdoor Watcher": "output/glassdoor_jobs.json",
+              "ZipRecruiter Watcher": "output/ziprecruiter_jobs.json",
+          }
+
+          path = source_files.get(workflow)
+          if not path:
+              print(f"Unknown source workflow: {workflow}")
               raise SystemExit(0)
 
-          if isinstance(jobs, dict):
-              jobs = jobs.get("jobs", [])
+          try:
+              with open(path, "r", encoding="utf-8") as f:
+                  data = json.load(f)
+          except Exception as e:
+              print(f"Could not read {path}: {e}")
+              raise SystemExit(0)
 
-          # Only consider jobs seen in the most recent run.
-          new_jobs = [
-              j for j in jobs
-              if j.get("new_this_run") is True
-          ]
-
-          print(f"New jobs found: {len(new_jobs)}")
+          new_jobs = data.get("new_jobs", []) if isinstance(data, dict) else []
+          print(f"{workflow}: {len(new_jobs)} new job(s)")
 
           for job in new_jobs[:10]:
               title = job.get("title", "New AI job")
@@ -74,7 +82,7 @@ jobs:
 
               try:
                   urllib.request.urlopen(request, timeout=15).read()
-                  print(f"Sent: {title}")
+                  print(f"Sent: {title} — {company}")
               except Exception as e:
-                  print(f"Notification failed: {e}")
+                  print(f"Notification failed for {title}: {e}")
           PY
