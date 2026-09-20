@@ -2876,35 +2876,35 @@ def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
         return True, "no description available"
 
     ai_title = bool(re.search(
-        r"\\b(ai|artificial intelligence|ml|machine learning|llm|genai|generative ai|rag|nlp|"
-        r"agentic ai|ai agent|intelligent systems)\\b",
+        r"\b(ai|artificial intelligence|ml|machine learning|llm|genai|generative ai|rag|nlp|"
+        r"agentic ai|ai agent|intelligent systems)\b",
         title, re.I,
     ))
     ai_signals = bool(re.search(
-        r"\\b(llm|large language model|genai|generative ai|rag|retrieval[- ]augmented|"
+        r"\b(llm|large language model|genai|generative ai|rag|retrieval[- ]augmented|"
         r"agentic|ai agent|machine learning|deep learning|natural language processing|nlp|"
         r"transformer(s)?|embeddings?|vector database|vector store|langchain|langgraph|"
         r"openai|anthropic|gemini|hugging ?face|pytorch|tensorflow|prompt engineering|"
-        r"model inference|ai api)\\b",
+        r"model inference|ai api)\b",
         desc, re.I,
     ))
     if not ai_title and not ai_signals:
         return False, "no meaningful AI signal in title/description"
 
     hard_senior = re.search(
-        r"\\b(senior|sr\\.?|staff|principal|lead|director|head of|architect|manager)\\b",
+        r"\b(senior|sr\.?|staff|principal|lead|director|head of|architect|manager)\b",
         title, re.I,
     )
     if hard_senior:
         return False, "senior title"
 
     required_senior = re.search(
-        r"(?:must|required|minimum|at least|need(?:s|ed)?)[^.!?\\n]{0,100}\\b"
-        r"(?:3|4|5|6|7|8|9|10|1[1-9])\\+?\\s*(?:years?|yrs?)\\b",
+        r"(?:must|required|minimum|at least|need(?:s|ed)?)[^.!?\n]{0,100}\b"
+        r"(?:3|4|5|6|7|8|9|10|1[1-9])\\+?\s*(?:years?|yrs?)\b",
         desc, re.I,
     )
     explicit_high = re.search(
-        r"\\b(?:5|6|7|8|9|10|1[1-9])\\+?\\s*(?:years?|yrs?)\\b[^.!?\\n]{0,80}"
+        r"\b(?:5|6|7|8|9|10|1[1-9])\\+?\s*(?:years?|yrs?)\b[^.!?\n]{0,80}"
         r"(?:experience|professional|industry|software|engineering)",
         desc, re.I,
     )
