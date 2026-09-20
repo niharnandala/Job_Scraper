@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "output")
-MAX_AGE_DAYS = 3
+MAX_AGE_DAYS = 2
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
 
 AI_RE = re.compile(r"\b(ai|artificial intelligence|machine learning|ml|llm|genai|generative ai|rag|retrieval[- ]augmented|nlp|agentic ai|ai agent|forward deployed|langchain|langgraph|openai|anthropic|gemini|hugging ?face)\b", re.I)
@@ -15,7 +15,22 @@ ROLE_RE = re.compile(r"\b(ai engineer|artificial intelligence engineer|applied a
 TARGET_RE = re.compile(r"\b(india|bengaluru|bangalore|hyderabad|chennai|pune|mumbai|delhi|gurgaon|gurugram|noida|kolkata|ahmedabad|jaipur|kochi|remote\s*\(in\)|remote\s*\(india\))\b", re.I)
 BAD_TITLE_RE = re.compile(r"\b(senior|sr\.?|staff|principal|lead|director|head of|architect|manager)\b", re.I)
 INTERN_RE = re.compile(r"\b(intern|internship|trainee|apprentice|co-?op)\b", re.I)
-HIGH_EXP_RE = re.compile(r"\b(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\s*(?:of\s*)?(?:professional\s*)?(?:experience|exp)?\b", re.I)
+HIGH_EXP_RE = re.compile(
+    r"\b(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\s*(?:of\s*)?"
+    r"(?:professional\s+)?(?:experience|exp)\b",
+    re.I,
+)
+REQUIRED_HIGH_EXP_RE = re.compile(
+    r"(?:must|required|minimum|at least|need(?:s|ed)?|"
+    r"(?:professional|industry|software|engineering|development|work)\s+experience)"
+    r"[^.!?\n]{0,140}\b(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\b",
+    re.I,
+)
+LEADING_HIGH_EXP_RE = re.compile(
+    r"\b(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\s+(?:of\s+)?"
+    r"(?:professional|industry|software|engineering|development|work)\s+experience\b",
+    re.I,
+)
 
 def fetch(url):
     req = Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"})
@@ -50,8 +65,10 @@ def eligible(title, location, card):
     if BAD_TITLE_RE.search(title): return False
     if INTERN_RE.search(title): return False
     if not TARGET_RE.search(location): return False
+    if REQUIRED_HIGH_EXP_RE.search(card) or LEADING_HIGH_EXP_RE.search(card) or HIGH_EXP_RE.search(card):
+        return False
     if not re.search(r"\b(?:0|1|2)\s*(?:\+\s*)?(?:years?|yrs?)\b|\b(?:fresher|entry[- ]level|junior|new grad|graduate)\b", card, re.I):
-        if HIGH_EXP_RE.search(card): return False
+        return False
     if "backend engineer" in title.lower() or "software engineer" in title.lower() or "python engineer" in title.lower():
         return bool(AI_RE.search(card))
     return True
@@ -71,7 +88,7 @@ def extract_wellfound(page_url):
         if not card_text or "apply" not in card_text.lower(): continue
         age_m = re.search(r"\b(?:today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago)\b", card_text, re.I)
         days = age_days(age_m.group(0)) if age_m else None
-        if days is not None and days > MAX_AGE_DAYS: continue
+        if days is None or days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:In office|Remote only|Onsite or remote|Remote)\s*[•·]\s*([^•·]+?)(?=\s+(?:\d+\s+years?|\d+\s+yrs?|today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago|Save|Apply|$))", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
         if not location:
