@@ -78,6 +78,17 @@ jobs:
               f.write(json.dumps(entry, sort_keys=True) + "\n")
           EOF
 
+      - name: Save notification payload
+        run: |
+          mkdir -p ntfy_payload
+          cp "output/indeed_jobs.json" "ntfy_payload/indeed_jobs.json"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ntfy-payload
+          path: ntfy_payload/indeed_jobs.json
+          if-no-files-found: error
+
       - name: Commit results to repo
         if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
