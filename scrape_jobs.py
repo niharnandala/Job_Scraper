@@ -2872,9 +2872,6 @@ def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
     title = str(job.get("title", "") or "")
     desc = str(job.get("description", "") or "")
     text = f"{title} {desc}".lower()
-    if not desc:
-        return True, "no description available"
-
     ai_title = bool(re.search(
         r"\b(ai|artificial intelligence|ml|machine learning|llm|genai|generative ai|rag|nlp|"
         r"agentic ai|ai agent|intelligent systems)\b",
@@ -2882,12 +2879,17 @@ def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
     ))
     ai_signals = bool(re.search(
         r"\b(llm|large language model|genai|generative ai|rag|retrieval[- ]augmented|"
-        r"agentic|ai agent|machine learning|deep learning|natural language processing|nlp|"
-        r"transformer(s)?|embeddings?|vector database|vector store|langchain|langgraph|"
-        r"openai|anthropic|gemini|hugging ?face|pytorch|tensorflow|prompt engineering|"
-        r"model inference|ai api)\b",
+        r"agentic|ai agent|ai[- ]powered|ai application|ai applications|ai system|ai systems|"
+        r"ai model|ai models|ai feature|ai features|machine learning|deep learning|"
+        r"natural language processing|nlp|transformer(s)?|embeddings?|vector database|"
+        r"vector store|langchain|langgraph|openai|anthropic|gemini|hugging ?face|pytorch|"
+        r"tensorflow|prompt engineering|model inference|ai api)\b",
         desc, re.I,
     ))
+    if not desc:
+        if ai_title:
+            return True, "AI-specific title; description unavailable"
+        return False, "generic title with no description"
     if not ai_title and not ai_signals:
         return False, "no meaningful AI signal in title/description"
 
