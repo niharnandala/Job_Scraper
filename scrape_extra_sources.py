@@ -12,7 +12,7 @@ UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.3
 
 AI_RE = re.compile(r"\b(ai|artificial intelligence|machine learning|ml|llm|genai|generative ai|rag|retrieval[- ]augmented|nlp|agentic ai|ai agent|forward deployed|langchain|langgraph|openai|anthropic|gemini|hugging ?face)\b", re.I)
 ROLE_RE = re.compile(r"\b(ai engineer|artificial intelligence engineer|applied ai engineer|llm engineer|genai engineer|generative ai engineer|machine learning engineer|ml engineer|rag engineer|nlp engineer|agentic ai engineer|forward deployed engineer|solutions engineer|deployment engineer|backend engineer|software engineer|python engineer)\b", re.I)
-TARGET_RE = re.compile(r"\b(india|bengaluru|bangalore|hyderabad|chennai|pune|mumbai|delhi|gurgaon|gurugram|noida|kolkata|ahmedabad|jaipur|kochi|remote\s*\(in\)|remote\s*\(india\))\b", re.I)
+TARGET_RE = re.compile(r"\b(india|bengaluru|bangalore|hyderabad|chennai|pune|mumbai|delhi|gurgaon|gurugram|noida|kolkata|ahmedabad|jaipur|kochi|remote|work\s+from\s+home|wfh)\b", re.I)
 BAD_TITLE_RE = re.compile(r"\b(senior|sr\.?|staff|principal|lead|director|head of|architect|manager)\b", re.I)
 INTERN_RE = re.compile(r"\b(intern|internship|trainee|apprentice|co-?op)\b", re.I)
 HIGH_EXP_RE = re.compile(
@@ -132,15 +132,38 @@ def card_for_anchor(a):
             return parent, s
     return a.parent, text(a.parent)
 
+def experience_is_clearly_required_over_two(text):
+    """Reject only when >2 years is clearly mandatory; optional/unknown stays."""
+    if not text:
+        return False
+    optional_re = re.compile(
+        r"\b(preferred|preferable|desired|nice[- ]to[- ]have|good[- ]to[- ]have|"
+        r"plus|bonus|advantage|beneficial|ideal|a\s+plus|would\s+be\s+a\s+plus|"
+        r"would\s+be\s+ideal|encouraged)\b", re.I)
+    required_re = re.compile(
+        r"\b(required|requirement|mandatory|essential|must(?:\s+have)?|minimum|"
+        r"at\s+least|need(?:s|ed)?|should\s+have)\b", re.I)
+    exp_re = re.compile(
+        r"(?P<low>\d+)\s*(?:-|–|—|to)\s*(?P<high>\d+)\s*(?:\+\s*)?(?:years?|yrs?)"
+        r"|(?P<plus>\d+)\s*\+\s*(?:years?|yrs?)"
+        r"|(?P<single>\d+)\s+(?:years?|yrs?)", re.I)
+    for m in exp_re.finditer(text):
+        low = int(m.group("low") or m.group("plus") or m.group("single"))
+        high = int(m.group("high") or m.group("plus") or m.group("single"))
+        if low <= 2 and high <= 2:
+            continue
+        window = text[max(0, m.start()-120):min(len(text), m.end()+120)]
+        if optional_re.search(window):
+            continue
+        if required_re.search(window):
+            return True
+    return False
+
 def eligible(title, location, card):
     if not ROLE_RE.search(title): return False
     if BAD_TITLE_RE.search(title): return False
-    if INTERN_RE.search(title): return False
     if not TARGET_RE.search(location): return False
-    if REQUIRED_HIGH_EXP_RE.search(card) or LEADING_HIGH_EXP_RE.search(card) or HIGH_EXP_RE.search(card):
-        return False
-    if not re.search(r"\b(?:0|1|2)\s*(?:\+\s*)?(?:years?|yrs?)\b|\b(?:fresher|entry[- ]level|junior|new grad|graduate)\b", card, re.I):
-        return False
+    if experience_is_clearly_required_over_two(card): return False
     if "backend engineer" in title.lower() or "software engineer" in title.lower() or "python engineer" in title.lower():
         return bool(AI_RE.search(card))
     return True
@@ -160,7 +183,7 @@ def extract_wellfound(page_url):
         if not card_text or "apply" not in card_text.lower(): continue
         posted_age, date_source = resolve_posting_age(card_text, url)
         days = age_days(posted_age)
-        if days is None or days > MAX_AGE_DAYS: continue
+        if days is not None and days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:In office|Remote only|Onsite or remote|Remote)\s*[•·]\s*([^•·]+?)(?=\s+(?:\d+\s+years?|\d+\s+yrs?|today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago|Save|Apply|$))", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
         if not location:
@@ -175,7 +198,7 @@ def extract_wellfound(page_url):
             company = "Wellfound startup"
         if eligible(title, location, card_text):
             seen.add(url)
-            jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age,"date_source":date_source,"ats":"Wellfound","description":card_text[:8000]})
+            jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age or "unknown","date_source":date_source,"ats":"Wellfound","description":card_text[:8000]})
     return jobs
 
 def wellfound():
@@ -212,7 +235,7 @@ def extract_yc(page_url):
         if not AI_RE.search(card_text): continue
         posted_age, date_source = resolve_posting_age(card_text, url)
         days = age_days(posted_age)
-        if days is None or days > MAX_AGE_DAYS: continue
+        if days is not None and days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:•|·)\s*((?:[^•·]|\([^)]*\))+?)\s+(?:Apply|\$|₹|\d+\s+days?|\d+\s+weeks?|\()", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
         if not location:

@@ -2899,7 +2899,7 @@ def _passes_freshness_filter(job: dict) -> tuple[bool, str]:
     """Accept only jobs posted today, yesterday, or two calendar days ago."""
     raw = str(job.get("date_posted") or "").strip()
     if not raw:
-        return False, "posting date unavailable"
+        return True, "posting date unknown"
     s = raw.lower()
     now = datetime.now(timezone.utc)
     if "today" in s or "just now" in s or "just posted" in s:
@@ -2919,7 +2919,7 @@ def _passes_freshness_filter(job: dict) -> tuple[bool, str]:
         try:
             posted_date = datetime.strptime(raw[:10], "%Y-%m-%d").date()
         except ValueError:
-            return False, "posting date unparseable"
+            return True, "posting date unknown"
     age_days = (now.date() - posted_date).days
     return 0 <= age_days <= 2, f"posted {age_days}d ago"
 
@@ -2929,8 +2929,8 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
     """
-    # Freshness gate: only postings from today, yesterday, or two days ago enter
-    # notifications or the cumulative dashboard. Unknown dates are rejected.
+    # Freshness gate: clearly old postings are rejected. Unknown/unparseable dates stay
+    # visible so missing source metadata never silently loses a potentially good job.
     fresh_jobs = []
     stale_reasons = {}
     for job in jobs:

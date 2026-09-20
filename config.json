@@ -68,10 +68,7 @@
       "lead",
       "manager",
       "director",
-      "architect",
-      "intern",
-      "internship",
-      "trainee"
+      "architect"
     ],
     "fuzzy_seniority": [],
     "fuzzy_domain": [],

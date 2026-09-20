@@ -31,3 +31,23 @@ def test_structured_date_posted_is_used_as_fallback():
 def test_unknown_without_structured_date_stays_unknown():
     from scrape_extra_sources import extract_structured_posting_date
     assert extract_structured_posting_date("<html><body>Apply India</body></html>") is None
+
+
+def test_unknown_posting_age_is_kept_by_source_filter():
+    from scrape_extra_sources import eligible
+    assert eligible("AI Engineer", "India", "AI Engineer Apply India") is True
+
+
+def test_optional_high_experience_is_kept():
+    from scrape_extra_sources import eligible
+    assert eligible("AI Engineer", "India", "3+ years preferred; apply today") is True
+
+
+def test_required_high_experience_is_rejected():
+    from scrape_extra_sources import eligible
+    assert eligible("AI Engineer", "India", "3+ years required") is False
+
+
+def test_internship_is_allowed():
+    from scrape_extra_sources import eligible
+    assert eligible("AI Engineer Intern", "India", "AI internship; apply today") is True
