@@ -1,10 +1,16 @@
 """Test _merge_into_all_jobs — master file merge with field preservation."""
 import json
+from datetime import datetime, timezone
 from scrape_jobs import _merge_into_all_jobs
 
 
 def test_merge_adds_new_jobs(tmp_output_dir, sample_all_jobs):
     """Merging 3 new jobs (2 genuinely new, 1 duplicate) → added == 2."""
+    # These fixtures predate the 30-day master retention window. Refresh first_seen
+    # for this merge test so the duplicate survives pruning.
+    fresh = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    for job in sample_all_jobs["jobs"]:
+        job["first_seen"] = fresh
     # Write the sample to the temp output dir
     path = tmp_output_dir / "all_jobs.json"
     path.write_text(json.dumps(sample_all_jobs, separators=(",", ":")))
