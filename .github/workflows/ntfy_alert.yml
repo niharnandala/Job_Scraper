@@ -15,6 +15,7 @@ on:
       - completed
 
 permissions:
+  actions: read
   contents: read
 
 jobs:
@@ -22,8 +23,13 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Download payload from the exact watcher run
+        uses: actions/download-artifact@v4
+        with:
+          name: ntfy-payload
+          path: ntfy_payload
+          github-token: ${{ github.token }}
+          run-id: ${{ github.event.workflow_run.id }}
       - name: Send new job notifications
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
@@ -33,17 +39,18 @@ jobs:
           import json, os, urllib.request
           topic = os.environ["NTFY_TOPIC"]
           workflow = os.environ["WORKFLOW_NAME"]
-          source_files = {
-              "LinkedIn Watcher": "output/linkedin_jobs.json",
-              "Indeed Watcher": "output/indeed_jobs.json",
-              "Google Jobs Watcher": "output/google_jobs.json",
-              "HiringCafe Watcher": "output/hiringcafe_jobs.json",
-              "Glassdoor Watcher": "output/glassdoor_jobs.json",
-              "ZipRecruiter Watcher": "output/ziprecruiter_jobs.json",
-              "Wellfound Watcher": "output/wellfound_jobs.json",
-              "Y Combinator Watcher": "output/yc_jobs.json",
+          payload_files = {
+              "LinkedIn Watcher": "linkedin_jobs.json",
+              "Indeed Watcher": "indeed_jobs.json",
+              "Google Jobs Watcher": "google_jobs.json",
+              "HiringCafe Watcher": "hiringcafe_jobs.json",
+              "Glassdoor Watcher": "glassdoor_jobs.json",
+              "ZipRecruiter Watcher": "ziprecruiter_jobs.json",
+              "Wellfound Watcher": "wellfound_jobs.json",
+              "Y Combinator Watcher": "yc_jobs.json",
           }
-          path = source_files.get(workflow)
+          filename = payload_files.get(workflow)
+          path = os.path.join("ntfy_payload", filename) if filename else None
           if not path:
               print(f"Unknown source workflow: {workflow}")
               raise SystemExit(0)
