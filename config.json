@@ -1,16 +1,15 @@
 {
   "_README": "India entry-level AI job tracker",
-
   "profile": {
     "title": "India Entry-Level AI Job Radar",
     "subtitle": "AI · LLM · GenAI · Backend · Deployment",
     "emoji": "🤖"
   },
-
   "keywords": {
     "_comment": "Job title must contain at least one include term.",
     "include": [
       "ai engineer",
+      "artificial intelligence engineer",
       "applied ai",
       "llm engineer",
       "genai engineer",
@@ -43,10 +42,11 @@
     "fuzzy_domain": [],
     "fuzzy_exclude": []
   },
-
   "search_terms": {
     "linkedin": [
       "AI Engineer",
+      "Artificial Intelligence Engineer",
+      "Artificial Intelligence",
       "Applied AI Engineer",
       "LLM Engineer",
       "GenAI Engineer",
@@ -107,7 +107,6 @@
       "Software Engineer AI"
     ]
   },
-
   "locations": {
     "linkedin": [
       {
@@ -153,7 +152,6 @@
       }
     }
   },
-
   "location_filter": {
     "terms": [
       "india",
@@ -174,28 +172,23 @@
       "kochi"
     ]
   },
-
   "google_jobs": {
     "queries": [],
     "serpapi_api_key": "",
     "oxylabs_username": "",
     "oxylabs_password": ""
   },
-
   "jobspy": {
     "proxies": [],
     "user_agent": ""
   },
-
   "hiring_cafe": {
     "max_pages": 3
   },
-
   "employers": {
     "priority": [],
     "exclude": []
   },
-
   "priority_topics": {
     "terms": [
       [
@@ -220,7 +213,6 @@
       ]
     ]
   },
-
   "role_categories": {
     "terms": [
       [
@@ -245,7 +237,6 @@
       ]
     ]
   },
-
   "notify": {
     "min_fit": 75,
     "weekly_digest": {
