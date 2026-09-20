@@ -305,32 +305,11 @@ _NON_US_COUNTRY_RE = re.compile(
 )
 
 
-# US state full names (lowercased) — used to override country-match false
-# positives like "New Mexico" (contains "mexico") and "Indiana" (contains
-# "india"). Hardcoded because the 50 state names don't change.
-_US_STATE_NAMES = [
-    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
-    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
-    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
-    "maine", "maryland", "massachusetts", "michigan", "minnesota",
-    "mississippi", "missouri", "montana", "nebraska", "nevada",
-    "new hampshire", "new jersey", "new mexico", "new york",
-    "north carolina", "north dakota", "ohio", "oklahoma", "oregon",
-    "pennsylvania", "rhode island", "south carolina", "south dakota",
-    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
-    "west virginia", "wisconsin", "wyoming",
-]
-
 
 def is_target_location(location: str) -> bool:
     if not location:
         return False
     loc = location.lower()
-    # If a US state full name matches, accept immediately — this handles
-    # "New Mexico" (contains "mexico") and "Indiana" (contains "india")
-    # which would otherwise be rejected by the country check below.
-    if any(state in loc for state in _US_STATE_NAMES):
-        return True
     # Reject non-US countries — prevents ", ca" matching "Canada", etc.
     # Multi-word countries: substring match (safe, distinctive phrases).
     if any(country in loc for country in NON_US_COUNTRIES_MULTI):
