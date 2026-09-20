@@ -2863,6 +2863,57 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     return added
 
 
+def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
+    """Keep AI-relevant, plausibly entry-level roles using the actual JD when available.
+
+    This is intentionally conservative: missing descriptions are not rejected.
+    Seniority is rejected only when the JD clearly states a senior requirement.
+    """
+    title = str(job.get("title", "") or "")
+    desc = str(job.get("description", "") or "")
+    text = f"{title} {desc}".lower()
+    if not desc:
+        return True, "no description available"
+
+    ai_title = bool(re.search(
+        r"\\b(ai|artificial intelligence|ml|machine learning|llm|genai|generative ai|rag|nlp|"
+        r"agentic ai|ai agent|intelligent systems)\\b",
+        title, re.I,
+    ))
+    ai_signals = bool(re.search(
+        r"\\b(llm|large language model|genai|generative ai|rag|retrieval[- ]augmented|"
+        r"agentic|ai agent|machine learning|deep learning|natural language processing|nlp|"
+        r"transformer(s)?|embeddings?|vector database|vector store|langchain|langgraph|"
+        r"openai|anthropic|gemini|hugging ?face|pytorch|tensorflow|prompt engineering|"
+        r"model inference|ai api)\\b",
+        desc, re.I,
+    ))
+    if not ai_title and not ai_signals:
+        return False, "no meaningful AI signal in title/description"
+
+    hard_senior = re.search(
+        r"\\b(senior|sr\\.?|staff|principal|lead|director|head of|architect|manager)\\b",
+        title, re.I,
+    )
+    if hard_senior:
+        return False, "senior title"
+
+    required_senior = re.search(
+        r"(?:must|required|minimum|at least|need(?:s|ed)?)[^.!?\\n]{0,100}\\b"
+        r"(?:3|4|5|6|7|8|9|10|1[1-9])\\+?\\s*(?:years?|yrs?)\\b",
+        desc, re.I,
+    )
+    explicit_high = re.search(
+        r"\\b(?:5|6|7|8|9|10|1[1-9])\\+?\\s*(?:years?|yrs?)\\b[^.!?\\n]{0,80}"
+        r"(?:experience|professional|industry|software|engineering)",
+        desc, re.I,
+    )
+    if required_senior or explicit_high:
+        return False, "experienced-role requirement"
+
+    return True, "AI-relevant and no clear senior requirement"
+
+
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
                      accent: str, empty_message: str, window_label: str):
     """
@@ -2878,6 +2929,22 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         print(f"  🚫 Dropped {before - len(jobs)} excluded role(s)")
     for job in jobs:
         _ensure_work_arrangement(job)
+
+    # Description-aware AI + entry-level gate. If a source does not provide a
+    # description, keep the role rather than silently losing a potentially good job.
+    kept_jobs = []
+    rejected_reasons = {}
+    for job in jobs:
+        ok, reason = _passes_ai_entry_level_filter(job)
+        if ok:
+            kept_jobs.append(job)
+        else:
+            rejected_reasons[reason] = rejected_reasons.get(reason, 0) + 1
+    if len(kept_jobs) < len(jobs):
+        print(f"  🧠 AI/entry-level filter: {len(jobs)} → {len(kept_jobs)} roles")
+        for reason, count in rejected_reasons.items():
+            print(f"     - {reason}: {count}")
+    jobs = kept_jobs
 
     json_path = os.path.join(OUTPUT_DIR, f"{basename}.json")
     md_path = os.path.join(OUTPUT_DIR, f"{basename}.md")
