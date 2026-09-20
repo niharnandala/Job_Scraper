@@ -29,6 +29,17 @@ jobs:
           with open("output/workflow_runs.jsonl","a",encoding="utf-8") as f:
             f.write(json.dumps({"workflow":"wellfound","timestamp":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),"job_count":int(d.get("total",0)),"run_id":os.environ.get("GITHUB_RUN_ID","")})+"\n")
           EOF
+      - name: Save notification payload
+        run: |
+          mkdir -p ntfy_payload
+          cp "output/wellfound_jobs.json" "ntfy_payload/wellfound_jobs.json"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ntfy-payload
+          path: ntfy_payload/wellfound_jobs.json
+          if-no-files-found: error
+
       - name: Commit results
         run: |
           git config user.name "$GITHUB_ACTOR"
