@@ -16,6 +16,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
       - name: Scrape Y Combinator
         run: python scrape_extra_sources.py yc
       - name: Record workflow run
