@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-20 01:21 UTC*
+*Last updated: 2026-09-20 06:22 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
