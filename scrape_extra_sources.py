@@ -140,7 +140,7 @@ def extract_yc(page_url):
         if not AI_RE.search(card_text): continue
         age_m = re.search(r"\b(?:today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago)\b", card_text, re.I)
         days = age_days(age_m.group(0)) if age_m else None
-        if days is not None and days > MAX_AGE_DAYS: continue
+        if days is None or days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:•|·)\s*((?:[^•·]|\([^)]*\))+?)\s+(?:Apply|\$|₹|\d+\s+days?|\d+\s+weeks?|\()", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
         if not location:
