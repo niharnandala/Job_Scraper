@@ -61,7 +61,7 @@ jobs:
           new_jobs = data.get("new_jobs", []) if isinstance(data, dict) else []
           print(f"{workflow}: {len(new_jobs)} new job(s)")
 
-          for job in new_jobs[:10]:
+          for job in new_jobs:
               title = job.get("title", "New AI job")
               company = job.get("company", "Unknown company")
               location = job.get("location", "India")
