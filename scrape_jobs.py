@@ -2916,12 +2916,56 @@ def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
     return True, "AI-relevant and no clear senior requirement"
 
 
+def _passes_freshness_filter(job: dict) -> tuple[bool, str]:
+    """Accept only jobs posted today, yesterday, or two calendar days ago."""
+    raw = str(job.get("date_posted") or "").strip()
+    if not raw:
+        return False, "posting date unavailable"
+    s = raw.lower()
+    now = datetime.now(timezone.utc)
+    if "today" in s or "just now" in s or "just posted" in s:
+        return True, "posted today"
+    if "yesterday" in s:
+        return True, "posted yesterday"
+    m = re.search(r"\b(\d+)\s*(hour|day)s?\s*ago\b", s)
+    if m:
+        age = int(m.group(1))
+        if m.group(2).startswith("hour"):
+            return age <= 48, f"posted {age}h ago"
+        return age <= 2, f"posted {age}d ago"
+    try:
+        parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        posted_date = parsed.date()
+    except ValueError:
+        try:
+            posted_date = datetime.strptime(raw[:10], "%Y-%m-%d").date()
+        except ValueError:
+            return False, "posting date unparseable"
+    age_days = (now.date() - posted_date).days
+    return 0 <= age_days <= 2, f"posted {age_days}d ago"
+
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
                      accent: str, empty_message: str, window_label: str):
     """
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
     """
+    # Freshness gate: only postings from today, yesterday, or two days ago enter
+    # notifications or the cumulative dashboard. Unknown dates are rejected.
+    fresh_jobs = []
+    stale_reasons = {}
+    for job in jobs:
+        ok, reason = _passes_freshness_filter(job)
+        if ok:
+            fresh_jobs.append(job)
+        else:
+            stale_reasons[reason] = stale_reasons.get(reason, 0) + 1
+    if len(fresh_jobs) < len(jobs):
+        print(f"  🕒 Freshness filter: {len(jobs)} → {len(fresh_jobs)} roles")
+        for reason, count in stale_reasons.items():
+            print(f"     - {reason}: {count}")
+    jobs = fresh_jobs
+
     # Single chokepoint for the company exclusion: every source (LinkedIn,
     # Indeed, priority, CalCareers) funnels through here, so dropping excluded
     # companies once keeps all digests AND all_jobs.json clean.
