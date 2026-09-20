@@ -150,7 +150,7 @@ def experience_is_clearly_required_over_two(text):
     for m in exp_re.finditer(text):
         low = int(m.group("low") or m.group("plus") or m.group("single"))
         high = int(m.group("high") or m.group("plus") or m.group("single"))
-        if low <= 2:
+        if low <= 2 and high <= 2:
             continue
         window = text[max(0, m.start()-120):min(len(text), m.end()+120)]
         if optional_re.search(window):
