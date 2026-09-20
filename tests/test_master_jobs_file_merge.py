@@ -34,6 +34,7 @@ def test_merge_adds_new_jobs(tmp_output_dir, sample_all_jobs):
 
 def test_preserves_existing_fields_on_duplicate(tmp_output_dir, sample_all_jobs):
     """Existing downstream fields (bookmarked, notes) must be preserved when merging a duplicate."""
+    sample_all_jobs["jobs"][0]["first_seen"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     path = tmp_output_dir / "all_jobs.json"
     path.write_text(json.dumps(sample_all_jobs, separators=(",", ":")))
 
@@ -53,6 +54,7 @@ def test_preserves_existing_fields_on_duplicate(tmp_output_dir, sample_all_jobs)
 
 def test_preserves_false_tag_on_duplicate(tmp_output_dir, sample_all_jobs):
     """Existing false-valued downstream fields must be preserved when merging a duplicate."""
+    sample_all_jobs["jobs"][7]["first_seen"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     path = tmp_output_dir / "all_jobs.json"
     path.write_text(json.dumps(sample_all_jobs, separators=(",", ":")))
 
