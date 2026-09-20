@@ -2901,13 +2901,13 @@ def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
         return False, "senior title"
 
     required_senior = re.search(
-        r"(?:must|required|minimum|at least|need(?:s|ed)?)[^.!?\n]{0,100}\b"
-        r"(?:3|4|5|6|7|8|9|10|1[1-9])\\+?\s*(?:years?|yrs?)\b",
+        r"(?:must|required|minimum|at least|need(?:s|ed)?)[^.!?\n]{0,140}\b"
+        r"(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\b",
         desc, re.I,
     )
     explicit_high = re.search(
-        r"\b(?:5|6|7|8|9|10|1[1-9])\\+?\s*(?:years?|yrs?)\b[^.!?\n]{0,80}"
-        r"(?:experience|professional|industry|software|engineering)",
+        r"\b(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\s+(?:of\s+)?"
+        r"(?:professional|industry|software|engineering|development|work)\s+experience\b",
         desc, re.I,
     )
     if required_senior or explicit_high:
