@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-20 14:39 UTC",
+  "scraped_at": "2026-09-20 18:10 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wellfound startup",
@@ -12,20 +12,8 @@
       "posted_age": "2 days ago",
       "date_source": "structured",
       "ats": "Wellfound",
-      "description": "AI Engineer Full-time ₹30L – ₹55L In office • Bengaluru 4 years of exp 2 days ago 2 days ago Save Apply"
+      "description": "AI Engineer Full-time ₹30L – ₹55L In office • Bengaluru 4 years of exp 1 day ago 1 day ago Save Apply"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "AI Engineer",
-      "location": "Bengaluru",
-      "url": "https://wellfound.com/jobs/4733661-ai-engineer",
-      "date_posted": "2026-09-18",
-      "posted_age": "2 days ago",
-      "date_source": "structured",
-      "ats": "Wellfound",
-      "description": "AI Engineer Full-time ₹30L – ₹55L In office • Bengaluru 4 years of exp 2 days ago 2 days ago Save Apply"
-    }
-  ]
+  "new_jobs": []
 }
