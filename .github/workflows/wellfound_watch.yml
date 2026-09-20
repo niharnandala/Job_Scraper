@@ -1,0 +1,37 @@
+name: Wellfound Watcher
+on:
+  schedule:
+    - cron: "02 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Scrape Wellfound
+        run: python scrape_extra_sources.py wellfound
+      - name: Record workflow run
+        run: |
+          python - <<'EOF'
+          import json, os
+          from datetime import datetime, timezone
+          with open("output/wellfound_jobs.json", encoding="utf-8") as f: d=json.load(f)
+          with open("output/workflow_runs.jsonl","a",encoding="utf-8") as f:
+            f.write(json.dumps({"workflow":"wellfound","timestamp":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),"job_count":int(d.get("total",0)),"run_id":os.environ.get("GITHUB_RUN_ID","")})+"\n")
+          EOF
+      - name: Commit results
+        run: |
+          git config user.name "$GITHUB_ACTOR"
+          git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add -f output/wellfound_jobs.json output/all_jobs.json output/workflow_runs.jsonl
+          git diff --cached --quiet || git commit -m "chore: update Wellfound jobs"
+          git pull --rebase -X ours origin main
+          git push
