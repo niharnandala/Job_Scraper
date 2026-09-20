@@ -9,6 +9,8 @@ on:
       - HiringCafe Watcher
       - Glassdoor Watcher
       - ZipRecruiter Watcher
+      - Wellfound Watcher
+      - Y Combinator Watcher
     types:
       - completed
 
@@ -19,24 +21,18 @@ jobs:
   notify:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Send new job notifications
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           WORKFLOW_NAME: ${{ github.event.workflow_run.name }}
         run: |
           python - <<'PY'
-          import json
-          import os
-          import urllib.request
-
+          import json, os, urllib.request
           topic = os.environ["NTFY_TOPIC"]
           workflow = os.environ["WORKFLOW_NAME"]
-
           source_files = {
               "LinkedIn Watcher": "output/linkedin_jobs.json",
               "Indeed Watcher": "output/indeed_jobs.json",
@@ -44,42 +40,32 @@ jobs:
               "HiringCafe Watcher": "output/hiringcafe_jobs.json",
               "Glassdoor Watcher": "output/glassdoor_jobs.json",
               "ZipRecruiter Watcher": "output/ziprecruiter_jobs.json",
+              "Wellfound Watcher": "output/wellfound_jobs.json",
+              "Y Combinator Watcher": "output/yc_jobs.json",
           }
-
           path = source_files.get(workflow)
           if not path:
               print(f"Unknown source workflow: {workflow}")
               raise SystemExit(0)
-
           try:
-              with open(path, "r", encoding="utf-8") as f:
-                  data = json.load(f)
+              with open(path, encoding="utf-8") as f: data = json.load(f)
           except Exception as e:
               print(f"Could not read {path}: {e}")
               raise SystemExit(0)
-
           new_jobs = data.get("new_jobs", []) if isinstance(data, dict) else []
           print(f"{workflow}: {len(new_jobs)} new job(s)")
-
           for job in new_jobs:
               title = job.get("title", "New AI job")
               company = job.get("company", "Unknown company")
               location = job.get("location", "India")
               url = job.get("url", "")
-
               message = f"{title}\n{company}\n{location}\n{url}"
-
               request = urllib.request.Request(
                   f"https://ntfy.sh/{topic}",
                   data=message.encode("utf-8"),
-                  headers={
-                      "Title": "New AI Job",
-                      "Priority": "high",
-                      "Tags": "briefcase",
-                  },
+                  headers={"Title":"New AI Job","Priority":"high","Tags":"briefcase"},
                   method="POST",
               )
-
               try:
                   urllib.request.urlopen(request, timeout=15).read()
                   print(f"Sent: {title} — {company}")
