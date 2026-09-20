@@ -295,7 +295,7 @@ NON_US_COUNTRIES_SINGLE = [
     "canada", "australia", "uk", "england", "scotland",
     "wales", "ireland", "germany", "france", "netherlands", "switzerland",
     "sweden", "norway", "denmark", "finland", "spain", "portugal", "italy",
-    "india", "singapore", "japan", "china", "brazil",
+    "singapore", "japan", "china", "brazil",
     "mexico", "argentina", "belgium",
     "austria", "poland", "czech", "romania", "hungary", "israel",
     "qatar", "egypt",
