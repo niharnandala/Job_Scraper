@@ -40,7 +40,19 @@ def fetch(url):
 def text(node):
     return " ".join(node.stripped_strings)
 
+def extract_posting_age(card_text):
+    """Extract posting age only when it follows an explicit posting label."""
+    m = re.search(
+        r"\b(?:posted|published|listed)\s*:?[\s-]*"
+        r"(today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago)\b",
+        card_text,
+        re.I,
+    )
+    return m.group(1) if m else None
+
 def age_days(s):
+    if not s:
+        return None
     s = s.lower()
     if "today" in s or "just now" in s: return 0
     if "yesterday" in s: return 1
@@ -86,8 +98,8 @@ def extract_wellfound(page_url):
         if not title or len(title) > 180: continue
         card, card_text = card_for_anchor(a)
         if not card_text or "apply" not in card_text.lower(): continue
-        age_m = re.search(r"\b(?:today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago)\b", card_text, re.I)
-        days = age_days(age_m.group(0)) if age_m else None
+        posted_age = extract_posting_age(card_text)
+        days = age_days(posted_age)
         if days is None or days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:In office|Remote only|Onsite or remote|Remote)\s*[•·]\s*([^•·]+?)(?=\s+(?:\d+\s+years?|\d+\s+yrs?|today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago|Save|Apply|$))", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
@@ -103,7 +115,7 @@ def extract_wellfound(page_url):
             company = "Wellfound startup"
         if eligible(title, location, card_text):
             seen.add(url)
-            jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"ats":"Wellfound","description":card_text[:8000]})
+            jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age,"ats":"Wellfound","description":card_text[:8000]})
     return jobs
 
 def wellfound():
@@ -138,8 +150,8 @@ def extract_yc(page_url):
         card, card_text = card_for_anchor(a)
         if not card_text or "apply" not in card_text.lower(): continue
         if not AI_RE.search(card_text): continue
-        age_m = re.search(r"\b(?:today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago)\b", card_text, re.I)
-        days = age_days(age_m.group(0)) if age_m else None
+        posted_age = extract_posting_age(card_text)
+        days = age_days(posted_age)
         if days is None or days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:•|·)\s*((?:[^•·]|\([^)]*\))+?)\s+(?:Apply|\$|₹|\d+\s+days?|\d+\s+weeks?|\()", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
@@ -160,7 +172,7 @@ def extract_yc(page_url):
         if not company:
             company = "YC startup"
         seen.add(url)
-        jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":age_m.group(0) if age_m else "unknown","ats":"Y Combinator","description":card_text[:8000]})
+        jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age or "unknown","ats":"Y Combinator","description":card_text[:8000]})
     return jobs
 
 def yc():
