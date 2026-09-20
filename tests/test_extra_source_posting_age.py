@@ -20,3 +20,14 @@ def test_does_not_use_unrelated_today_text():
 def test_unknown_posting_age_is_rejected():
     assert extract_posting_age("Data & Machine Learning Engineer Apply India") is None
     assert age_days(None) is None
+
+
+def test_structured_date_posted_is_used_as_fallback():
+    from scrape_extra_sources import extract_structured_posting_date
+    html = '<script type="application/ld+json">{"@type":"JobPosting","datePosted":"2026-09-20T08:00:00Z"}</script>'
+    assert extract_structured_posting_date(html) == "2026-09-20T08:00:00Z"
+
+
+def test_unknown_without_structured_date_stays_unknown():
+    from scrape_extra_sources import extract_structured_posting_date
+    assert extract_structured_posting_date("<html><body>Apply India</body></html>") is None
