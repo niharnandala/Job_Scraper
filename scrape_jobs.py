@@ -2842,57 +2842,62 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     return added
 
 
-def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
-    """Keep AI-relevant, plausibly entry-level roles using the actual JD when available.
+def _experience_is_clearly_required_over_two(text: str) -> bool:
+    """Reject only when the JD clearly requires more than two years.
 
-    This is intentionally conservative: missing descriptions are not rejected.
-    Seniority is rejected only when the JD clearly states a senior requirement.
+    Optional/preferred experience and ambiguous wording are intentionally kept.
     """
+    if not text:
+        return False
+    optional_re = re.compile(
+        r"\b(preferred|preferable|desired|nice[- ]to[- ]have|good[- ]to[- ]have|"
+        r"plus|bonus|advantage|beneficial|ideal|a\s+plus|would\s+be\s+a\s+plus|"
+        r"would\s+be\s+ideal|encouraged)\b", re.I)
+    required_re = re.compile(
+        r"\b(required|requirement|mandatory|essential|must(?:\s+have)?|minimum|"
+        r"at\s+least|need(?:s|ed)?|should\s+have)\b", re.I)
+    exp_re = re.compile(
+        r"(?P<low>\d+)\s*(?:-|–|—|to)\s*(?P<high>\d+)\s*(?:\+\s*)?(?:years?|yrs?)"
+        r"|(?P<plus>\d+)\s*\+\s*(?:years?|yrs?)"
+        r"|(?P<single>\d+)\s+(?:years?|yrs?)", re.I)
+    for m in exp_re.finditer(text):
+        low = int(m.group("low") or m.group("plus") or m.group("single"))
+        high = int(m.group("high") or m.group("plus") or m.group("single"))
+        if low <= 2 and high <= 2:
+            continue
+        window = text[max(0, m.start()-120):min(len(text), m.end()+120)]
+        if optional_re.search(window):
+            continue
+        if required_re.search(window):
+            return True
+    return False
+
+
+def _passes_ai_entry_level_filter(job: dict) -> tuple[bool, str]:
+    """Keep AI-relevant roles; reject only clearly senior/over-2-year requirements."""
     title = str(job.get("title", "") or "")
     desc = str(job.get("description", "") or "")
-    text = f"{title} {desc}".lower()
     ai_title = bool(re.search(
         r"\b(ai|artificial intelligence|ml|machine learning|llm|genai|generative ai|rag|nlp|"
-        r"agentic ai|ai agent|intelligent systems)\b",
-        title, re.I,
-    ))
+        r"agentic ai|ai agent|intelligent systems)\b", title, re.I))
     ai_signals = bool(re.search(
         r"\b(llm|large language model|genai|generative ai|rag|retrieval[- ]augmented|"
         r"agentic|ai agent|ai[- ]powered|ai application|ai applications|ai system|ai systems|"
         r"ai model|ai models|ai feature|ai features|machine learning|deep learning|"
         r"natural language processing|nlp|transformer(s)?|embeddings?|vector database|"
-        r"vector store|langchain|langgraph|openai|anthropic|gemini|hugging ?face|pytorch|"
-        r"tensorflow|prompt engineering|model inference|ai api)\b",
-        desc, re.I,
-    ))
+        r"vector store|langchain|langgraph|openai|anthropic|gemini|hugging ? face|pytorch|"
+        r"tensorflow|prompt engineering|model inference|ai api)\b", desc, re.I))
     if not desc:
         if ai_title:
             return True, "AI-specific title; description unavailable"
         return False, "generic title with no description"
     if not ai_title and not ai_signals:
         return False, "no meaningful AI signal in title/description"
-
-    hard_senior = re.search(
-        r"\b(senior|sr\.?|staff|principal|lead|director|head of|architect|manager)\b",
-        title, re.I,
-    )
-    if hard_senior:
+    if re.search(r"\b(senior|sr\.?|staff|principal|lead|director|head of|architect|manager)\b", title, re.I):
         return False, "senior title"
-
-    required_senior = re.search(
-        r"(?:must|required|minimum|at least|need(?:s|ed)?)[^.!?\n]{0,140}\b"
-        r"(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\b",
-        desc, re.I,
-    )
-    explicit_high = re.search(
-        r"\b(?:3|4|5|6|7|8|9|10|1[1-9])\+?\s*(?:years?|yrs?)\s+(?:of\s+)?"
-        r"(?:professional|industry|software|engineering|development|work)\s+experience\b",
-        desc, re.I,
-    )
-    if required_senior or explicit_high:
-        return False, "experienced-role requirement"
-
-    return True, "AI-relevant and no clear senior requirement"
+    if _experience_is_clearly_required_over_two(desc):
+        return False, "clearly required >2 years"
+    return True, "AI-relevant and no clear >2-year requirement"
 
 
 def _passes_freshness_filter(job: dict) -> tuple[bool, str]:
