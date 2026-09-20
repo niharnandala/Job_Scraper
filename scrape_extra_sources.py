@@ -35,7 +35,7 @@ def age_days(s):
     return n/24 if unit == "hour" else n if unit == "day" else n*7 if unit == "week" else n*30
 
 def posted_date(days):
-    if days is None: return datetime.now(timezone.utc).date().isoformat()
+    if days is None: return ""
     return (datetime.now(timezone.utc) - timedelta(days=days)).date().isoformat()
 
 def card_for_anchor(a):
@@ -121,6 +121,9 @@ def extract_yc(page_url):
         card, card_text = card_for_anchor(a)
         if not card_text or "apply" not in card_text.lower(): continue
         if not AI_RE.search(card_text): continue
+        age_m = re.search(r"\b(?:today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago)\b", card_text, re.I)
+        days = age_days(age_m.group(0)) if age_m else None
+        if days is not None and days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:•|·)\s*((?:[^•·]|\([^)]*\))+?)\s+(?:Apply|\$|₹|\d+\s+days?|\d+\s+weeks?|\()", card_text, re.I)
         location = loc_m.group(1).strip() if loc_m else ""
         if not location:
@@ -131,8 +134,16 @@ def extract_yc(page_url):
         if re.search(r"Remote \(US\)|\bUS\b", location, re.I) and not re.search(r"India|\bIN\b|Remote \(IN\)", location, re.I):
             continue
         if not eligible(title, location, card_text): continue
+        company = ""
+        for ca in card.select('a[href^="/companies/"]'):
+            candidate = ca.get_text(" ", strip=True)
+            if candidate and candidate.lower() not in {"jobs", "apply", "view jobs"} and candidate.lower() != title.lower():
+                company = candidate
+                break
+        if not company:
+            company = "YC startup"
         seen.add(url)
-        jobs.append({"company":"YC startup","title":title,"location":location,"url":url,"date_posted":datetime.now(timezone.utc).date().isoformat(),"ats":"Y Combinator","description":card_text[:8000]})
+        jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":age_m.group(0) if age_m else "unknown","ats":"Y Combinator","description":card_text[:8000]})
     return jobs
 
 def yc():
@@ -153,44 +164,61 @@ def yc():
 
 def merge(source, jobs):
     path = os.path.join(OUT, f"{source}_jobs.json")
-    old_jobs = []
-    if os.path.exists(path):
-        try: old_jobs = json.load(open(path, encoding="utf-8")).get("jobs", [])
-        except Exception: pass
-    old_ids = {j.get("url") for j in old_jobs if j.get("url")}
+    seen_path = os.path.join(OUT, f".{source}_seen_urls.json")
+    try:
+        seen_urls = set(json.load(open(seen_path, encoding="utf-8")))
+    except Exception:
+        seen_urls = set()
     unique = {}
-    for j in jobs: unique[j.get("url")] = j
-    new_jobs = [j for j in jobs if j.get("url") not in old_ids]
-    data = {"scraped_at":datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"total":len(unique),"new_count":len(new_jobs),"jobs":list(unique.values()),"new_jobs":new_jobs}
+    for j in jobs:
+        if j.get("url"):
+            unique[j["url"]] = j
+    jobs = list(unique.values())
+    new_jobs = [j for j in jobs if j.get("url") not in seen_urls]
+    seen_urls.update(j.get("url") for j in jobs if j.get("url"))
+    with open(seen_path, "w", encoding="utf-8") as f:
+        json.dump(sorted(seen_urls), f, ensure_ascii=False)
+    data = {"scraped_at":datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"total":len(jobs),"new_count":len(new_jobs),"jobs":jobs,"new_jobs":new_jobs}
     with open(path,"w",encoding="utf-8") as f: json.dump(data,f,indent=2,ensure_ascii=False)
     return new_jobs
 
-def update_master(source_names, new_jobs):
+def update_master(source_names):
     path=os.path.join(OUT,"all_jobs.json")
     try: data=json.load(open(path,encoding="utf-8"))
     except Exception: data={"updated_at":"","jobs":[]}
     existing=[j for j in data.get("jobs",[]) if j.get("ats") not in source_names]
-    seen={j.get("url") for j in existing if j.get("url")}
-    for j in new_jobs:
-        if j.get("url") not in seen:
-            j=dict(j); j["first_seen"]=datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            existing.append(j); seen.add(j.get("url"))
+    old_first_seen={j.get("url"):j.get("first_seen") for j in data.get("jobs",[]) if j.get("ats") in source_names and j.get("url")}
+    rebuilt=[]
+    for source in ("wellfound","yc"):
+        spath=os.path.join(OUT,f"{source}_jobs.json")
+        try: source_jobs=json.load(open(spath,encoding="utf-8")).get("jobs",[])
+        except Exception: source_jobs=[]
+        for j in source_jobs:
+            j=dict(j)
+            j["first_seen"]=old_first_seen.get(j.get("url"),datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
+            rebuilt.append(j)
+    by_url={}
+    for j in existing+rebuilt:
+        if j.get("url"): by_url[j["url"]]=j
     cutoff=datetime.now(timezone.utc)-timedelta(days=30)
     kept=[]
-    for j in existing:
+    for j in by_url.values():
         try:
-            if datetime.fromisoformat(str(j.get("first_seen","")).replace("Z","+00:00")) >= cutoff: kept.append(j)
+            if datetime.fromisoformat(str(j.get("first_seen","")).replace("Z","+00:00"))>=cutoff: kept.append(j)
         except Exception: kept.append(j)
     with open(path,"w",encoding="utf-8") as f:
         json.dump({"updated_at":datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),"jobs":kept},f,ensure_ascii=False)
 
 if __name__ == "__main__":
     import sys
-    source = sys.argv[1] if len(sys.argv) > 1 else "all"
-    if source == "wellfound":
-        jobs = wellfound(); new = merge("wellfound", jobs); update_master({"Wellfound","Y Combinator"}, new)
-    elif source == "yc":
-        jobs = yc(); new = merge("yc", jobs); update_master({"Wellfound","Y Combinator"}, new)
+    source=sys.argv[1] if len(sys.argv)>1 else "all"
+    if source=="wellfound":
+        jobs=wellfound(); new=merge("wellfound",jobs); update_master({"Wellfound","Y Combinator"})
+    elif source=="yc":
+        jobs=yc(); new=merge("yc",jobs); update_master({"Wellfound","Y Combinator"})
     else:
-        jobs = wellfound() + yc(); new = merge("extra", jobs); update_master({"Wellfound","Y Combinator"}, new)
+        wf_jobs=wellfound(); yc_jobs=yc()
+        new=merge("wellfound",wf_jobs)+merge("yc",yc_jobs)
+        update_master({"Wellfound","Y Combinator"})
+        jobs=wf_jobs+yc_jobs
     print(f"{source}: {len(jobs)} eligible, {len(new)} new")
