@@ -61,6 +61,66 @@ def age_days(s):
     n, unit = int(m.group(1)), m.group(2)
     return n/24 if unit == "hour" else n if unit == "day" else n*7 if unit == "week" else n*30
 
+def date_posted_days(value):
+    """Convert a structured datePosted value into an age in days."""
+    if not value:
+        return None
+    value = str(value).strip()
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        try:
+            parsed = datetime.strptime(value[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            return None
+    return max(0, (datetime.now(timezone.utc) - parsed.astimezone(timezone.utc)).total_seconds() / 86400)
+
+def extract_structured_posting_date(raw_html):
+    """Read datePosted from JSON-LD/meta when the visible card has no posting age."""
+    soup = BeautifulSoup(raw_html, "html.parser")
+    for script in soup.select('script[type="application/ld+json"]'):
+        try:
+            payload = json.loads(script.string or script.get_text())
+        except (TypeError, ValueError):
+            continue
+        records = payload if isinstance(payload, list) else [payload]
+        stack = list(records)
+        while stack:
+            item = stack.pop()
+            if not isinstance(item, dict):
+                continue
+            if item.get("datePosted"):
+                return str(item["datePosted"])
+            stack.extend(v for v in item.values() if isinstance(v, (dict, list)))
+    for attrs in (
+        {"name": "datePosted"},
+        {"property": "article:published_time"},
+        {"itemprop": "datePosted"},
+    ):
+        node = soup.find("meta", attrs=attrs)
+        if node and node.get("content"):
+            return node["content"]
+    return None
+
+def resolve_posting_age(card_text, job_url):
+    """Use visible posting age first, then structured date metadata on the job page."""
+    visible = extract_posting_age(card_text)
+    if visible:
+        return visible, "visible"
+    try:
+        structured = extract_structured_posting_date(fetch(job_url))
+    except Exception:
+        structured = None
+    if structured:
+        days = date_posted_days(structured)
+        if days is not None:
+            if days < 1:
+                return "today", "structured"
+            if days < 2:
+                return "1 day ago", "structured"
+            return f"{int(days)} days ago", "structured"
+    return None, "unknown"
+
 def posted_date(days):
     if days is None: return ""
     return (datetime.now(timezone.utc) - timedelta(days=days)).date().isoformat()
@@ -98,7 +158,7 @@ def extract_wellfound(page_url):
         if not title or len(title) > 180: continue
         card, card_text = card_for_anchor(a)
         if not card_text or "apply" not in card_text.lower(): continue
-        posted_age = extract_posting_age(card_text)
+        posted_age, date_source = resolve_posting_age(card_text, url)
         days = age_days(posted_age)
         if days is None or days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:In office|Remote only|Onsite or remote|Remote)\s*[•·]\s*([^•·]+?)(?=\s+(?:\d+\s+years?|\d+\s+yrs?|today|yesterday|\d+\s+(?:hour|day|week|month)s?\s+ago|Save|Apply|$))", card_text, re.I)
@@ -115,7 +175,7 @@ def extract_wellfound(page_url):
             company = "Wellfound startup"
         if eligible(title, location, card_text):
             seen.add(url)
-            jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age,"ats":"Wellfound","description":card_text[:8000]})
+            jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age,"date_source":date_source,"ats":"Wellfound","description":card_text[:8000]})
     return jobs
 
 def wellfound():
@@ -150,7 +210,7 @@ def extract_yc(page_url):
         card, card_text = card_for_anchor(a)
         if not card_text or "apply" not in card_text.lower(): continue
         if not AI_RE.search(card_text): continue
-        posted_age = extract_posting_age(card_text)
+        posted_age, date_source = resolve_posting_age(card_text, url)
         days = age_days(posted_age)
         if days is None or days > MAX_AGE_DAYS: continue
         loc_m = re.search(r"(?:•|·)\s*((?:[^•·]|\([^)]*\))+?)\s+(?:Apply|\$|₹|\d+\s+days?|\d+\s+weeks?|\()", card_text, re.I)
@@ -172,7 +232,7 @@ def extract_yc(page_url):
         if not company:
             company = "YC startup"
         seen.add(url)
-        jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age or "unknown","ats":"Y Combinator","description":card_text[:8000]})
+        jobs.append({"company":company,"title":title,"location":location,"url":url,"date_posted":posted_date(days),"posted_age":posted_age or "unknown","date_source":date_source,"ats":"Y Combinator","description":card_text[:8000]})
     return jobs
 
 def yc():
