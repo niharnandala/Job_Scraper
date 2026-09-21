@@ -1,38 +1,67 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-21 01:15 UTC*
+*Last updated: 2026-09-21 06:36 UTC*
 
-**8 new role(s)** since last run · 8 total in last 2h
+**15 new role(s)** since last run · 15 total in last 2h
 
-### [Agentic AI Developer](https://www.linkedin.com/jobs/view/4468470829/) — Jobgether
-- 📍 **Location:** India
+### [AI Engineer](https://www.linkedin.com/jobs/view/4468711365/) — AU SMALL FINANCE BANK
+- 📍 **Location:** Navi Mumbai, Maharashtra, India
 - 🕒 **Posted:** 2026-09-21
 
-### [RAG Engineers + AI Developers](https://www.linkedin.com/jobs/view/4468471799/) — Jobgether
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-21
-
-### [Python & AI Developers](https://www.linkedin.com/jobs/view/4468477730/) — Jobgether
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469816920/) — FetchJobs.co
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer — AI Code Ranking](https://www.linkedin.com/jobs/view/4469818914/) — Alignerr
+### [AI Engineer (Specialized AI & Agentic Systems) - PAN India](https://www.linkedin.com/jobs/view/4467346979/) — Impetus Career Consultants
 - 📍 **Location:** Bengaluru, Karnataka, India
-- 💰 **Salary:** $50.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-09-21
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469821888/) — Alignerr
-- 📍 **Location:** Mumbai, Maharashtra, India
-- 💰 **Salary:** $50.00/hr - $70.00/hr
+### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4468492558/) — Talentgigs
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-21
 
-### [GenAI/LLM Engineer](https://www.linkedin.com/jobs/view/4468486716/) — Jobgether
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4467367110/) — Shunya Labs
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-09-21
+
+### [AI Engineer - Cloud & MLops](https://www.linkedin.com/jobs/view/4468499336/) — Talentgigs
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-21
+
+### [AI Engineer – Physical AI & Swarm UAVs](https://www.linkedin.com/jobs/view/4468496444/) — Amber Wings Co
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-21
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469831842/) — HRM Counsel
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-21
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4468490264/) — Varpas Concepts
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4468711348/) — F6IT Fintech & IT Solutions
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer II (iOS)](https://www.linkedin.com/jobs/view/4467348909/) — Shaadi.com
+- 📍 **Location:** Mumbai, Maharashtra, India
+- 🕒 **Posted:** 2026-09-21
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4469846259/) — AfterQuery Experts
 - 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-20
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-09-21
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4469842361/) — AfterQuery Experts
+- 📍 **Location:** Hyderabad, Telangana, India
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-09-21
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4469847248/) — AfterQuery Experts
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-09-21
+
+### [SOFTWARE ENGINEER - Python](https://www.linkedin.com/jobs/view/4469836721/) — Happiest Minds Technologies
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-21
+
+### [AI ML Engineer](https://www.linkedin.com/jobs/view/4468711406/) — VentraGate
+- 📍 **Location:** Coimbatore, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-21
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4468701549/) — Haloocom
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-21
