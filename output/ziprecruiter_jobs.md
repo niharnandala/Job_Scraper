@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-21 17:40 UTC*
+*Last updated: 2026-09-21 21:34 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
