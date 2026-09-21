@@ -3891,3 +3891,4 @@
 {"workflow": "yc", "timestamp": "2026-09-21T04:49:52Z", "job_count": 0, "run_id": "35562354306"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35564834847", "timestamp": "2026-09-21T05:31:32Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35565848005", "timestamp": "2026-09-21T05:47:21Z", "workflow": "ziprecruiter"}
+{"workflow": "wellfound", "timestamp": "2026-09-21T06:09:32Z", "job_count": 1, "run_id": "35567145586"}

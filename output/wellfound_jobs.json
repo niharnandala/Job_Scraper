@@ -1,19 +1,31 @@
 {
-  "scraped_at": "2026-09-21 00:07 UTC",
+  "scraped_at": "2026-09-21 06:09 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Wellfound startup",
-      "title": "AI Engineer",
-      "location": "Bengaluru",
-      "url": "https://wellfound.com/jobs/4733661-ai-engineer",
-      "date_posted": "2026-09-19",
-      "posted_age": "2 days ago",
+      "title": "Machine Learning Engineer",
+      "location": "India",
+      "url": "https://wellfound.com/jobs/4176912-machine-learning-engineer",
+      "date_posted": "2026-09-21",
+      "posted_age": "today",
       "date_source": "structured",
       "ats": "Wellfound",
-      "description": "AI Engineer Full-time ₹30L – ₹55L In office • Bengaluru 4 years of exp 2 days ago 2 days ago Save Apply"
+      "description": "Machine Learning Engineer Full-time ₹4L – ₹6L • No equity Remote only • India 0 years of exp 6 days ago 6 days ago Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "Machine Learning Engineer",
+      "location": "India",
+      "url": "https://wellfound.com/jobs/4176912-machine-learning-engineer",
+      "date_posted": "2026-09-21",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "Machine Learning Engineer Full-time ₹4L – ₹6L • No equity Remote only • India 0 years of exp 6 days ago 6 days ago Save Apply"
+    }
+  ]
 }
