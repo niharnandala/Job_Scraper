@@ -3884,3 +3884,4 @@
 {"workflow": "wellfound", "timestamp": "2026-09-21T00:07:20Z", "job_count": 1, "run_id": "35546618195"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35546763488", "timestamp": "2026-09-21T00:09:44Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35547936008", "timestamp": "2026-09-21T00:30:58Z", "workflow": "hiringcafe"}
+{"job_count": 0, "run_attempt": "1", "run_id": "35548857751", "timestamp": "2026-09-21T00:48:50Z", "workflow": "ziprecruiter"}
