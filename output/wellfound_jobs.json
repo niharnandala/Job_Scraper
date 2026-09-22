@@ -1,8 +1,19 @@
 {
-  "scraped_at": "2026-09-22 18:45 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-22 21:59 UTC",
+  "total": 4,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "Associate AI Engineer",
+      "location": "India",
+      "url": "https://wellfound.com/jobs/4750179-associate-ai-engineer",
+      "date_posted": "2026-09-22",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "Associate AI Engineer Full-time ₹8L – ₹10L • No equity Remote only • India 1 year of exp today today Save Apply"
+    },
     {
       "company": "Wellfound startup",
       "title": "Machine Learning Engineer",
@@ -13,7 +24,41 @@
       "date_source": "structured",
       "ats": "Wellfound",
       "description": "Machine Learning Engineer Full-time ₹4L – ₹6L • No equity Remote only • India 0 years of exp yesterday yesterday Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "AI Backend Engineer",
+      "location": "Mumbai + 1",
+      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 2 weeks ago 2 weeks ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "AI Engineer (Agentic AI & LLM Applications)",
+      "location": "Gurgaon",
+      "url": "https://wellfound.com/jobs/4716557-ai-engineer-agentic-ai-llm-applications",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Engineer (Agentic AI & LLM Applications) Full-time In office • Gurgaon 3 years of exp 7 days ago 7 days ago Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "AI Backend Engineer",
+      "location": "Mumbai + 1",
+      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 2 weeks ago 2 weeks ago Save Apply"
+    }
+  ]
 }
