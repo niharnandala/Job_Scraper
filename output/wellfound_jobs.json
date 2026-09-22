@@ -1,29 +1,18 @@
 {
-  "scraped_at": "2026-09-22 09:50 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-09-22 14:40 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Wellfound startup",
-      "title": "Applied AI Engineer (Internship)",
-      "location": "India + 6",
-      "url": "https://wellfound.com/jobs/4435514-applied-ai-engineer-clone",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
+      "title": "Associate AI Engineer",
+      "location": "India",
+      "url": "https://wellfound.com/jobs/4750179-associate-ai-engineer",
+      "date_posted": "2026-09-22",
+      "posted_age": "today",
+      "date_source": "structured",
       "ats": "Wellfound",
-      "description": "Applied AI Engineer (Internship) $6k – $10k • No equity Onsite or remote • India + 6 1 year of exp 2 months ago 2 months ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "Applied AI Engineer",
-      "location": "India + 6",
-      "url": "https://wellfound.com/jobs/3026401-applied-ai-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "Applied AI Engineer Full-time $20k – $40k • 0.0% – 1.0% Onsite or remote • India + 6 1 year of exp 2 months ago 2 months ago Save Apply"
+      "description": "Associate AI Engineer Full-time ₹8L – ₹10L • No equity Remote only • India 1 year of exp today today Save Apply"
     },
     {
       "company": "Wellfound startup",
@@ -37,5 +26,17 @@
       "description": "Machine Learning Engineer Full-time ₹4L – ₹6L • No equity Remote only • India 0 years of exp today today Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "Associate AI Engineer",
+      "location": "India",
+      "url": "https://wellfound.com/jobs/4750179-associate-ai-engineer",
+      "date_posted": "2026-09-22",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "Associate AI Engineer Full-time ₹8L – ₹10L • No equity Remote only • India 1 year of exp today today Save Apply"
+    }
+  ]
 }
