@@ -1,16 +1,16 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-23 00:44 UTC*
+*Last updated: 2026-09-23 06:14 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [AI/ML Engineer](https://in.indeed.com/viewjob?jk=5716c83511938ad4) — Optum
-- 📍 **Location:** TS, IN
+### [Software Engineer - Data Scientist](https://in.indeed.com/viewjob?jk=901539bfcfec5bf9) — Johnson Controls
+- 📍 **Location:** MH, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [AI Engineer](https://in.indeed.com/viewjob?jk=a68167806251432b) — Airbus
+### [Software Engineer - Bala](https://in.indeed.com/viewjob?jk=22ae59849767652c) — Landmark Group
 - 📍 **Location:** KA, IN
-- **Work mode:** On-site
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
