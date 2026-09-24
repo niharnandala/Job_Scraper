@@ -4015,3 +4015,4 @@
 {"workflow": "yc", "timestamp": "2026-09-24T04:41:30Z", "job_count": 0, "run_id": "35956679625"}
 {"job_count": 13, "run_attempt": "1", "run_id": "35957669936", "timestamp": "2026-09-24T05:05:33Z", "workflow": "linkedin"}
 {"job_count": 25, "run_attempt": "1", "run_id": "35958260517", "timestamp": "2026-09-24T05:06:03Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "35965833463", "timestamp": "2026-09-24T06:43:16Z", "workflow": "google_jobs"}
