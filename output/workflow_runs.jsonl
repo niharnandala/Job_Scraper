@@ -4020,3 +4020,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "35967537386", "timestamp": "2026-09-24T07:03:23Z", "workflow": "ziprecruiter"}
 {"workflow": "wellfound", "timestamp": "2026-09-24T09:53:41Z", "job_count": 2, "run_id": "35983956886"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35984069936", "timestamp": "2026-09-24T09:54:42Z", "workflow": "glassdoor"}
+{"workflow": "yc", "timestamp": "2026-09-24T09:56:44Z", "job_count": 0, "run_id": "35984256913"}
