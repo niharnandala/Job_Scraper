@@ -1,52 +1,32 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-24 19:25 UTC*
+*Last updated: 2026-09-24 22:38 UTC*
 
-**12 new role(s)** since last run · 12 total in last 2h
+**7 new role(s)** since last run · 7 total in last 2h
 
-### [Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4470019174/) — Expedia Group
+### [AI Engineer](https://www.linkedin.com/jobs/view/4471680633/) — Ecolab
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer – Voice AI | ₹30 LPA](https://www.linkedin.com/jobs/view/4470045027/) — Jumbo Consulting
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4459531837/) — Mastercard
-- 📍 **Location:** Pune Division, Maharashtra, India
+### [ML Engineer (2-5 Years, 50L)](https://www.linkedin.com/jobs/view/4470034389/) — profound.me
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4471664198/) — Hyperproof
-- 📍 **Location:** India
+### [Custom Software Engineer](https://www.linkedin.com/jobs/view/4471677761/) — Accenture in India
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-24
 
-### [Agentic AI Developer III](https://www.linkedin.com/jobs/view/4471658069/) — Realpage India
-- 📍 **Location:** Serilingampalli, Telangana, India
-- 🕒 **Posted:** 2026-09-24
-
-### [Full Stack AI Developer](https://www.linkedin.com/jobs/view/4469783002/) — Bluo Software India LLP
+### [Software Engineer III - Java, Kafka](https://www.linkedin.com/jobs/view/4471690188/) — JPMorganChase
 - 📍 **Location:** Mumbai, Maharashtra, India
 - 🕒 **Posted:** 2026-09-24
 
-### [Data Engineer - Python Developer](https://www.linkedin.com/jobs/view/4452928555/) — SAP
-- 📍 **Location:** Gurugram, Haryana, India
+### [Software Engineer](https://www.linkedin.com/jobs/view/4469783749/) — HID
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Deployment Engineer, Codex | India](https://www.linkedin.com/jobs/view/4470004819/) — Official Roles
-- 📍 **Location:** Delhi, India
-- 🕒 **Posted:** 2026-09-24
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4470000753/) — internmo
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-24
-
-### [Artificial Intelligence Intern | Entry Level | Fresher | AI, Python, Machine Learning, Generative AI | Remote](https://www.linkedin.com/jobs/view/4469771338/) — Skillzenloop
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-24
-
-### [VP Software Engineer, FIC Sales Technology](https://www.linkedin.com/jobs/view/4471641251/) — Deutsche Bank
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4470034550/) — Sabre
 - 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-24
-
-### [Site Reliability and Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4469780512/) — Abacus Insights
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-24
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471661641/) — Flexiple
-- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-24
