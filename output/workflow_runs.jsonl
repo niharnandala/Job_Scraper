@@ -4030,3 +4030,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "36016458346", "timestamp": "2026-09-24T14:56:42Z", "workflow": "glassdoor"}
 {"workflow": "yc", "timestamp": "2026-09-24T15:01:22Z", "job_count": 0, "run_id": "36016991035"}
 {"job_count": 19, "run_attempt": "1", "run_id": "36018009927", "timestamp": "2026-09-24T15:23:05Z", "workflow": "linkedin"}
+{"job_count": 19, "run_attempt": "1", "run_id": "36018908108", "timestamp": "2026-09-24T15:23:39Z", "workflow": "indeed"}

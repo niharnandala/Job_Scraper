@@ -1,46 +1,76 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-24 10:53 UTC*
+*Last updated: 2026-09-24 15:23 UTC*
 
-**7 new role(s)** since last run · 17 total in last 24h
+**12 new role(s)** since last run · 19 total in last 24h
 
-### [Applied AI Engineer](https://in.indeed.com/viewjob?jk=9dd41acc40eff89c) — Vigilnz
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineering MTS (QA Engineer)](https://in.indeed.com/viewjob?jk=3f9f79e2db5ca85e) — Salesforce
-- 📍 **Location:** TS, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [AI Engineer](https://in.indeed.com/viewjob?jk=caacee2d08576c5d) — AVAN Motors
+### [AI/ML Engineer(GEO/AEO)Projects](https://in.indeed.com/viewjob?jk=bf97156cdb8de44c) — Talentxo
 - 📍 **Location:** MH, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Engineer](https://in.indeed.com/viewjob?jk=5bcae8cbba2a44b3) — Shyena Tech Yarns Pvt Ltd
+### [AI Engineer](https://in.indeed.com/viewjob?jk=4d1b6e85fa14839d) — Ecolab
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://in.indeed.com/viewjob?jk=886583de402dd5d7) — Ecolab
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineering Technical Leader](https://in.indeed.com/viewjob?jk=9eaebc3622be316b) — Cisco
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://in.indeed.com/viewjob?jk=a75c9a7729138897) — Saama Technologies
+- 📍 **Location:** TN, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://in.indeed.com/viewjob?jk=1267d1869a4833db) — Saama Technologies
 - 📍 **Location:** MH, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Solutions Engineer](https://in.indeed.com/viewjob?jk=60ccea853833380d) — Beesolver Technology Private Ltd.
-- 📍 **Location:** PB, IN
+### [AI Engineer](https://in.indeed.com/viewjob?jk=9b847bc6aa62492b) — Saama Technologies
+- 📍 **Location:** TN, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Engineering Intern](https://in.indeed.com/viewjob?jk=4c5b75c5b78d6a43) — iamneo
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** internship
-- 🕒 **Posted:** 2026-09-24
-
-### [Agentic AI Developer](https://in.indeed.com/viewjob?jk=8c94c05834eca6dd) — Aliqan Technologies
-- 📍 **Location:** Remote, IN
+### [AI Engineer](https://in.indeed.com/viewjob?jk=5b7ac79f3fe6f717) — Keywords Studios
+- 📍 **Location:** IN
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://in.indeed.com/viewjob?jk=6bda743c9ec84966) — Keywords Studios
+- 📍 **Location:** MH, IN
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://in.indeed.com/viewjob?jk=5855c0bf71b4c555) — Mastercard
+- 📍 **Location:** HR, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Generative AI Artist](https://in.indeed.com/viewjob?jk=a352bc161b77f32a) — CROWDNIKS INDUSTRIES LIMITED
+- 📍 **Location:** GJ, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer Junior](https://in.indeed.com/viewjob?jk=13a8ecf44e81782b) — Gentrack
+- 📍 **Location:** MH, IN
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
