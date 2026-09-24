@@ -1,56 +1,112 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-24 05:05 UTC*
+*Last updated: 2026-09-24 10:53 UTC*
 
-**13 new role(s)** since last run · 13 total in last 2h
+**27 new role(s)** since last run · 28 total in last 2h
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4471198410/) — e-Hireo
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Gen AI Engineer](https://www.linkedin.com/jobs/view/4469710988/) — Tata Consultancy Services
+- 📍 **Location:** Greater Bengaluru Area
 - 🕒 **Posted:** 2026-09-24
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471184403/) — HRM Counsel
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-24
-
-### [Python Developer (AWS + Agentic AI)( 7+ Years)](https://www.linkedin.com/jobs/view/4469376593/) — NSR Information Systems
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-24
-
-### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4471186898/) — VySystems
-- 📍 **Location:** Pune District, Maharashtra, India
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer III - Java, React, AWS, AI](https://www.linkedin.com/jobs/view/4471176784/) — JPMorganChase
-- 📍 **Location:** Mumbai, Maharashtra, India
-- 🕒 **Posted:** 2026-09-24
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4469365953/) — Tata Consultancy Services
+### [Applied AI Engineer - Software Engineer II](https://www.linkedin.com/jobs/view/4457644207/) — Deloitte
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-24
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4469636437/) — Infotech Global
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-09-24
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4471404363/) — Innova ESI
+### [Applied AI Engineer - Software Engineer II](https://www.linkedin.com/jobs/view/4457654067/) — Deloitte
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Engineer — Agents & GenAI](https://www.linkedin.com/jobs/view/4469624966/) — Rixroent
-- 📍 **Location:** Arrah, Bihar, India
+### [BU ENGINEERING & DEVELOPMENT PROFESSIONAL - AI ENGINEER](https://www.linkedin.com/jobs/view/4469713712/) — OPmobility
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-09-24
 
-### [Snowflake Cortex AI Engineer](https://www.linkedin.com/jobs/view/4471408097/) — TrueBlue Inc.
+### [Software Engineer - 2 (Voicebot)](https://www.linkedin.com/jobs/view/4469712755/) — Exotel
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-24
 
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471195621/) — internmo
+### [ML engineers](https://www.linkedin.com/jobs/view/4471437422/) — Teamware Solutions
+- 📍 **Location:** Greater Bengaluru Area
+- 🕒 **Posted:** 2026-09-24
+
+### [Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore)](https://www.linkedin.com/jobs/view/4471437275/) — Collins Aerospace
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Vice President - Data Science / Applied AI ML](https://www.linkedin.com/jobs/view/4443762998/) — JPMorganChase
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer, Agentic Systems (Quality Engineering)](https://www.linkedin.com/jobs/view/4469711576/) — Palo Alto Networks
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462426365/) — Proofpoint
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471440151/) — internmo
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-24
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4471199396/) — insightsoftware
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471447089/) — Nexal IIT
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-24
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4469723451/) — Rightfit
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4462724740/) — Franklin Templeton
 - 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-09-24
 
-### [AI/ML Engineer – Generative AI & Agentic AI](https://www.linkedin.com/jobs/view/4469380644/) — Tata Consultancy Services
+### [LLM Engineering Expert – AI Evaluation & Engineering Simulation](https://www.linkedin.com/jobs/view/4471451038/) — eDataBae
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-24
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4462194807/) — Franklin Templeton
+- 📍 **Location:** Greater Hyderabad Area
+- 🕒 **Posted:** 2026-09-24
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471428793/) — internmo
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-24
+
+### [Python Backend and AI Intern](https://www.linkedin.com/jobs/view/4469725529/) — Deckoviz Space Labs
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4471435593/) — Cisco
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Generative AI Designer](https://www.linkedin.com/jobs/view/4469720642/) — Jobgether
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4469716832/) — Artech L.L.C.
 - 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4462455843/) — Franklin Templeton
+- 📍 **Location:** Greater Hyderabad Area
+- 🕒 **Posted:** 2026-09-24
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4469720689/) — Vantrock
+- 📍 **Location:** Mumbai, Maharashtra, India
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4471441716/) — Milliman India
+- 📍 **Location:** Gurgaon, Haryana, India
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4469721777/) — Mastercard
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-09-24
+
+### [Student Intern - AI Engineering](https://www.linkedin.com/jobs/view/4469726653/) — BitGreen Technolabz Private Limited
+- 📍 **Location:** Gandhinagar, Gujarat, India
+- 🕒 **Posted:** 2026-09-24
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4471441777/) — Scoutit
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-24
