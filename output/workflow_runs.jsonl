@@ -4012,3 +4012,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "35943899792", "timestamp": "2026-09-24T01:39:49Z", "workflow": "hiringcafe"}
 {"workflow": "wellfound", "timestamp": "2026-09-24T04:33:45Z", "job_count": 3, "run_id": "35956144262"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35956347983", "timestamp": "2026-09-24T04:36:33Z", "workflow": "glassdoor"}
+{"workflow": "yc", "timestamp": "2026-09-24T04:41:30Z", "job_count": 0, "run_id": "35956679625"}
