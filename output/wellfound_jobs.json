@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-25 18:29 UTC",
-  "total": 4,
-  "new_count": 1,
+  "scraped_at": "2026-09-25 22:13 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wellfound startup",
@@ -24,41 +24,7 @@
       "date_source": "structured",
       "ats": "Wellfound",
       "description": "Machine Learning Engineer II Full-time ₹12L – ₹20L • No equity In office • Bangalore Urban 3 years of exp 2 days ago 2 days ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI Engineer (Agentic AI & LLM Applications)",
-      "location": "Gurgaon",
-      "url": "https://wellfound.com/jobs/4716557-ai-engineer-agentic-ai-llm-applications",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI Engineer (Agentic AI & LLM Applications) Full-time In office • Gurgaon 3 years of exp 1 week ago 1 week ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI/ML Engineer",
-      "location": "Hyderabad",
-      "url": "https://wellfound.com/jobs/3301819-ai-ml-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI/ML Engineer Full-time ₹6L – ₹10L • No equity In office • Hyderabad 1 year of exp 3 months ago 3 months ago Save Apply"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "AI/ML Engineer",
-      "location": "Hyderabad",
-      "url": "https://wellfound.com/jobs/3301819-ai-ml-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI/ML Engineer Full-time ₹6L – ₹10L • No equity In office • Hyderabad 1 year of exp 3 months ago 3 months ago Save Apply"
-    }
-  ]
+  "new_jobs": []
 }
