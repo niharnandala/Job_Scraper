@@ -1,8 +1,19 @@
 {
-  "scraped_at": "2026-09-25 01:23 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-09-25 07:38 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "AI Engineer",
+      "location": "New Delhi",
+      "url": "https://wellfound.com/jobs/4763403-ai-engineer",
+      "date_posted": "2026-09-25",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "AI Engineer Full-time ₹40L – ₹50L • No equity In office • New Delhi 5 years of exp today today Save Apply"
+    },
     {
       "company": "Wellfound startup",
       "title": "Associate AI Engineer",
@@ -26,5 +37,17 @@
       "description": "Machine Learning Engineer II Full-time ₹12L – ₹20L • No equity In office • Bangalore Urban 3 years of exp yesterday yesterday Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "AI Engineer",
+      "location": "New Delhi",
+      "url": "https://wellfound.com/jobs/4763403-ai-engineer",
+      "date_posted": "2026-09-25",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "AI Engineer Full-time ₹40L – ₹50L • No equity In office • New Delhi 5 years of exp today today Save Apply"
+    }
+  ]
 }
