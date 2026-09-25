@@ -4079,3 +4079,4 @@
 {"workflow": "yc", "timestamp": "2026-09-25T18:32:47Z", "job_count": 0, "run_id": "36174060909"}
 {"job_count": 16, "run_attempt": "1", "run_id": "36174742503", "timestamp": "2026-09-25T18:52:43Z", "workflow": "linkedin"}
 {"job_count": 16, "run_attempt": "1", "run_id": "36175290378", "timestamp": "2026-09-25T18:53:17Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "36180491172", "timestamp": "2026-09-25T19:34:24Z", "workflow": "hiringcafe"}
