@@ -1,149 +1,100 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-25 01:44 UTC*
+*Last updated: 2026-09-25 08:05 UTC*
 
-**30 new role(s)** since last run · 30 total in last 2h
+**24 new role(s)** since last run · 24 total in last 2h
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4471813509/) — Amazon
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-09-25
-
-### [Ai Engineer](https://www.linkedin.com/jobs/view/4471810950/) — TaskVerse
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4470295635/) — PDI Technologies
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4470080714/) — Tata Consultancy Services
 - 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4470294661/) — PDI Technologies
-- 📍 **Location:** Hyderabad, Telangana, India
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4470071851/) — TechWise Digital
+- 📍 **Location:** Mumbai Metropolitan Region
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471821816/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [agentic AI developer](https://www.linkedin.com/jobs/view/4471869269/) — Tata Consultancy Services
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471827355/) — Alignerr
-- 📍 **Location:** Jaipur, Rajasthan, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [AI Engineer](https://www.linkedin.com/jobs/view/4471849724/) — Innova ESI
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471836067/) — Alignerr
-- 📍 **Location:** Coimbatore, Tamil Nadu, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471830190/) — Alignerr
-- 📍 **Location:** Coimbatore, Tamil Nadu, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471817941/) — Alignerr
-- 📍 **Location:** Mysuru, Karnataka, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471823638/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471819851/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471817931/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471823631/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471817951/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471837054/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471823624/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471836068/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471822804/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471816971/) — Alignerr
-- 📍 **Location:** Gurgaon, Haryana, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471821595/) — TaskVerse
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4470090205/) — True Tech Professionals
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471836070/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [AI Developer](https://www.linkedin.com/jobs/view/4471851476/) — Nemetschek Group
+- 📍 **Location:** Greater Bengaluru Area
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471835158/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Full-Stack AI Engineer](https://www.linkedin.com/jobs/view/4470118829/) — Impetus Career Consultants
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471834129/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [AI Engineer](https://www.linkedin.com/jobs/view/4470128640/) — KeyPoint Technologies
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471828253/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4470086397/) — internmo
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471825480/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [AI Infrastructure & RAG Engineering Intern](https://www.linkedin.com/jobs/view/4469713484/) — Autokryx Technologies Pvt. Ltd.
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471837056/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4470082637/) — Nexal IIT
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471820860/) — Alignerr
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4470130462/) — LTM
+- 📍 **Location:** Pune District, Maharashtra, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471822789/) — Alignerr
-- 📍 **Location:** Jaipur, Rajasthan, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Software Engineer AI ML](https://www.linkedin.com/jobs/view/4470115846/) — Microsoft Google
+- 📍 **Location:** Patna, Bihar, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471832154/) — Alignerr
-- 📍 **Location:** Jaipur, Rajasthan, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Software Engineer – Data Platform](https://www.linkedin.com/jobs/view/4470080776/) — Continental Industry
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4471832152/) — Alignerr
-- 📍 **Location:** Jaipur, Rajasthan, India
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [AI Engineer - Cloud & MLops](https://www.linkedin.com/jobs/view/4470072560/) — Talentgigs
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-25
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4444580879/) — Cleantech Industry Resources (CIR)
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-25
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4470088071/) — Hiringhood
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-25
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4470123709/) — Careernet
+- 📍 **Location:** Pune District, Maharashtra, India
+- 🕒 **Posted:** 2026-09-25
+
+### [Full Stack AI Engineer (LLM Agents)](https://www.linkedin.com/jobs/view/4470073581/) — Metric Tree Labs
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-25
+
+### [Python Developer](https://www.linkedin.com/jobs/view/4470081278/) — Vastika Inc
+- 📍 **Location:** Noida, Uttar Pradesh, India
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer – Backend](https://www.linkedin.com/jobs/view/4471870176/) — TaskVerse
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-25
+
+### [AIML Engineer Digital & AI](https://www.linkedin.com/jobs/view/4471873309/) — IQ-EQ
+- 📍 **Location:** Banjara Hills, Telangana, India
+- 🕒 **Posted:** 2026-09-25
+
+### [Backend Engineer - Node.Js](https://www.linkedin.com/jobs/view/4470118865/) — Nexifyr
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-25
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4470085709/) — AARK Tech Solutions GmbH
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-25
