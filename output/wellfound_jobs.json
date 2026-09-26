@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26 12:59 UTC",
-  "total": 4,
+  "scraped_at": "2026-09-26 17:04 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
     {
@@ -13,39 +13,6 @@
       "date_source": "structured",
       "ats": "Wellfound",
       "description": "AI Engineer Full-time ₹40L – ₹50L • No equity In office • New Delhi 5 years of exp yesterday yesterday Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "Machine Learning Engineer II",
-      "location": "Bangalore Urban",
-      "url": "https://wellfound.com/jobs/4756812-machine-learning-scientist-ii-clone",
-      "date_posted": "2026-09-24",
-      "posted_age": "2 days ago",
-      "date_source": "structured",
-      "ats": "Wellfound",
-      "description": "Machine Learning Engineer II Full-time ₹12L – ₹20L • No equity In office • Bangalore Urban 3 years of exp 2 days ago 2 days ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI Backend Engineer",
-      "location": "Mumbai + 1",
-      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 3 weeks ago 3 weeks ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI Engineer (Agentic AI & LLM Applications)",
-      "location": "Gurgaon",
-      "url": "https://wellfound.com/jobs/4716557-ai-engineer-agentic-ai-llm-applications",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI Engineer (Agentic AI & LLM Applications) Full-time In office • Gurgaon 3 years of exp 1 week ago 1 week ago Save Apply"
     }
   ],
   "new_jobs": []
