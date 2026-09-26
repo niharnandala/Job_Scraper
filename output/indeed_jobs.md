@@ -1,26 +1,14 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-25 22:37 UTC*
+*Last updated: 2026-09-26 01:43 UTC*
 
-**4 new role(s)** since last run · 17 total in last 24h
+**2 new role(s)** since last run · 17 total in last 24h
 
-### [Software Engineer I](https://in.indeed.com/viewjob?jk=0b1a39544cfd129d) — betterworks
-- 📍 **Location:** KA, IN
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [AI Engineer – Azure GenAI / Agentic AI](https://in.indeed.com/viewjob?jk=b7c711e0d606fd0d) — Unknown
+### [Gen AI developer](https://in.indeed.com/viewjob?jk=0c88016fd335a219) — Infosys
 - 📍 **Location:** KA, IN
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer II - Java Full Stack Developer + AWS + AI](https://in.indeed.com/viewjob?jk=16779700bfa060f0) — JPMorganChase
-- 📍 **Location:** KA, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [AI Engineer – Azure GenAI / Agentic AI](https://in.indeed.com/viewjob?jk=82edba79497c754d) — Naukari Consultancy
-- 📍 **Location:** KA, IN
+### [Full Stack Software Engineer](https://in.indeed.com/viewjob?jk=28c35fb15029ac15) — SLB
+- 📍 **Location:** MH, IN
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-25
