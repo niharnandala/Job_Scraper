@@ -1,6 +1,10 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-27 01:34 UTC*
+*Last updated: 2026-09-27 08:21 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [AI Engineer](https://in.indeed.com/viewjob?jk=bfc92d3dabd94572) — Xipper
+- 📍 **Location:** Remote, IN
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-27

@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-09-27 01:34 UTC",
-  "total": 9,
-  "new_count": 0,
+  "scraped_at": "2026-09-27 08:21 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Xipper",
+      "title": "AI Engineer",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=bfc92d3dabd94572",
+      "direct_url": "http://in.indeed.com/job/ai-engineer-bfc92d3dabd94572",
+      "company_url": "https://in.indeed.com/cmp/Xipper",
+      "date_posted": "2026-09-27",
+      "description": "Xiper is a travel tech platform for hospitality industry. Please visit our wewwbsite and do your research before applying \\- xipper.in\n\n**Experience:** 2\\+ years  \n**Location:** Remote  \n**Type:** Full\\-time\n\nWhat we need\n\n* 2\\+ years of **production\\-level AI/ML engineering experience**.\n* Strong hands\\-on **Python** development — not just prompt engineering or ChatGPT/API integration.\n* Proven experience building and deploying **AI automation and agentic workflows**.\n* Hands\\-on experience with **Voice AI** — STT, TTS, voice agents, call automation and real\\-time conversational systems.\n* Experience building **AI pipelines that connect multiple systems, APIs, databases and business workflows**.\n* Ability to build AI agents that can **reason, make decisions, call tools/APIs and execute workflows**.\n* Experience with LLMs, RAG, embeddings, vector databases and model/API orchestration.\n* Experience with **LangChain / LangGraph / CrewAI / similar frameworks** is preferred.\n* Experience training, fine\\-tuning or evaluating ML/AI models is a plus.\n* Strong understanding of **APIs, webhooks, queues, databases and asynchronous workflows**.\n* Experience deploying AI systems in production using **AWS/Azure, Docker and CI/CD**.\n* Ability to design an **AI intelligence layer across multiple products and data sources**.\n\nWhat you will build at Xipper\n\n* AI\\-powered hotel operations and workflow automation.\n* Voice AI for guests, hotels and internal teams.\n* AI agents connected to PMS, OTA, CRM, payments and hotel workflows.\n* AI revenue management, forecasting and decision systems.\n* Automated guest communication and support.\n* Intelligent lead, booking and operations workflows.\n* A central **AI intelligence layer across the entire Xipper ecosystem**.\n\nMust Have\n\n**Show us what you have built.**\n\nApplications without **actual deployed AI/Voice AI projects, GitHub/code samples, live demos or production work samples will not be considered.**\n\nWe are looking for an **AI engineer who builds systems**, not someone who only knows how to write prompts.\n\nPay: ₹30,000\\.00 \\- ₹40,000\\.00 per month\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "GWC Technologies",
       "title": "AI Engineer",
@@ -58,42 +76,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "TrueMeds",
-      "title": "AI Engineer",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=89f9ce54889891cf",
-      "direct_url": "http://in.indeed.com/job/ai-engineer-89f9ce54889891cf",
-      "company_url": "https://in.indeed.com/cmp/Truemeds",
-      "date_posted": "2026-09-26",
-      "description": "Job Overview At Entropy AI, we're building intelligence and agentic workflow infrastructure for financial services. Our systems help enterprises automate and improve real\\-world journeys across acquisition, qualification, onboarding, renewals, customer service, collections, and assisted decisioning. As an AI Engineer at Entropy AI, you will design, build, deploy, and continuously improve production\\-grade AI agents embedded inside enterprise workflows. This is not a prompt\\-only role. You will own both the AI behaviour and the software systems around it: orchestration, APIs, state, latency, reliability, evaluation, observability, security, and measurable business outcomes. You'll work closely with product, engineering, and business teams to convert complex BFSI workflows into dependable AI systems that can listen, reason, call tools, complete tasks, escalate safely, and operate reliably in production. Key Responsibilities Build real\\-time voice agents with robust turn\\-taking, interruption handling, streaming, tool execution, escalation, and multilingual support. Design embedded AI agents for acquisition, onboarding, qualification, servicing, renewals, retention, and operations workflows. Develop orchestration and state\\-management layers that reliably execute multi\\-step workflows across internal and third\\-party systems. Integrate LLMs, speech\\-to\\-text, text\\-to\\-speech, telephony systems, APIs, databases, CRMs, queues, vector stores, and internal services. Build evaluation frameworks covering task completion, tool accuracy, hallucination, policy adherence, latency, containment, transfer quality, and cost. Implement observability using structured logs, traces, conversation analytics, alerting, and failure\\-replay mechanisms. Optimise model selection, prompts, caching, retrieval, concurrency, and fallbacks for quality, speed, reliability, and unit economics. Partner with product, business, and customer teams to convert ambiguous workflows into production specifications and measurable acceptance criteria. Own engineering quality through clean code, automated tests, code reviews, deployment pipelines, runbooks, and incident learning. Document architecture, failure modes, evaluation methodology, and deployment processes so systems can scale beyond the original builder.\n\nPay: ₹700,000\\.00 \\- ₹900,000\\.00 per year\n\nBenefits:\n\n* Internet reimbursement\n* Leave encashment\n* Paid time off\n* Provident Fund\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "IZI",
-      "title": "AI/ML Engineer – UAV & Autonomous Systems",
-      "location": "MP, IN",
-      "url": "https://in.indeed.com/viewjob?jk=0d3901ac903b338b",
-      "direct_url": "http://in.indeed.com/job/aiml-engineer-uav-autonomous-systems-0d3901ac903b338b",
-      "company_url": "https://in.indeed.com/cmp/Izi-e58ef797",
-      "date_posted": "2026-09-26",
-      "description": "**Position Title**: AI/ML Engineer\n\n**Years of Experience**: 2 years\n\n**Work Model**: Work From Office\n\n**Location**: Bhopal (M.P.)\n\n**About Us**: At “IZI”, we are revolutionizing the world of consumer drones with cutting\\-edge technology, innovative design, and a passion for excellence. we're on a mission to shake up the Indian tech scene by becoming the ultimate destination for cutting\\-edge gadgets that are both cool and affordable. We're talking premium features without the premium price tag.\n\n**Our vision**? To be the catalyst for epic experiences fueled by technology. We want to empower the user to conquer adventures and turn everyday moments into something extraordinary. But what truly sets IZI apart is our people. We are a team of dreamers, innovators, and trailblazers dedicated to pushing the boundaries of what's possible. We believe in fostering a culture of creativity, collaboration, and continuous learning, where every team member has the opportunity to grow and make a significant impact.\n\nJoin us, and you'll be part of a dynamic, forward\\-thinking company that's shaping the future of technology and making a real difference in the world. If you're passionate about drones, technology, and innovation, IZI is the place for you. Together, let's take flight and soar to new horizons!\n\n**What are we looking for**: We are seeking a mid\\-level AI/ML Engineer to join our Technical Team. You will be responsible for developing, deploying, and optimizing machine learning models specifically designed for drone platforms and aerospace applications. The ideal candidate thrives at the intersection of computer vision, edge computing, and avionics.\n\n**Key Responsibilities:**\n\n Develop and maintain software using Python, C, C\\+\\+, and Embedded C\\+\\+\n\n Model Development: Design and train ML models for object detection, obstacle avoidance, path planning, and autonomous navigation.\n\n Edge Deployment: Optimize models for real\\-time inference on hardware\\-constrained environments (e.g., NVIDIA Jetson, Raspberry Pi, or custom flight controllers).\n\n Data Pipeline Management: Build and maintain pipelines for processing aerial imagery and sensor data (LiDAR, RGB, Thermal).\n\n Avionics Integration: Work closely with the hardware/avionics team to integrate AI algorithms with flight control systems and telemetry protocols.\n\n Performance Monitoring: Define and track KPIs for model accuracy and reliability in diverse environmental conditions (low light, high wind, etc.)\n\n**Technical Skills Required**\n\n Strong proficiency in Python, C, C\\+\\+, and Embedded C\\+\\+\n\n Core AI/ML: Strong proficiency in Python, PyTorch, or TensorFlow.\n\n Computer Vision: Experience with OpenCV and architectures like YOLO, SSD, or Transformers for spatial analysis.\n\n Edge Computing: Familiarity with TensorRT, ONNX, or OpenVINO for model quantization and optimization.\n\n Aerospace Knowledge: Familiarity with UAV communication protocols (MavLink, ROS/ROS2\\) and flight stacks (PX4, ArduPilot).\n\n Mathematics: Solid foundation in linear algebra, calculus, and 3D geometry for coordinate transformations.\n\n**Preferred Qualifications**\n\n Experience with Sensor Fusion (combining IMU, GPS, and Vision data).\n\n Background in Aerospace Avionics or flight simulation environments (Gazebo, AirSim).\n\n Understanding of embedded C/C\\+\\+ for low\\-level system optimization.\n\nPay: Up to ₹600,000\\.00 per year\n\nBenefits:\n\n* Paid sick time\n* Provident Fund\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
       "company": "sahajanand infotech",
       "title": "AI/ML Engineer",
       "location": "GJ, IN",
@@ -130,24 +112,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Unknown",
-      "title": "Full-Stack Software Developer- AI Engineering",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=c57928f7429ba59b",
-      "direct_url": "http://in.indeed.com/job/full-stack-software-developer-ai-engineering-c57928f7429ba59b",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-09-26",
-      "description": "**Full\\-Stack Software Developer – AI Engineering**\n\n**Rubenius Interior Wellbeing LLP \\| Bengaluru, India \\| On\\-site \\| Full\\-Time**\n\nAbout Rubenius\n\n**Rubenius Interior Wellbeing LLP** is a design\\-and\\-build organization where **spaces meet technology**.\n\nWe work across commercial environments, experience centres, workplaces, retail, hospitality and experiential projects — bringing together **design, software, AI, automation, IoT and interactive technology** to build smarter, more engaging experiences.\n\n**We don’t just build spaces. We build what happens inside them.**\n\nYou’ll work across the stack — **frontend, backend, databases, APIs, AI, automation and cloud infrastructure** — and collaborate with product, design and business teams to turn ideas into reliable, production\\-ready solutions.\n\n**What You’ll Build**\n\n* Build responsive web applications using **React, Next.js, TypeScript, Python and Angular**.\n* Develop backend services and REST APIs using **Node.js, Express.js and FastAPI**.\n* Design databases and data models using **PostgreSQL, MongoDB, Prisma, SQLModel** and related technologies.\n* Integrate **LLMs, AI agents, RAG, embeddings and document\\-processing workflows** into real applications.\n* Build background jobs and workflow automation using technologies such as **Kafka, Camunda, Redis, BullMQ or Temporal**.\n* Integrate authentication, role\\-based access, payments, email services and cloud storage.\n* Deploy and maintain applications on **AWS** using **Docker and CI/CD pipelines**.\n* Write tests, review code, troubleshoot production issues and improve application performance.\n* Work closely with product, design and delivery teams to plan, build and ship features.\n\n**What You Need to Bring**\n\n* Proven experience building and deploying **full\\-stack applications**.\n* Strong JavaScript/TypeScript fundamentals with hands\\-on **React** experience.\n* Experience developing **REST APIs and backend services**.\n* Good understanding of **relational databases and data modelling**.\n* Working knowledge of **Git, code reviews and collaborative development**.\n* Ability to write clean, maintainable code and communicate technical concepts clearly.\n\nGood to Have\n\n* **Next.js, Angular, Tailwind CSS, shadcn/ui**\n* **Python, FastAPI, GraphQL, Socket.IO, Microservices**\n* **LangChain, RAG, AI Agents, Qdrant**\n* **AWS, Docker, Kubernetes, GitHub Actions, GitLab CI/CD**\n* **Kafka, Temporal, Camunda, BullMQ, Redis**\n* Exposure to **mobile applications, sensor\\-integrated systems or interactive installations**\n\nAI Engineering — Your Edge\n\nExperience with any of the following will be a strong advantage:\n\n* **OpenAI, Gemini or open\\-source LLM integrations**\n* LLM applications, **RAG, embeddings, vector databases and AI agents**\n* Machine\\-learning fundamentals including **data preparation, training, validation and evaluation**\n* Model development or fine\\-tuning using **PyTorch, TensorFlow or Hugging Face**\n* Dataset preparation, model evaluation and output testing\n* AI model deployment and inference using **Docker or cloud platforms**\n* **Prompt engineering, structured outputs and responsible AI practices**\n\n**What We’re Looking For**\n\nWe’re not looking for someone who only writes frontend code or only experiments with AI.\n\nWe’re looking for an engineer who can move from:\n\n**Idea → Architecture → Code → AI Integration → Deployment → Production**\n\nand take ownership of the result.\n\n**Why Join Rubenius?**\n\nWork on products and digital experiences that combine **software, AI, automation and interactive technology** across a design\\-and\\-build environment.\n\nYou’ll have the opportunity to work across disciplines, solve real business problems and contribute to products from development through deployment.\n\nApply\n\nSend your updated resume to:\n\n**hr@redsxp.com**  \n**Contact: 9845916209**\n\n**Subject: Full\\-Stack Software Developer – AI Engineering \\| Bengaluru**\n\nPay: ₹360,000\\.00 \\- ₹480,000\\.00 per year\n\nBenefits:\n\n* Leave encashment\n* Paid time off\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "hr@redsxp.com",
-      "ats": "Indeed"
-    },
-    {
       "company": "Datatech Genius",
       "title": "Full Stack, IAM Software Engineer",
       "location": "Remote, IN",
@@ -166,5 +130,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Xipper",
+      "title": "AI Engineer",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=bfc92d3dabd94572",
+      "direct_url": "http://in.indeed.com/job/ai-engineer-bfc92d3dabd94572",
+      "company_url": "https://in.indeed.com/cmp/Xipper",
+      "date_posted": "2026-09-27",
+      "description": "Xiper is a travel tech platform for hospitality industry. Please visit our wewwbsite and do your research before applying \\- xipper.in\n\n**Experience:** 2\\+ years  \n**Location:** Remote  \n**Type:** Full\\-time\n\nWhat we need\n\n* 2\\+ years of **production\\-level AI/ML engineering experience**.\n* Strong hands\\-on **Python** development — not just prompt engineering or ChatGPT/API integration.\n* Proven experience building and deploying **AI automation and agentic workflows**.\n* Hands\\-on experience with **Voice AI** — STT, TTS, voice agents, call automation and real\\-time conversational systems.\n* Experience building **AI pipelines that connect multiple systems, APIs, databases and business workflows**.\n* Ability to build AI agents that can **reason, make decisions, call tools/APIs and execute workflows**.\n* Experience with LLMs, RAG, embeddings, vector databases and model/API orchestration.\n* Experience with **LangChain / LangGraph / CrewAI / similar frameworks** is preferred.\n* Experience training, fine\\-tuning or evaluating ML/AI models is a plus.\n* Strong understanding of **APIs, webhooks, queues, databases and asynchronous workflows**.\n* Experience deploying AI systems in production using **AWS/Azure, Docker and CI/CD**.\n* Ability to design an **AI intelligence layer across multiple products and data sources**.\n\nWhat you will build at Xipper\n\n* AI\\-powered hotel operations and workflow automation.\n* Voice AI for guests, hotels and internal teams.\n* AI agents connected to PMS, OTA, CRM, payments and hotel workflows.\n* AI revenue management, forecasting and decision systems.\n* Automated guest communication and support.\n* Intelligent lead, booking and operations workflows.\n* A central **AI intelligence layer across the entire Xipper ecosystem**.\n\nMust Have\n\n**Show us what you have built.**\n\nApplications without **actual deployed AI/Voice AI projects, GitHub/code samples, live demos or production work samples will not be considered.**\n\nWe are looking for an **AI engineer who builds systems**, not someone who only knows how to write prompts.\n\nPay: ₹30,000\\.00 \\- ₹40,000\\.00 per month\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
