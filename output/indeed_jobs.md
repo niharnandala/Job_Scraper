@@ -1,10 +1,15 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-27 08:21 UTC*
+*Last updated: 2026-09-27 14:11 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [AI Engineer](https://in.indeed.com/viewjob?jk=bfc92d3dabd94572) — Xipper
-- 📍 **Location:** Remote, IN
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+### [Gen AI developer](https://in.indeed.com/viewjob?jk=481da51f7647afbe) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [generative AI](https://in.indeed.com/viewjob?jk=132e866f67f5bfdc) — BExO
+- 📍 **Location:** PB, IN
+- **Work mode:** On-site
+- **Job type:** internship
 - 🕒 **Posted:** 2026-09-27
