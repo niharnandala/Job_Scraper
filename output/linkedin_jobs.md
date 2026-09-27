@@ -1,32 +1,44 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-27 14:10 UTC*
+*Last updated: 2026-09-27 18:34 UTC*
 
-**7 new role(s)** since last run · 7 total in last 2h
+**10 new role(s)** since last run · 10 total in last 2h
 
-### [AI-First Software Engineer](https://www.linkedin.com/jobs/view/4471094039/) — FinLead AI
+### [AI Engineer / Applied AI Engineer](https://www.linkedin.com/jobs/view/4471304174/) — Smart Food Safe
 - 📍 **Location:** Greater Bengaluru Area
 - 🕒 **Posted:** 2026-09-27
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4427051807/) — GitLab
-- 📍 **Location:** Bengaluru East, Karnataka, India
+### [AI Developer Technology Engineer](https://www.linkedin.com/jobs/view/4395474484/) — NVIDIA
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-09-27
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4471088681/) — gnani.ai
+### [AI Developer Technology Engineer](https://www.linkedin.com/jobs/view/4395479506/) — NVIDIA
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-27
 
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471093382/) — internmo
+### [Python Developer](https://www.linkedin.com/jobs/view/4387271287/) — Tower Research Capital
+- 📍 **Location:** Gurgaon, Haryana, India
+- 🕒 **Posted:** 2026-09-27
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471307089/) — internmo
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-27
 
-### [Expert Opportunity - Machine Learning Engineer ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4455147563/) — Ethos
+### [Artificial Intelligence Engineer } Freelancer](https://www.linkedin.com/jobs/view/4470810542/) — Cybervie-Cyber Security Services
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-27
 
-### [Expert Opportunity - Software Engineer ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4455146374/) — Ethos
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471306112/) — Nexal IIT
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-27
 
-### [Software Engineer (AWS)](https://www.linkedin.com/jobs/view/4470814194/) — Joveo
-- 📍 **Location:** Greater Bengaluru Area
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4470814342/) — Gala Solutions
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4470818316/) — Soul Union Journey
+- 📍 **Location:** Delhi, India
+- 🕒 **Posted:** 2026-09-27
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471302406/) — internmo
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-27
