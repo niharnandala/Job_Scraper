@@ -1,8 +1,12 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-26 22:57 UTC*
+*Last updated: 2026-09-27 01:33 UTC*
 
-**1 new role(s)** since last run · 1 total in last 2h
+**2 new role(s)** since last run · 2 total in last 2h
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4468493599/) — Laser Labs
-- 📍 **Location:** Mumbai, Maharashtra, India
-- 🕒 **Posted:** 2026-09-26
+### [Software Engineer](https://www.linkedin.com/jobs/view/4472414487/) — TaskVerse
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-27
+
+### [AI/ML Engineer Intern](https://www.linkedin.com/jobs/view/4472426115/) — TaskVerse
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-27
