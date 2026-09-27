@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26 22:59 UTC",
-  "total": 11,
+  "scraped_at": "2026-09-27 01:34 UTC",
+  "total": 9,
   "new_count": 0,
   "jobs": [
     {
@@ -148,24 +148,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "SLB",
-      "title": "Full Stack Software Engineer",
-      "location": "MH, IN",
-      "url": "https://in.indeed.com/viewjob?jk=28c35fb15029ac15",
-      "direct_url": "https://careers.slb.com/jobdescription.aspx?id=EF16575-en_US%201",
-      "company_url": "https://in.indeed.com/cmp/Slb",
-      "date_posted": "2026-09-25",
-      "description": "**India, Pune**\n---------------\n\n\n**Digital Technology \\& Research, Engineering \\& Design, Manufacturing**\n------------------------------------------------------------------------\n\n **Job Description**\n\n\nPositions: **Full Stack Developer (Python, Angular, Dataiku DSS, REST APIs)**\n\n\nPosition Purpose: To carry out Full Stack Development for our dynamic team. The ideal candidate will have experience in developing end to end Dataiku plugins, **backend APIs** using **Python** in Dataiku DSS coupled with proficiency in **SQL** and **PL/SQL** for database management. You will also be responsible for the **UI development** using **HTML**, **CSS**, **JavaScript**, and **Angular** to create intuitive and efficient front\\-end applications. You will work on designing, developing, and maintaining both server\\-side logic and client\\-side applications, ensuring high performance and responsiveness. Collaboration with cross\\-functional teams is key to delivering end\\-to\\-end solutions in a fast\\-paced environment.\n\n\nQualification / Experience:\n\n\n* B.Tech/B.E in Engineering with 5\\+ years of relevant experience.\n\nTechnical Skills:\n\n\n* **5\\+ years of experience** as a Full Stack Developer.\n* Proficiency in Python for API development and Plugins development.\n* Experience with Dataiku DSS.\n* Strong understanding of **RESTful API design** and best practices.\n* Hands\\-on experience with **SQL** and **PL/SQL** for database queries and procedures.\n* Experience with **front\\-end development** using **HTML**, **CSS**, **JavaScript**, and **Angular** (preferably Angular 10\\+).\n* Familiarity with building and consuming RESTful web services.\n* Knowledge of front\\-end development tools like **npm**, **Webpack**, etc.\n* Familiarity with **Agile** development methodologies.\n* Excellent problem\\-solving skills and ability to work in a collaborative team environment.\n* Strong communication skills, both verbal and written.\n\nPreferred Skills:\n\n\n* Experience with **microservices architecture**.\n* Strong Experience with **python** for API and plugin development\n* Hands\\-on experience with **Angular** for UI development\n* Familiarity with **CI/CD pipelines** and tools such as Jenkins, GitLab, or similar.\n* Knowledge of **containerization** technologies like Docker and Kubernetes.\n* Understanding of **cloud platforms** such as AWS, Azure, or Google Cloud.\n\nGood to Have:\n\n\n* Prior work experience in Oil and Gas industry\n* Experience with Dataiku DSS\n* Basic understanding of LLM\n\nAdditional general requirements:\n\n\n* Excellent Verbal and Written communication skills\n* Collaborates well with the team.\n\n\\#LI\\-DJ1\n\n\n**Job Description**\n\n\nPositions: **Full Stack Developer (Python, Angular, Dataiku DSS, REST APIs)**\n\n\nPosition Purpose: To carry out Full Stack Development for our dynamic team. The ideal candidate will have experience in developing end to end Dataiku plugins, **backend APIs** using **Python** in Dataiku DSS coupled with proficiency in **SQL** and **PL/SQL** for database management. You will also be responsible for the **UI development** using **HTML**, **CSS**, **JavaScript**, and **Angular** to create intuitive and efficient front\\-end applications. You will work on designing, developing, and maintaining both server\\-side logic and client\\-side applications, ensuring high performance and responsiveness. Collaboration with cross\\-functional teams is key to delivering end\\-to\\-end solutions in a fast\\-paced environment.\n\n\nQualification / Experience:\n\n\n* B.Tech/B.E in Engineering with 5\\+ years of relevant experience.\n\nTechnical Skills:\n\n\n* **5\\+ years of experience** as a Full Stack Developer.\n* Proficiency in Python for API development and Plugins development.\n* Experience with Dataiku DSS.\n* Strong understanding of **RESTful API design** and best practices.\n* Hands\\-on experience with **SQL** and **PL/SQL** for database queries and procedures.\n* Experience with **front\\-end development** using **HTML**, **CSS**, **JavaScript**, and **Angular** (preferably Angular 10\\+).\n* Familiarity with building and consuming RESTful web services.\n* Knowledge of front\\-end development tools like **npm**, **Webpack**, etc.\n* Familiarity with **Agile** development methodologies.\n* Excellent problem\\-solving skills and ability to work in a collaborative team environment.\n* Strong communication skills, both verbal and written.\n\nPreferred Skills:\n\n\n* Experience with **microservices architecture**.\n* Strong Experience with **python** for API and plugin development\n* Hands\\-on experience with **Angular** for UI development\n* Familiarity with **CI/CD pipelines** and tools such as Jenkins, GitLab, or similar.\n* Knowledge of **containerization** technologies like Docker and Kubernetes.\n* Understanding of **cloud platforms** such as AWS, Azure, or Google Cloud.\n\nGood to Have:\n\n\n* Prior work experience in Oil and Gas industry\n* Experience with Dataiku DSS\n* Basic understanding of LLM\n\nAdditional general requirements:\n\n\n* Excellent Verbal and Written communication skills\n* Collaborates well with the team.\n\nSLB is an equal employment opportunity employer. Qualified applicants are considered without regard to race, color, religion, sex, national origin, age, disability, or other characteristics protected by law.\n\n\n **Benefits**\n------------\n\n### **International Opportunities**\n\n\nGlobal adventure, broad exposure, and limitless learning await you. You'll be part of the most multi\\-cultural and diverse team of experts in any industry, anywhere.\n\n\n### **Insurance**\n\n\nHealth, vision, and dental insurance for you and your dependents available from day one.\n\n\n### **Learning Opportunities**\n\n\nGlobal adventure, broad exposure, and limitless learning await you. You'll be part of the most multi\\-cultural and diverse team of experts in any industry, anywhere.\n\n\n### **Diverse and Inclusive**\n\n\nOur exceptional and diverse people are the pulse and spirit of who we are. Every day, you will enrich your knowledge in an environment where differences in thought, creat",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "accommodationhotline@slb.com",
-      "ats": "Indeed"
-    },
-    {
       "company": "Datatech Genius",
       "title": "Full Stack, IAM Software Engineer",
       "location": "Remote, IN",
@@ -180,24 +162,6 @@
       "job_type": "",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Infosys",
-      "title": "Gen AI developer",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=0c88016fd335a219",
-      "direct_url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-INDEED1-253034&sourceId=4010",
-      "company_url": "https://in.indeed.com/cmp/Infosys",
-      "date_posted": "2026-09-25",
-      "description": "**Job Description:**\n--------------------\n\n  \n\n* We are looking for a skilled Generative AI Developer to join our Controls Technology team\n* and contribute to the development and integration of innovative generative AI solutions\n* In\n* this role you ll work closely with senior developers AI architects and business\n* stakeholders to deliver impactful AI driven features and products\n\n  \n\n**Key Responsibilities:**\n-------------------------\n\n  \n\n* Key Responsibilities\n* Implement and fine tune generative AI models under the guidance of senior team\n* members\n* Contribute to prompt engineering and development of AI powered workflows\n* Assist with the deployment monitoring and maintenance of AI models in\n* production environments\n* Collaborate with data scientists and engineers to ensure seamless integration of AI\n* capabilities\n* Perform data preprocessing feature engineering and API development for AI\n* applications\n* Participate in code reviews testing and documentation to ensure quality and\n* reliability\n* Stay updated with advancements in GenAI and share relevant learnings with the\n* team\n\n  \n\n**Technical Requirements:**\n---------------------------\n\n  \n\n* Required Technical Skills\n* Hands on experience with at least one major machine learning framework PyTorch\n* TensorFlow Keras\n* Familiarity with LLMs prompt engineering and fine tuning e\n* g\n* LoRA QLoRA\n* Exposure to RAG systems and basic knowledge of hybrid search techniques\n* Understanding of model deployment and containerization Docker\n* Proficiency in Python for AI development data preprocessing and scripting\n* Experience with generative AI tools LangChain Hugging Face LlamaIndex is a\n* plus\n* Understanding of version control systems Git\n\n  \n\n**Additional Responsibilities:**\n--------------------------------\n\n  \n\n* Qualifications\n* Bachelor s degree or Master s degree in Computer Science Data Science AI or a\n* related field\n* 3 5 years of professional experience in AI ML development with exposure to\n* Generative AI\n* Experience delivering AI ML projects in a collaborative setting\n* Exposure to cloud based AI ML environments AWS GCP or Azure is a plus\n\n  \n\n**Preferred Skills:**\n---------------------\n\n\nTechnology\\-\\>AI\\-Generative AI\\-\\>Generative AI \\- Basic\\-\\>retrieval augmented generation (rag),Technology\\-\\>AI\\-Generative AI\\-\\>Generative AI for Data Analytics",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
     }
