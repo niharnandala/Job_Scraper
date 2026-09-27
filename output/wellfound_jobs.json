@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27 20:02 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-27 23:45 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -13,6 +13,17 @@
       "date_source": "structured",
       "ats": "Wellfound",
       "description": "AI Engineer Full-time ₹40L – ₹50L • No equity In office • New Delhi 5 years of exp 2 days ago 2 days ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "Founding AI Engineer",
+      "location": "Mumbai",
+      "url": "https://wellfound.com/jobs/4728341-founding-ai-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "Founding AI Engineer Full-time ₹10L – ₹16L • No equity In office • Mumbai 1 year of exp 1 week ago 1 week ago Save Apply"
     }
   ],
   "new_jobs": []
