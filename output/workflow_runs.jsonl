@@ -4203,3 +4203,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "36481515245", "timestamp": "2026-09-28T20:46:26Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36481968885", "timestamp": "2026-09-28T20:50:13Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36488847627", "timestamp": "2026-09-28T21:52:05Z", "workflow": "glassdoor"}
+{"workflow": "yc", "timestamp": "2026-09-28T21:56:40Z", "job_count": 0, "run_id": "36489288832"}
