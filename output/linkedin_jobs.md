@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-27 22:17 UTC*
+*Last updated: 2026-09-28 00:54 UTC*
 
-**2 new role(s)** since last run · 2 total in last 2h
+**2 new role(s)** since last run · 4 total in last 2h
 
-### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4472473255/) — Softcrayons IT Education
-- 📍 **Location:** Noida, Uttar Pradesh, India
-- 🕒 **Posted:** 2026-09-27
+### [AI Engineer](https://www.linkedin.com/jobs/view/4472477413/) — TaskVerse
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-28
 
-### [Generative AI Trainer](https://www.linkedin.com/jobs/view/4472472230/) — Softcrayons IT Education
-- 📍 **Location:** Noida, Uttar Pradesh, India
-- 🕒 **Posted:** 2026-09-27
+### [Software Engineer](https://www.linkedin.com/jobs/view/4472464786/) — TaskVerse
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-28
