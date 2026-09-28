@@ -1,114 +1,58 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-28 15:46 UTC*
+*Last updated: 2026-09-28 22:17 UTC*
 
-**19 new role(s)** since last run · 24 total in last 24h
+**10 new role(s)** since last run · 24 total in last 24h
 
-### [AI Developer](https://in.indeed.com/viewjob?jk=6c69b004e7822a9f) — Immersive Infotech Pvt Ltd
-- 📍 **Location:** Remote, IN
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [AI Engineer](https://in.indeed.com/viewjob?jk=56da4f1dcd22c193) — Rytsense Technologies
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [AI Engineer](https://in.indeed.com/viewjob?jk=89487bee683ad8b7) — Rytsense Technologies
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [[DT] : Full Stack AI Engineer](https://in.indeed.com/viewjob?jk=b94fe170484fbf39) — Vinove
-- 📍 **Location:** UP, IN
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer II](https://in.indeed.com/viewjob?jk=2d5e6e1e9ac607b2) — Mastercard
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Junior AI Engineer](https://in.indeed.com/viewjob?jk=30488d13ddc46457) — Unknown
-- 📍 **Location:** Remote, IN
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [NLP Engineer](https://in.indeed.com/viewjob?jk=4efa34e4cecfcbcc) — Zimmer Biomet
-- 📍 **Location:** KA, IN
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Full Stack AI Engineer](https://in.indeed.com/viewjob?jk=3a9db88a05d52764) — Hero Moto Corp
-- 📍 **Location:** RJ, IN
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Analyst - Software Engineer I - AI/ML, Java/Python, REACT](https://in.indeed.com/viewjob?jk=54322550528d8567) — JPMorganChase
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [AI Developer](https://in.indeed.com/viewjob?jk=6870e8a8e6a72d9c) — Grid Dynamics
-- 📍 **Location:** IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Junior Software Engineer (AI)](https://in.indeed.com/viewjob?jk=776f915b80f959c7) — Dash Technologies Inc
-- 📍 **Location:** GJ, IN
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Full Stack/AI Engineer](https://in.indeed.com/viewjob?jk=ef16af27ca932a1f) — Shoolin Business Solutions Pvt. Ltd.
-- 📍 **Location:** Remote, IN
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Mgr Software Engineering](https://in.indeed.com/viewjob?jk=6781075d3ea0d73f) — ACI Worldwide
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Mgr Software Engineering](https://in.indeed.com/viewjob?jk=fb6c0ba4884eb84c) — ACI Worldwide
+### [Software Engineer III, AI/ML Infrastructure, Performance Engineering](https://in.indeed.com/viewjob?jk=6553d22de0436dad) — Google
 - 📍 **Location:** KA, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Enterprise Software Engineer (Python Developer + AI)](https://in.indeed.com/viewjob?jk=ef792f651a22c67b) — Wolters Kluwer
+### [AI / ML Engineers- Pre-Req Approval ID: PA26INDAINQ3037](https://in.indeed.com/viewjob?jk=97703ef67a3b5c39) — SS&C
+- 📍 **Location:** TS, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer – Full Stack (.NET/React) (all genders)](https://in.indeed.com/viewjob?jk=d5f0cf75ffc0398c) — DYMATRIX GmbH
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-28
+
+### [AI Automation Engineer (Agentic AI)](https://in.indeed.com/viewjob?jk=7bf9759c38a96a35) — Pramira Inc
+- 📍 **Location:** HR, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Remote Python Developer](https://in.indeed.com/viewjob?jk=43f4486bf4d71e20) — turing
+- 📍 **Location:** Remote, IN
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-28
+
+### [Remote Software Engineer (Ruby)](https://in.indeed.com/viewjob?jk=10a103f7ab935d4f) — turing
+- 📍 **Location:** Remote, IN
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-28
+
+### [Remote Software Engineer (Go)](https://in.indeed.com/viewjob?jk=534c397881087f65) — turing
+- 📍 **Location:** Remote, IN
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-28
+
+### [AI Engineer – GenAI & Agentic AI](https://in.indeed.com/viewjob?jk=8116cc6cd7650dc9) — Kitron India
+- 📍 **Location:** TN, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-28
+
+### [AI-Native Java Backend Engineer](https://in.indeed.com/viewjob?jk=e59acda90cda4d04) — Zycus Infotech
 - 📍 **Location:** MH, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Software Engineer (AI Focused)](https://in.indeed.com/viewjob?jk=2c6c183085b094ae) — Helios Tech Labs
-- 📍 **Location:** PB, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [AI/ML & Generative AI Engineer](https://in.indeed.com/viewjob?jk=18c5468f957c9915) — Manju Groups
+### [Full Stack AI Developer](https://in.indeed.com/viewjob?jk=5e983941da645072) — Cubeaisolutuions Tech pvt Ltd
 - 📍 **Location:** TN, IN
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer 3 - Enterprise Architecture](https://in.indeed.com/viewjob?jk=ce1f9624d70db3df) — MongoDB
-- 📍 **Location:** HR, IN
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Python Developer](https://in.indeed.com/viewjob?jk=cf8cbba46a3148e2) — Zucol Services Pvt. Ltd.
-- 📍 **Location:** HR, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
