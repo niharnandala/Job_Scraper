@@ -1,19 +1,7 @@
 {
-  "scraped_at": "2026-09-28 05:12 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-28 13:42 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "AI Engineer",
-      "location": "New Delhi",
-      "url": "https://wellfound.com/jobs/4763403-ai-engineer",
-      "date_posted": "2026-09-26",
-      "posted_age": "2 days ago",
-      "date_source": "structured",
-      "ats": "Wellfound",
-      "description": "AI Engineer Full-time ₹40L – ₹50L • No equity In office • New Delhi 5 years of exp 2 days ago 2 days ago Save Apply"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
