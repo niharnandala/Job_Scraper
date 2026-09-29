@@ -1,88 +1,96 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-29 09:07 UTC*
+*Last updated: 2026-09-29 16:12 UTC*
 
-**21 new role(s)** since last run · 21 total in last 2h
+**23 new role(s)** since last run · 23 total in last 2h
 
-### [AI Engineer – Generative AI & Agentic Systems](https://www.linkedin.com/jobs/view/4473087896/) — Netopsys AI Pvt Ltd
-- 📍 **Location:** Vishakhapatnam, Andhra Pradesh, India
+### [GenAI Developer](https://www.linkedin.com/jobs/view/4432533719/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471268483/) — Taggd
-- 📍 **Location:** Bhubaneswar, Odisha, India
+### [AI/ML Engineer (LLMs & Generative AI)](https://www.linkedin.com/jobs/view/4471593998/) — TuTeck Technologies
+- 📍 **Location:** Kolkata, West Bengal, India
 - 🕒 **Posted:** 2026-09-29
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4473076943/) — Beacon.li
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Analytics and AI Engineer](https://www.linkedin.com/jobs/view/4471274533/) — Honasa Consumer Ltd.
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4447478913/) — LLM Decode
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-29
-
-### [AI/ML Engineer (Chennai)](https://www.linkedin.com/jobs/view/4471272462/) — Connect Tech+Talent
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-09-29
-
-### [AWS Software Engineer](https://www.linkedin.com/jobs/view/4473080872/) — Zone IT Solutions
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471599680/) — NuPlay AI
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-29
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473099503/) — Grid Dynamics
-- 📍 **Location:** Greater Bengaluru Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4473093557/) — internmo
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-29
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473099412/) — Nexal IIT
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-29
-
-### [AI Developer](https://www.linkedin.com/jobs/view/4471265938/) — Lean IT Inc.
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-29
-
-### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4472052048/) — HP
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Agentic AI Developer](https://www.linkedin.com/jobs/view/4471272896/) — Artech L.L.C.
+### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4471906668/) — EXL
 - 📍 **Location:** Noida, Uttar Pradesh, India
 - 🕒 **Posted:** 2026-09-29
 
-### [Artificial Intelligence Engineer Internship](https://www.linkedin.com/jobs/view/4473202606/) — Arvya Tech
-- 📍 **Location:** Vijayawada, Andhra Pradesh, India
+### [AI Application Engineer](https://www.linkedin.com/jobs/view/4444852609/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471280213/) — ServiceNow
+### [AI Engineer](https://www.linkedin.com/jobs/view/4471729736/) — Aptagrim Limited
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-29
 
-### [Full Stack Software Engineer – MERN Stack](https://www.linkedin.com/jobs/view/4473090834/) — Netopsys AI Pvt Ltd
-- 📍 **Location:** Vishakhapatnam, Andhra Pradesh, India
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471742435/) — Skylark Labs
+- 📍 **Location:** Pune City, Maharashtra, India
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer (Fullstack Developer/.Net/React)](https://www.linkedin.com/jobs/view/4473098495/) — The Access Group
-- 📍 **Location:** Pune/Pimpri-Chinchwad Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4473090700/) — internmo
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-29
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4471272376/) — SAYZO
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471283918/) — Qualys
+### [AI Engineer - MDM](https://www.linkedin.com/jobs/view/4471730864/) — Eaton
 - 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-09-29
 
-### [## AI Engineer ## || Ahmedabad || hyderabad ||](https://www.linkedin.com/jobs/view/4471288765/) — AppZime Technologies
-- 📍 **Location:** Mumbai, Maharashtra, India
+### [Software Engineer I, ITC](https://www.linkedin.com/jobs/view/4473265876/) — Nike
+- 📍 **Location:** Karnataka, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Web Solutions Engineer, Technology and Insights Partnership Systems, Youtube India](https://www.linkedin.com/jobs/view/4471599575/) — Google
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-29
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4471917415/) — Konnect Co. Ltd
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471597970/) — internmo
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-29
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471902869/) — Nexal IIT
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-29
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4473286392/) — Ford Motor Company
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4471904715/) — internmo
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer I (Java Backend, Go Preferred)](https://www.linkedin.com/jobs/view/4471597761/) — Precisely
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer I (Java Backend, Go Preferred)](https://www.linkedin.com/jobs/view/4471919022/) — Precisely
+- 📍 **Location:** Noida, Uttar Pradesh, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer - Winter Intern](https://www.linkedin.com/jobs/view/4464049065/) — Rubrik
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Agentic AI Developer](https://www.linkedin.com/jobs/view/4464370279/) — Azurity Pharmaceuticals
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Python Developer](https://www.linkedin.com/jobs/view/4471726203/) — Turinton
+- 📍 **Location:** Pune District, Maharashtra, India
+- 🕒 **Posted:** 2026-09-29
+
+### [AI/ML Platform Engineer- Manufacturing Analytics](https://www.linkedin.com/jobs/view/4471718872/) — Viatris
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Backend Developer (Java / Python)](https://www.linkedin.com/jobs/view/4464499850/) — BMC Software
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473274318/) — Smartstream
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-09-29
