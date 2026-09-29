@@ -4238,3 +4238,4 @@
 {"workflow": "yc", "timestamp": "2026-09-29T20:43:40Z", "job_count": 0, "run_id": "36628319575"}
 {"job_count": 9, "run_attempt": "1", "run_id": "36629066035", "timestamp": "2026-09-29T21:02:26Z", "workflow": "linkedin"}
 {"job_count": 20, "run_attempt": "1", "run_id": "36629620281", "timestamp": "2026-09-29T21:03:05Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "36631663451", "timestamp": "2026-09-29T21:12:35Z", "workflow": "ziprecruiter"}
