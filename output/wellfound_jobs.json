@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-29 00:56 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-29 06:48 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Wellfound startup",
@@ -13,7 +13,41 @@
       "date_source": "unknown",
       "ats": "Wellfound",
       "description": "AI Engineer Full-time ₹4L – ₹15L • No equity In office • Pune 5 years of exp 3 months ago 3 months ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "Machine Learning Engineer",
+      "location": "Mumbai",
+      "url": "https://wellfound.com/jobs/4450744-machine-learning-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "Machine Learning Engineer Full-time ₹2L – ₹3L • No equity In office • Mumbai 1 year of exp 2 months ago 2 months ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "AI Backend Engineer",
+      "location": "Mumbai + 1",
+      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 3 weeks ago 3 weeks ago Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "Machine Learning Engineer",
+      "location": "Mumbai",
+      "url": "https://wellfound.com/jobs/4450744-machine-learning-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "Machine Learning Engineer Full-time ₹2L – ₹3L • No equity In office • Mumbai 1 year of exp 2 months ago 2 months ago Save Apply"
+    }
+  ]
 }
