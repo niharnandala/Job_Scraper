@@ -1,5 +1,5 @@
 # 🟩 Glassdoor — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-30 06:37 UTC*
+*Last updated: 2026-09-30 13:36 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
