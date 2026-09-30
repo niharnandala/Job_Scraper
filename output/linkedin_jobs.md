@@ -1,88 +1,68 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-30 14:07 UTC*
+*Last updated: 2026-09-30 20:01 UTC*
 
-**21 new role(s)** since last run · 21 total in last 2h
+**16 new role(s)** since last run · 16 total in last 2h
 
-### [GenAI Developer](https://www.linkedin.com/jobs/view/4472300579/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
+### [AI Engineer](https://www.linkedin.com/jobs/view/4458501392/) — OATI
+- 📍 **Location:** Mohali district, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4441130632/) — Infosys
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Machine Learning Engineer, Amazon Music - Catalog Quality](https://www.linkedin.com/jobs/view/4455771923/) — Amazon Music
+### [AI Engineer 1](https://www.linkedin.com/jobs/view/4472328266/) — Millennium
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-30
 
-### [AI Engineer - SAP S/4HANA (GenAI, Agents](https://www.linkedin.com/jobs/view/4473768852/) — Bayer
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [AI Engineer - Trusaic](https://www.linkedin.com/jobs/view/4473778005/) — Tavant
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Forward Deploy AI Engineer (SLM)](https://www.linkedin.com/jobs/view/4409844800/) — Avathon
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4473770584/) — Sourcebae
-- 📍 **Location:** Maharashtra, India
-- 🕒 **Posted:** 2026-09-30
-
-### [AI & Cloud Solutions Engineer](https://www.linkedin.com/jobs/view/4471998654/) — AstraZeneca
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Full-Stack AI Engineer](https://www.linkedin.com/jobs/view/4473766410/) — Titan Capital
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4472175720/) — Persistent Systems
-- 📍 **Location:** Pune City, Maharashtra, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Backend Engineer – MERN & AI Systems](https://www.linkedin.com/jobs/view/4472189255/) — AlmaBetter
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Python Developer](https://www.linkedin.com/jobs/view/4471993832/) — Xceedance
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer & AI Automation Developer (LLM Research)](https://www.linkedin.com/jobs/view/4472156708/) — Beyond Labs
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-30
-
-### [Python Developer with strong Azure Cloud + MCP](https://www.linkedin.com/jobs/view/4472181456/) — Artech L.L.C.
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4472305402/) — Scoutit
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [AI Application Engineer](https://www.linkedin.com/jobs/view/4472313103/) — Infosys
+### [Gen AI Developer- Python, FAST API](https://www.linkedin.com/jobs/view/4473921496/) — Verisk
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-30
 
-### [AI Application Engineer](https://www.linkedin.com/jobs/view/4471992967/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4472320781/) — Morgan's Holding
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-30
 
-### [Sustaining and Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4472180678/) — Abacus Insights
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4472330500/) — Flex
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437417252/) — Cisco
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-30
+
+### [AVP - Fullstack AI Engineer](https://www.linkedin.com/jobs/view/4473929334/) — Jefferies
 - 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Backend Engineer - AI Labs](https://www.linkedin.com/jobs/view/4455402531/) — IDFC FIRST Bank
+### [Full-Stack AI Engineer (Up to 15LPA)](https://www.linkedin.com/jobs/view/4473922577/) — CodeRound AI
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-30
+
+### [Python Developer](https://www.linkedin.com/jobs/view/4473911550/) — Hewlett Packard Enterprise
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer, Search](https://www.linkedin.com/jobs/view/4463551100/) — Google
+### [Software Engineer II - Consumer Intelligence & Engagement](https://www.linkedin.com/jobs/view/4473940071/) — PUMA Group
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer II (Full Stack) - Consumer Intelligence & Engagement](https://www.linkedin.com/jobs/view/4473940062/) — PUMA Group
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer – Java](https://www.linkedin.com/jobs/view/4473934125/) — SymphonyAI
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-30
 
-### [IMI_103: Software Engineer (Full Stack Developer/Next.js Developer/Python Full Stack Developer/ E-commerce Developer)](https://www.linkedin.com/jobs/view/4472300407/) — Marutee
-- 📍 **Location:** Bengaluru East, Karnataka, India
+### [Generative AI Educator(Part Time)](https://www.linkedin.com/jobs/view/4472634016/) — ExamAdda
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-30
+
+### [Python Developer Assistant Vice President](https://www.linkedin.com/jobs/view/4437075392/) — Citi
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473935935/) — Flexiple
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-30
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4462455843/) — Franklin Templeton
+- 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-09-30
