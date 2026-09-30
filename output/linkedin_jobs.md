@@ -1,40 +1,28 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-29 21:02 UTC*
+*Last updated: 2026-09-30 00:49 UTC*
 
-**9 new role(s)** since last run · 9 total in last 2h
+**6 new role(s)** since last run · 6 total in last 2h
 
-### [Gen AI Engineer](https://www.linkedin.com/jobs/view/4463515378/) — Cognizant
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-09-29
+### [Interesting Job Opportunity: Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473560982/) — Hitya Global
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-30
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473521603/) — Flexiple
+### [InfoBeans Technologies - AI Engineer](https://www.linkedin.com/jobs/view/4473569425/) — InfoBeans
+- 📍 **Location:** Pune City, Maharashtra, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer 3](https://www.linkedin.com/jobs/view/4473574269/) — MongoDB
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer-II](https://www.linkedin.com/jobs/view/4305171322/) — Spreetail
 - 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-30
 
-### [GenAI Developer](https://www.linkedin.com/jobs/view/4454286266/) — Citi
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-29
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473588103/) — TaskVerse
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-30
 
-### [Forward Deployed AI Engineer](https://www.linkedin.com/jobs/view/4471310518/) — Trida Labs
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4473524852/) — Fivetran
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-29
-
-### [GenAI Developer](https://www.linkedin.com/jobs/view/4454403156/) — Citi
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-29
-
-### [AI Native Software Engineer](https://www.linkedin.com/jobs/view/4464626005/) — Greenway Health
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer III - Python, AWS, GenAI](https://www.linkedin.com/jobs/view/4473535744/) — JPMorganChase
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer III - Java Full Stack Developer + GenAI / LLM + AWS](https://www.linkedin.com/jobs/view/4473541611/) — JPMorganChase
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Software Engineer (III) - Core Engineer III](https://www.linkedin.com/jobs/view/4470914803/) — TekWissen India
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-09-29
