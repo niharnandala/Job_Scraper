@@ -1,128 +1,64 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-01 13:36 UTC*
+*Last updated: 2026-10-01 20:08 UTC*
 
-**31 new role(s)** since last run · 31 total in last 2h
+**15 new role(s)** since last run · 15 total in last 2h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4473732257/) — ShopOS
+### [Applied AI Engineer - Computer Vision](https://www.linkedin.com/jobs/view/4472945760/) — Endimension Technology Private Limited
+- 📍 **Location:** Mumbai, Maharashtra, India
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4456397570/) — Cisco
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-01
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4472935118/) — Lexapar
+### [Python Developer](https://www.linkedin.com/jobs/view/4473911550/) — Hewlett Packard Enterprise
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-01
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4474196159/) — Info Way Solutions
-- 📍 **Location:** Pune District, Maharashtra, India
-- 🕒 **Posted:** 2026-10-01
-
-### [AI Engineer — Agent & Runtime Engineering](https://www.linkedin.com/jobs/view/4472537934/) — SecNinjaz Technologies LLP
-- 📍 **Location:** Vijayawada, Andhra Pradesh, India
-- 🕒 **Posted:** 2026-10-01
-
-### [AI Developer Java/Python |Bengaluru| 3-6 YOE| Immediate Joining](https://www.linkedin.com/jobs/view/4472557256/) — Codians.ai
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4472543793/) — Flex
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-10-01
-
-### [GenAI Engineer](https://www.linkedin.com/jobs/view/4474146912/) — OneMetric
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Python Developer](https://www.linkedin.com/jobs/view/4472526979/) — Zensar Technologies
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer - Python, GenAI](https://www.linkedin.com/jobs/view/4474156357/) — Blue Yonder
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer - Python, GenAI](https://www.linkedin.com/jobs/view/4472540442/) — Blue Yonder
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Cloud AI Engineer (English)](https://www.linkedin.com/jobs/view/4463862529/) — Google
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Cloud AI Engineer (English)](https://www.linkedin.com/jobs/view/4463868575/) — Google
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer, Full Stack (Python & Golang backend + Frontend) - PUNE](https://www.linkedin.com/jobs/view/4465309211/) — QAD
+### [Low-Code AI Developer - GSM](https://www.linkedin.com/jobs/view/4474339980/) — Rockwell Automation
 - 📍 **Location:** Pune/Pimpri-Chinchwad Area
 - 🕒 **Posted:** 2026-10-01
 
-### [AI Engineer - Internship](https://www.linkedin.com/jobs/view/4472928207/) — ClickPost
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Software & AI Engineer Intern](https://www.linkedin.com/jobs/view/4472525081/) — HUEWINE
-- 📍 **Location:** Vilavankod, Tamil Nadu, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Artificial Intelligence Intern | Entry Level | Fresher | Python, AI, Machine Learning, Generative AI | Remote](https://www.linkedin.com/jobs/view/4472550172/) — MediNex Workforce
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-01
-
-### [Deployment Engineer](https://www.linkedin.com/jobs/view/4453822986/) — Avoca
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Applied AI and ML Engineer](https://www.linkedin.com/jobs/view/4472559422/) — Google
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [AI Engineer - Copilot Studio](https://www.linkedin.com/jobs/view/4472935340/) — Siemens
-- 📍 **Location:** Bangalore Urban, Karnataka, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Cloud AI Engineer (English)](https://www.linkedin.com/jobs/view/4463874478/) — Google
+### [Low-Code AI Developer - GSM](https://www.linkedin.com/jobs/view/4474343791/) — Rockwell Automation
 - 📍 **Location:** Gurgaon, Haryana, India
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4472684856/) — Oculon.AI
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4472558471/) — KodeNeurons
-- 📍 **Location:** Aurangabad, Maharashtra, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Intermediate AI Engineer – Python, RAG, Agentic AI, ADK, MCP, GCP, Vertex AI, IBM Watsonx](https://www.linkedin.com/jobs/view/4306634945/) — UPS
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4474305335/) — Akkodis
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-10-01
-
-### [AI/ML Engineer — Data, Evaluation & Model Improvement](https://www.linkedin.com/jobs/view/4472546581/) — SecNinjaz Technologies LLP
-- 📍 **Location:** Vijayawada, Andhra Pradesh, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Gen AI Engineer (3-5 years)](https://www.linkedin.com/jobs/view/4472553755/) — Antal International
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4454929863/) — Kaseya
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-10-01
-
-### [Associate Software Engineer - Java](https://www.linkedin.com/jobs/view/4453467268/) — Celonis
-- 📍 **Location:** Greater Bengaluru Area
-- 🕒 **Posted:** 2026-10-01
-
-### [GCP Backend Developer / Engineer](https://www.linkedin.com/jobs/view/4446725287/) — EXL
+### [Software Engineer - Python, UI, AI, Exp: 4-8 Yrs, Bangalore](https://www.linkedin.com/jobs/view/4445424947/) — Cisco
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-01
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4463436849/) — KLA
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [Freelance Machine Learning Engineer: Build Coding Challenges for AI Training](https://www.linkedin.com/jobs/view/4474388084/) — DevFixr
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474191689/) — Global Payments Inc.
+### [Applied AI Specialist-Cloud FullStack](https://www.linkedin.com/jobs/view/4463427689/) — IBM
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer, Professional Services R&D](https://www.linkedin.com/jobs/view/4463441058/) — Okta
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-01
+
+### [LLM Engineer Trainer](https://www.linkedin.com/jobs/view/4472557750/) — GROWAI Edtech
+- 📍 **Location:** Pune City, Maharashtra, India
+- 🕒 **Posted:** 2026-10-01
+
+### [LLM Engineer Trainer](https://www.linkedin.com/jobs/view/4468488744/) — GROWAI Edtech
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-01
+
+### [🚀 WE'RE HIRING | NEXT-GEN AI ENGINEERING TALENT](https://www.linkedin.com/jobs/view/4472811476/) — QuantumCommit
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-01
+
+### [Geometry Reconstruction C++ Software Engineer](https://www.linkedin.com/jobs/view/4465825277/) — Dassault Systèmes
 - 📍 **Location:** Pune/Pimpri-Chinchwad Area
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer I](https://www.linkedin.com/jobs/view/4472944969/) — Reputation
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-01
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4463159601/) — Franklin Templeton
+- 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-10-01
