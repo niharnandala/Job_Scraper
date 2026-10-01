@@ -1,104 +1,58 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-01 00:06 UTC*
+*Last updated: 2026-10-01 06:41 UTC*
 
-**17 new role(s)** since last run · 24 total in last 24h
+**10 new role(s)** since last run · 24 total in last 24h
 
-### [Software Engineer 2](https://in.indeed.com/viewjob?jk=06d18d63e23a0b4e) — Skyworks Solutions
+### [Associate AI/ML Engineer](https://in.indeed.com/viewjob?jk=13d6614707b374a0) — Optum
+- 📍 **Location:** UP, IN
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Data & AI Engineer](https://in.indeed.com/viewjob?jk=cd9b1b782af6f694) — Mercedes-Benz Group
 - 📍 **Location:** KA, IN
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Specialist I - ML Engineering](https://in.indeed.com/viewjob?jk=48602511bba73da5) — UST
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Agentic AI Engineer](https://in.indeed.com/viewjob?jk=96ac18ec31794f84) — Persistent Systems
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Associate Software Engineer](https://in.indeed.com/viewjob?jk=179e672ef09a7591) — Flex
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Associate Software Engineer](https://in.indeed.com/viewjob?jk=071c04e7a56f6d14) — Flex
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Associate Software Engineer](https://in.indeed.com/viewjob?jk=fad1f35f3d7d6f80) — Flex
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Associate Software Engineer](https://in.indeed.com/viewjob?jk=2149b010112a5bc8) — Flex
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [AI & Cloud Solutions Engineer](https://in.indeed.com/viewjob?jk=80b55de5ff7f3e3b) — AstraZeneca
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [AVP - Fullstack AI Engineer](https://in.indeed.com/viewjob?jk=0e731676e91f54bf) — Jefferies LLC
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer (Quality Engineering)](https://in.indeed.com/viewjob?jk=ba7e7650c95dce40) — Telstra
+### [Software Engineer_Java_ReactJS_Data&ML](https://in.indeed.com/viewjob?jk=2dd25ab6d8c5c712) — Lowe's Home Improvement
 - 📍 **Location:** KA, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [MTS-1 Machine Learning Engineer](https://in.indeed.com/viewjob?jk=5aebeb1eb07b958e) — eBay
+### [GenAI Developer](https://in.indeed.com/viewjob?jk=dbbecef608d0c49d) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [AI Application Engineer](https://in.indeed.com/viewjob?jk=5fa7ec865ec56d03) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [AI/ML Engineer (Generative AI, ML,AWS)](https://in.indeed.com/viewjob?jk=84f394dd751cf223) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [AI/ML Engineer (Generative AI, ML,AWS)](https://in.indeed.com/viewjob?jk=3f9ccbf308fd36fb) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer (Quality Engineering)](https://in.indeed.com/viewjob?jk=8cab5e869c7427ed) — Telstra Business Technology Centre Perth South
 - 📍 **Location:** KA, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Gen AI Developer- Python, FAST API](https://in.indeed.com/viewjob?jk=fcddc0e39d1c41c9) — Verisk
-- 📍 **Location:** TS, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Mid level Ai Engineer](https://in.indeed.com/viewjob?jk=3d19f4ed1bd74985) — Blessed Man Branding Services
-- 📍 **Location:** Remote, IN
+### [Software Engineer – Java](https://in.indeed.com/viewjob?jk=7ec555065ea71a6e) — SymphonyAI
+- 📍 **Location:** KA, IN
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, internship
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer III - Python LLM Engineer](https://in.indeed.com/viewjob?jk=de4d0ec406e144af) — JPMorganChase
-- 📍 **Location:** KA, IN
+### [Python Developer](https://in.indeed.com/viewjob?jk=56762e04a7c91b24) — Benzatine Infotech
+- 📍 **Location:** GJ, IN
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer - Graduates 2026](https://in.indeed.com/viewjob?jk=50baa14017a428d3) — Zycus Infotech
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** internship
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer II - Unix, Shell, DB (Oracle, MongoDB), Python, SRE](https://in.indeed.com/viewjob?jk=24b590b6c41087c4) — JPMorganChase
-- 📍 **Location:** MH, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Python Developer](https://in.indeed.com/viewjob?jk=84a729afc04eb32b) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** KA, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
