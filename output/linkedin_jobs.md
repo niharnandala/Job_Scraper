@@ -1,68 +1,40 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-09-30 20:01 UTC*
+*Last updated: 2026-10-01 00:05 UTC*
 
-**16 new role(s)** since last run · 16 total in last 2h
+**9 new role(s)** since last run · 9 total in last 2h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4458501392/) — OATI
-- 📍 **Location:** Mohali district, India
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4473974153/) — Optum India
+- 📍 **Location:** Gurgaon, Haryana, India
 - 🕒 **Posted:** 2026-09-30
 
-### [AI Engineer 1](https://www.linkedin.com/jobs/view/4472328266/) — Millennium
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Gen AI Developer- Python, FAST API](https://www.linkedin.com/jobs/view/4473921496/) — Verisk
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4473956693/) — TRKFLY AI
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4472320781/) — Morgan's Holding
-- 📍 **Location:** India
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473967337/) — Optum India
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4472330500/) — Flex
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka](https://www.linkedin.com/jobs/view/4473953787/) — JPMorganChase
+- 📍 **Location:** Mumbai, Maharashtra, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437417252/) — Cisco
+### [Software Engineer I, ITC](https://www.linkedin.com/jobs/view/4473265876/) — Nike
+- 📍 **Location:** Karnataka, India
+- 🕒 **Posted:** 2026-09-30
+
+### [Full Stack AI Engineer](https://www.linkedin.com/jobs/view/4472325612/) — Cube
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-30
 
-### [AVP - Fullstack AI Engineer](https://www.linkedin.com/jobs/view/4473929334/) — Jefferies
-- 📍 **Location:** Pune Division, Maharashtra, India
+### [Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka](https://www.linkedin.com/jobs/view/4473950798/) — JPMorganChase
+- 📍 **Location:** Mumbai, Maharashtra, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Full-Stack AI Engineer (Up to 15LPA)](https://www.linkedin.com/jobs/view/4473922577/) — CodeRound AI
-- 📍 **Location:** India
+### [GenAI Developer](https://www.linkedin.com/jobs/view/4441348368/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-09-30
 
-### [Python Developer](https://www.linkedin.com/jobs/view/4473911550/) — Hewlett Packard Enterprise
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer II - Consumer Intelligence & Engagement](https://www.linkedin.com/jobs/view/4473940071/) — PUMA Group
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer II (Full Stack) - Consumer Intelligence & Engagement](https://www.linkedin.com/jobs/view/4473940062/) — PUMA Group
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer – Java](https://www.linkedin.com/jobs/view/4473934125/) — SymphonyAI
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Generative AI Educator(Part Time)](https://www.linkedin.com/jobs/view/4472634016/) — ExamAdda
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-30
-
-### [Python Developer Assistant Vice President](https://www.linkedin.com/jobs/view/4437075392/) — Citi
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-09-30
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473935935/) — Flexiple
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-30
-
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4462455843/) — Franklin Templeton
-- 📍 **Location:** Greater Hyderabad Area
+### [AI Engineer (LLM Agents & RAG)](https://www.linkedin.com/jobs/view/4473970792/) — Raglic
+- 📍 **Location:** Lakhipur, Assam, India
 - 🕒 **Posted:** 2026-09-30
