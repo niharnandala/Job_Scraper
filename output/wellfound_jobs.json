@@ -1,7 +1,19 @@
 {
-  "scraped_at": "2026-10-02 08:23 UTC",
-  "total": 0,
+  "scraped_at": "2026-10-02 15:42 UTC",
+  "total": 1,
   "new_count": 0,
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "AI Backend Engineer",
+      "location": "Mumbai + 1",
+      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 4 weeks ago 4 weeks ago Save Apply"
+    }
+  ],
   "new_jobs": []
 }
