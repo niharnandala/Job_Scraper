@@ -1,42 +1,38 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-02 12:52 UTC*
+*Last updated: 2026-10-02 18:39 UTC*
 
-**6 new role(s)** since last run · 14 total in last 24h
+**5 new role(s)** since last run · 15 total in last 24h
 
-### [AI Engineer](https://in.indeed.com/viewjob?jk=fb2220fe12804d73) — Luxoft
-- 📍 **Location:** HR, IN
+### [Artificial Intelligence Engineer](https://in.indeed.com/viewjob?jk=f6e285c6922af701) — Tribe Catalyst
+- 📍 **Location:** KA, IN
+- 💰 **Salary:** $5000k–$8000k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer - NLP/LLM Reasoning](https://in.indeed.com/viewjob?jk=881fc8115df507dd) — Unknown
-- 📍 **Location:** MH, IN
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer (III) - Core Engineer III (TEIN-JOB-232)](https://in.indeed.com/viewjob?jk=bdbef8febfb3b414) — Unknown
+### [AI / ML and Generative AI research assistant](https://in.indeed.com/viewjob?jk=b129c38eaa9fa147) — Bosch
 - 📍 **Location:** TN, IN
-- 💰 **Salary:** $1700k–$2100k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-02
-
-### [AI Engineer (Ahmedabad - fresher)](https://in.indeed.com/viewjob?jk=2b93bd04b1b33361) — Praeclarum Tech
-- 📍 **Location:** GJ, IN
-- 💰 **Salary:** $8000–$12k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Forward Deployed Engineer (Conversational AI)](https://in.indeed.com/viewjob?jk=6209dabd2ef84b51) — Route Mobile Limited
-- 📍 **Location:** HR, IN
-- 💰 **Salary:** $800k–$2000k/mo
+### [AI/ML Engineer – LLM & Python](https://in.indeed.com/viewjob?jk=a199ec4f8be52b2f) — Ocode Technologies
+- 📍 **Location:** PB, IN
+- 💰 **Salary:** $15k–$40k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [AI/ML Engineer](https://in.indeed.com/viewjob?jk=fd6ecea76e7fea76) — NexusLink Services India Pvt. Ltd.
-- 📍 **Location:** GJ, IN
-- 💰 **Salary:** $30k–$45k/mo
+### [Junior AI Engineer](https://in.indeed.com/viewjob?jk=0e31c7de27a57624) — Byteflow Innovations Private Limited
+- 📍 **Location:** MH, IN
+- 💰 **Salary:** $1000k–$1500k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [AI Engineer (Copilot Studio & Power Automate)](https://in.indeed.com/viewjob?jk=3c4ac5f832ec0925) — Clowise Business Solutions
+- 📍 **Location:** MH, IN
+- 💰 **Salary:** $300k–$400k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
