@@ -4324,3 +4324,4 @@
 {"workflow": "wellfound", "timestamp": "2026-10-02T08:23:09Z", "job_count": 0, "run_id": "36983682884"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36990956511", "timestamp": "2026-10-02T09:39:04Z", "workflow": "glassdoor"}
 {"workflow": "yc", "timestamp": "2026-10-02T09:40:54Z", "job_count": 0, "run_id": "36991119518"}
+{"job_count": 14, "run_attempt": "1", "run_id": "37007992797", "timestamp": "2026-10-02T12:52:03Z", "workflow": "linkedin"}
