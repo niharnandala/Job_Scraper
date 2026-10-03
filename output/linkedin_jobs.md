@@ -1,92 +1,36 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-03 13:38 UTC*
+*Last updated: 2026-10-03 18:10 UTC*
 
-**22 new role(s)** since last run · 22 total in last 2h
+**8 new role(s)** since last run · 8 total in last 2h
 
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4473861321/) — Talentgigs
-- 📍 **Location:** Coimbatore, Tamil Nadu, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Gen AI Engineer](https://www.linkedin.com/jobs/view/4446731185/) — EXL
-- 📍 **Location:** Noida, Uttar Pradesh, India
-- 🕒 **Posted:** 2026-10-03
-
-### [ML Engineer II - Data Engineer +AI](https://www.linkedin.com/jobs/view/4463482749/) — UST
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-03
-
-### [AI and DSP Applications Software Engineer](https://www.linkedin.com/jobs/view/4359186378/) — Qualcomm
-- 📍 **Location:** Greater Hyderabad Area
-- 🕒 **Posted:** 2026-10-03
-
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464505920/) — Google
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464526278/) — Google
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464511495/) — Google
-- 📍 **Location:** Gurgaon, Haryana, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464524320/) — Google
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464508581/) — Google
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464507596/) — Google
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-03
-
-### [GEN AI Engineer](https://www.linkedin.com/jobs/view/4473857692/) — Infosys
+### [Convo & Agentic AI Developer -Associate 2](https://www.linkedin.com/jobs/view/4454114448/) — PwC Acceleration Center India
 - 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-10-03
 
-### [AI ML Engineer](https://www.linkedin.com/jobs/view/4473851846/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Agentic AI Engineer - Assistant Vice President / Vice President](https://www.linkedin.com/jobs/view/4419815914/) — iCapital
-- 📍 **Location:** Jaipur, Rajasthan, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4465117734/) — DevRev
+### [AI Engineer](https://www.linkedin.com/jobs/view/4473434949/) — xhawk
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-03
 
-### [Cloud AI Engineer, Technical Onboarding Center](https://www.linkedin.com/jobs/view/4464526279/) — Google
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4465114675/) — DevRev
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-03
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4473858638/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4415291426/) — Blackhawk Network India
+- 📍 **Location:** Kozhikode, Kerala, India
 - 🕒 **Posted:** 2026-10-03
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4473856683/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
+### [Software Engineer, Agents Governance](https://www.linkedin.com/jobs/view/4437519911/) — Glean
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-03
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4473866324/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4473859540/) — internmo
+### [Ai Engineering Instructor | Part Time | Remote](https://www.linkedin.com/jobs/view/4473454238/) — ionots Technologies Pvt Ltd
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-03
 
-### [Google CCAI Developer](https://www.linkedin.com/jobs/view/4473864424/) — Infosys
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447167156/) — Adobe
 - 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-10-03
 
-### [Google CCAI Developer](https://www.linkedin.com/jobs/view/4473865339/) — Infosys
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Google CCAI Developer](https://www.linkedin.com/jobs/view/4473848998/) — Infosys
+### [Full-stack Agentic AI Developer - Associate](https://www.linkedin.com/jobs/view/4464283297/) — PwC Acceleration Center India
 - 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-10-03
