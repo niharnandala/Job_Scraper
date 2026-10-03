@@ -1,38 +1,40 @@
 # 🟦 Indeed — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-03 08:18 UTC*
+*Last updated: 2026-10-03 13:38 UTC*
 
-**5 new role(s)** since last run · 10 total in last 24h
+**6 new role(s)** since last run · 11 total in last 24h
 
-### [Full Stack AI Engineer](https://in.indeed.com/viewjob?jk=f5eb03a31f3c8b22) — VINMAR INTERNATIONAL
-- 📍 **Location:** MH, IN
-- 💰 **Salary:** $4000k–$5000k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-03
-
-### [Software Engineer (Full-Stack)](https://in.indeed.com/viewjob?jk=30c912353e2d539c) — Amex Technology
+### [Full-Stack Software Engineer](https://in.indeed.com/viewjob?jk=049457b58b868d86) — Unknown
 - 📍 **Location:** GJ, IN
-- 💰 **Salary:** $200k–$1640k/yr
+- 💰 **Salary:** $25k–$35k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-03
 
-### [AI Team Developer / AI Developer](https://in.indeed.com/viewjob?jk=6fc11e829831329c) — Dr. Aravind's IVF Fertility & Pregnancy Centre
-- 📍 **Location:** TN, IN
-- 💰 **Salary:** $25k–$45k/mo
+### [AI Engineer](https://in.indeed.com/viewjob?jk=a0fd77712be0af7b) — Infosys
+- 📍 **Location:** KA, IN
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-03
+- 🕒 **Posted:** 2026-10-01
 
-### [Agentic AI Developer - Mumbai](https://in.indeed.com/viewjob?jk=26f0684c65e32177) — Nelson Infotech
+### [AI Engineer](https://in.indeed.com/viewjob?jk=7903fb76222b5e06) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [AI Engineer](https://in.indeed.com/viewjob?jk=326865c04b83300e) — Infosys
+- 📍 **Location:** KA, IN
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Junior AI Engineer](https://in.indeed.com/viewjob?jk=0e31c7de27a57624) — Byteflow Innovations Private Limited
 - 📍 **Location:** MH, IN
-- 💰 **Salary:** $35k–$50k/mo
+- 💰 **Salary:** $1000k–$1500k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-03
+- 🕒 **Posted:** 2026-10-02
 
-### [AI Developer](https://in.indeed.com/viewjob?jk=1ce3d5429da0a97c) — Infovenz software solutions
-- 📍 **Location:** TN, IN
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Generative AI Intern](https://in.indeed.com/viewjob?jk=fd4aacb4b002e72d) — Unknown
+- 📍 **Location:** TS, IN
+- 💰 **Salary:** $450k–$600k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** internship
 - 🕒 **Posted:** 2026-10-03
