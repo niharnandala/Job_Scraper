@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 23:10 UTC",
-  "total": 11,
-  "new_count": 1,
+  "scraped_at": "2026-10-03 02:07 UTC",
+  "total": 8,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Senquire Analytics Private Limited",
@@ -76,24 +76,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Byteflow Innovations Private Limited",
-      "title": "Junior AI Engineer",
-      "location": "MH, IN",
-      "url": "https://in.indeed.com/viewjob?jk=0e31c7de27a57624",
-      "direct_url": "http://in.indeed.com/job/junior-ai-engineer-0e31c7de27a57624",
-      "company_url": "https://in.indeed.com/cmp/Byteflow-Innovations-Private-Limited",
-      "date_posted": "2026-10-02",
-      "description": "Jr AI Engineer \\*\n\nJob Location: Pune\n\nExperience: 2 - 5 years\n\nSalary: 6 to 16 LPA\n\nRole Summary:\n\nSupport the design, development, and deployment of AI/GenAI solutions, working closely with senior engineers to build scalable and reliable systems.\n\nKey Responsibilities:\n\nAssist in building and deploying AI/ML and GenAI applications (RAG, chatbots, automation tools)\n\nDevelop and maintain APIs using Python/Node.js (FastAPI, Flask, etc.)\n\nWork on data preprocessing, embeddings, and basic vector search implementations\n\nSupport ingestion pipelines and data workflows\n\nParticipate in prompt engineering, testing, and evaluation activities\n\nContribute to debugging, monitoring, and performance optimization\n\nCollaborate with cross-functional teams on feature delivery\n\nRequired Skills:\n\n2–5 years of experience in software engineering or AI/ML roles\n\nProficiency in Python (preferred) or JavaScript/TypeScript\n\nBasic understanding of LLMs, RAG, and AI application development\n\nFamiliarity with APIs, microservices, and databases (SQL/NoSQL)\n\nExposure to cloud platforms (AWS/Azure/GCP)\n\nStrong problem-solving and learning mindset\n\nPreferred Skills:\n\nExperience with tools like LangChain, Semantic Kernel, or similar frameworks\n\nUnderstanding of Docker and basic CI/CD practices\n\nExposure to vector databases (Pinecone, Weaviate, etc.)\n\nPay: ₹1,000,000.00 - ₹1,500,000.00 per year\n\nBenefits:\n\n* Provident Fund\n\nWork Location: In person",
-      "salary": "$1000k–$1500k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "INR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
       "company": "Unknown",
       "title": "Software Engineer - NLP/LLM Reasoning",
       "location": "MH, IN",
@@ -130,33 +112,15 @@
       "ats": "Indeed"
     },
     {
-      "company": "Infosys",
-      "title": "AI Engineer (Gen AI, Gcp/ snowflake/aws)",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=c52056336fc97fd7",
-      "direct_url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-INDEED1-254425&sourceId=4010",
-      "company_url": "https://in.indeed.com/cmp/Infosys",
-      "date_posted": "2026-10-01",
-      "description": "**Job Description:**\n--------------------\n\n  \n\n* AI Engineer DBRX AWS Azure GCP Snowflake variants\n* Core Skills\n* Python SQL ETL ELT Data Modeling Data Quality Cloud native Development API Integration Data Engineering ETL Document Processing Workflow design knowledge of LLM development RAG\n* Prompt Engineering AI Coding Assistants\n* Advanced Skills\n* RAG Data Pipelines LLM Data Integration AI Service Integration Scalable AI Deployments Agent Orchestration Tool Calling LangGraph LangChain\n* Semantic Layers Data Governance Memory Management Autonomous Agents Agent Routing State Management Memory Handling Tool Integration\n\n  \n\n**Key Responsibilities:**\n-------------------------\n\n  \n\n* Design develop and deploy Generative AI applications using LLMs and foundation models\n* Develop AI solutions utilizing RAG Retrieval Augmented Generation architectures\n* Build and optimize AI pipelines using Python LangChain LlamaIndex and vector databases\n* Integrate AI solutions with AWS GCP and Snowflake environments\n* Fine tune and evaluate LLMs for domain specific business use cases\n* Create scalable APIs and microservices for AI model deployment\n* Collaborate with data engineers ML engineers and business stakeholders\n* Implement prompt engineering techniques and model performance optimization\n* Ensure data security governance and compliance in AI applications\n* Monitor and improve AI model performance in production environments\n\n  \n\n**Technical Requirements:**\n---------------------------\n\n  \n\n* Strong programming experience in Python\n* Hands on experience with Generative AI LLMs Prompt Engineering and RAG\n* Experience with frameworks such as\n* LangChain\n* LlamaIndex\n* Hugging Face\n* OpenAI APIs\n* Vertex AI Bedrock\n* Strong cloud experience in AWS or GCP\n* Hands on experience with Snowflake including data integration and optimization\n* Experience with vector databases such as Pinecone FAISS ChromaDB or Weaviate\n* Knowledge of REST APIs microservices and containerization Docker Kubernetes\n* Familiarity with MLOps and CI CD practices\n\n  \n\n**Preferred Skills:**\n---------------------\n\nTechnology->AI-Data science->PYTHON,Technology->Cloud Platform->Amazon Webservices DevOps->Amazon CodeStar,Technology->Cloud Platform->GCP Data Analytics,Technology->Data on Cloud-DataStore->Snowflake",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "NexusLink Services India Pvt. Ltd.",
-      "title": "AI/ML Engineer",
-      "location": "GJ, IN",
-      "url": "https://in.indeed.com/viewjob?jk=fd6ecea76e7fea76",
-      "direct_url": "http://in.indeed.com/job/aiml-engineer-fd6ecea76e7fea76",
-      "company_url": "https://in.indeed.com/cmp/Nexuslink-Services-India-Pvt.-Ltd.",
+      "company": "Byteflow Innovations Private Limited",
+      "title": "Junior AI Engineer",
+      "location": "MH, IN",
+      "url": "https://in.indeed.com/viewjob?jk=0e31c7de27a57624",
+      "direct_url": "http://in.indeed.com/job/junior-ai-engineer-0e31c7de27a57624",
+      "company_url": "https://in.indeed.com/cmp/Byteflow-Innovations-Private-Limited",
       "date_posted": "2026-10-02",
-      "description": "**About the Role**\n\n* We are looking for a talented **AI/ML Engineer** to join our innovative team\n* Passion for **Machine Learning, Artificial Intelligence**, and solving real-world problems at scale\n\n**Key Responsibilities**\n\n* Design, develop, and deploy **machine learning models** for business applications\n* Collect, preprocess, clean, and perform **feature engineering** on datasets\n* Implement, train, and fine-tune ML models using **TensorFlow, PyTorch, or Scikit-learn**\n* Collaborate with **Data Scientists, Data Engineers, and Product Teams** to integrate ML solutions into production\n* Conduct experiments, evaluate results, and **optimize models** for accuracy, performance, and scalability\n* Monitor model performance and **retrain models** as required\n* Work on **NLP, Computer Vision, and Deep Learning** use cases\n* Apply **GenAI and AI Agent-based solutions** *(added advantage)*\n* Understand and implement **RAG (Retrieval-Augmented Generation) architecture** *(added advantage)*\n* Stay updated with the latest **AI/ML research, tools, and best practices**\n\n**Required Skills**\n\n* Proficiency in **Python** and ML libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch\n* Strong understanding of **ML algorithms, statistics, and probability**\n* Hands-on experience with **end-to-end ML workflows** and model evaluation techniques\n* Familiarity with **MLOps tools**: MLflow, Kubeflow, Docker, CI/CD pipelines\n* Basic knowledge of **cloud platforms** such as AWS, Azure, or GCP for model deployment\n\n**Qualifications**\n\n* **BE / B.Tech / MCA / M.Sc. / M.Tech** in Computer Science, Data Science, Artificial Intelligence, or a related field\n\nJob Types: Full-time, Permanent\n\nPay: ₹30,000.00 - ₹45,000.00 per month\n\nBenefits:\n\n* Provident Fund\n\nWork Location: In person",
-      "salary": "$30k–$45k/mo",
+      "description": "Jr AI Engineer \\*\n\nJob Location: Pune\n\nExperience: 2 - 5 years\n\nSalary: 6 to 16 LPA\n\nRole Summary:\n\nSupport the design, development, and deployment of AI/GenAI solutions, working closely with senior engineers to build scalable and reliable systems.\n\nKey Responsibilities:\n\nAssist in building and deploying AI/ML and GenAI applications (RAG, chatbots, automation tools)\n\nDevelop and maintain APIs using Python/Node.js (FastAPI, Flask, etc.)\n\nWork on data preprocessing, embeddings, and basic vector search implementations\n\nSupport ingestion pipelines and data workflows\n\nParticipate in prompt engineering, testing, and evaluation activities\n\nContribute to debugging, monitoring, and performance optimization\n\nCollaborate with cross-functional teams on feature delivery\n\nRequired Skills:\n\n2–5 years of experience in software engineering or AI/ML roles\n\nProficiency in Python (preferred) or JavaScript/TypeScript\n\nBasic understanding of LLMs, RAG, and AI application development\n\nFamiliarity with APIs, microservices, and databases (SQL/NoSQL)\n\nExposure to cloud platforms (AWS/Azure/GCP)\n\nStrong problem-solving and learning mindset\n\nPreferred Skills:\n\nExperience with tools like LangChain, Semantic Kernel, or similar frameworks\n\nUnderstanding of Docker and basic CI/CD practices\n\nExposure to vector databases (Pinecone, Weaviate, etc.)\n\nPay: ₹1,000,000.00 - ₹1,500,000.00 per year\n\nBenefits:\n\n* Provident Fund\n\nWork Location: In person",
+      "salary": "$1000k–$1500k/yr",
       "salary_source": "direct_data",
       "salary_currency": "INR",
       "job_type": "fulltime",
@@ -182,44 +146,7 @@
       "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
-    },
-    {
-      "company": "Terac",
-      "title": "South Asian Software Engineers: Coding Tasks for AI Evaluation",
-      "location": "IN",
-      "url": "https://in.indeed.com/viewjob?jk=95e62d0d6a4ad23b",
-      "direct_url": "https://jobs.ashbyhq.com/terac/838fdc44-67e3-402b-a425-841ecf383a7c?utm_source=vPw813A5Mo",
-      "company_url": "https://in.indeed.com/cmp/Terac",
-      "date_posted": "2026-10-01",
-      "description": "**What We're Researching**\n--------------------------\n\nWe're running a paid study on the effectiveness of coding evaluation harnesses used to test AI agents. Our team is building a comprehensive suite of programming environments designed to measure agent performance accurately. This work ensures that AI coding assistants are evaluated against realistic, high-quality development scenarios.\n\n**How It Works**\n----------------\n\nYou will walk through a series of proposed coding tasks and environments during an AI-moderated session. We will ask you to review the structure, difficulty, and realism of these programming challenges. You will provide technical feedback on the evaluation harnesses and suggest improvements to the test suites. The conversation will focus on ensuring these tasks accurately reflect real-world engineering requirements.\n\n**Who This Is For**\n-------------------\n\nWe are hiring experienced software engineers based in South Asia who have a strong background in building and reviewing complex codebases. We welcome backend developers, test automation engineers, and full-stack engineers who understand evaluation harnesses. Ideal candidates have hands-on experience verifying realistic programming tasks in professional environments.\n\n**What You'll Do**\n------------------\n\n* Review proposed coding tasks and programming environments for realism\n* Provide technical feedback on the structure and difficulty of evaluation harnesses\n* Walk us through your approach to verifying complex code challenges\n* Suggest improvements to make the test suites more robust\n\n**Who Should Apply**\n--------------------\n\n* Professional software engineer based in South Asia\n* Experience building or reviewing realistic programming tasks\n* Familiarity with coding evaluation harnesses or test automation\n* Comfortable discussing technical workflows in an interview setting\n\n**Compensation**\n----------------\n\n$35 per hour\n\n**Ready to participate?**\n-------------------------\n\n**Start your paid interview now**\n\n**About Terac**\n---------------\n\nTerac is building the world's largest pool of vetted human experts for AI. Researchers, AI labs, and product teams use Terac to recruit, screen, and pay study participants across industries, languages, and skill sets.\n\nLearn more at terac.com or on YouTube at @jointerac.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "INR",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Senquire Analytics Private Limited",
-      "title": "Deployment Engineer",
-      "location": "MH, IN",
-      "url": "https://in.indeed.com/viewjob?jk=0db66a42c83250da",
-      "direct_url": "http://in.indeed.com/job/deployment-engineer-0db66a42c83250da",
-      "company_url": "https://in.indeed.com/cmp/Senquire-Analytics-Private-Limited",
-      "date_posted": "2026-10-02",
-      "description": "We are looking for a **Deployment Engineer** to support the installation, commissioning, integration, and successful deployment of **AI-powered machine vision quality inspection systems** at customer manufacturing facilities.The candidate will work closely with AI, software, automation, electrical, and customer teams to ensure that vision inspection systems are installed correctly, validated against quality requirements, and perform reliably in production environments.**Key Responsibilities**\n\n* Install, configure, and commission **AI-based machine vision inspection systems** at customer sites.\n* Understand customer inspection requirements and translate them into deployment and system requirements.\n* Set up and configure **industrial cameras, lenses, lighting, sensors, triggers, and edge computing systems**.\n* Perform camera calibration, image acquisition setup, triggering, exposure, focus, and lighting adjustments.\n* Deploy and configure trained **AI/ML computer vision models** for defect detection and quality inspection.\n* Integrate vision systems with **PLCs, sensors, actuators, robots, conveyors, and other automation equipment**.\n* Support communication protocols such as **Ethernet/IP, Modbus, Profinet, TCP/IP, or similar industrial protocols**.\n* Conduct system testing, validation, FAT/SAT, and production trials.\n* Monitor inspection accuracy, false rejects, missed defects, response time, and overall system performance.\n* Troubleshoot issues related to cameras, lighting, sensors, PLC signals, software, networking, and AI model performance.\n* Perform on-site system tuning to achieve required inspection accuracy and production speed.\n* Coordinate with AI/Software teams for model improvements, retraining, and deployment updates when required.\n* Provide technical support during production ramp-up and post-deployment activities.\n* Train customer operators and maintenance teams on system operation and basic troubleshooting.\n* Prepare deployment reports, installation records, test reports, SOPs, and system handover documentation.\n* Maintain deployment checklists, system configurations, software versions, and service records.\n* Coordinate with customers, automation vendors, and internal engineering teams to ensure smooth project execution.\n* Travel to customer manufacturing sites across India as required.\n\nPay: ₹500,000.00 - ₹1,000,000.00 per hour\n\nBenefits:\n\n* Health insurance\n* Paid sick time\n* Paid time off\n* Provident Fund\n\nWork Location: In person",
-      "salary": "$500k–$1000k/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "INR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
