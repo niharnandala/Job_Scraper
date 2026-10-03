@@ -1,7 +1,30 @@
 {
-  "scraped_at": "2026-10-03 06:21 UTC",
-  "total": 0,
+  "scraped_at": "2026-10-03 12:26 UTC",
+  "total": 2,
   "new_count": 0,
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "AI/ML Engineer",
+      "location": "Hyderabad",
+      "url": "https://wellfound.com/jobs/3301819-ai-ml-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI/ML Engineer Full-time ₹6L – ₹10L • No equity In office • Hyderabad 1 year of exp 3 months ago 3 months ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "AI Software Engineer",
+      "location": "Bangalore Urban",
+      "url": "https://wellfound.com/jobs/248309-ai-software-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Software Engineer Full-time ₹12L – ₹20L • No equity In office • Bangalore Urban 0 years of exp 2 years ago 2 years ago Save Apply"
+    }
+  ],
   "new_jobs": []
 }
