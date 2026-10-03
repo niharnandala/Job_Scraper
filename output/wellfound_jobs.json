@@ -1,53 +1,19 @@
 {
-  "scraped_at": "2026-10-02 20:38 UTC",
-  "total": 3,
-  "new_count": 1,
+  "scraped_at": "2026-10-03 00:23 UTC",
+  "total": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wellfound startup",
-      "title": "AI Backend Engineer",
-      "location": "Mumbai + 1",
-      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
+      "title": "AI Engineer",
+      "location": "Bengaluru",
+      "url": "https://wellfound.com/jobs/4733661-ai-engineer",
       "date_posted": "",
       "posted_age": "unknown",
       "date_source": "unknown",
       "ats": "Wellfound",
-      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 4 weeks ago 4 weeks ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "Software Engineer, AI",
-      "location": "Bangalore Urban",
-      "url": "https://wellfound.com/jobs/4785329-software-engineer-ai",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "Software Engineer, AI Full-time In office • Bangalore Urban 2 days ago 2 days ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI Software Engineer",
-      "location": "Bangalore Urban",
-      "url": "https://wellfound.com/jobs/248309-ai-software-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI Software Engineer Full-time ₹12L – ₹20L • No equity In office • Bangalore Urban 0 years of exp 2 years ago 2 years ago Save Apply"
+      "description": "AI Engineer Full-time ₹30L – ₹55L In office • Bengaluru 4 years of exp 2 weeks ago 2 weeks ago Save Apply"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "Software Engineer, AI",
-      "location": "Bangalore Urban",
-      "url": "https://wellfound.com/jobs/4785329-software-engineer-ai",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "Software Engineer, AI Full-time In office • Bangalore Urban 2 days ago 2 days ago Save Apply"
-    }
-  ]
+  "new_jobs": []
 }
