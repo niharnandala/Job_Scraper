@@ -1,24 +1,28 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-04 13:22 UTC*
+*Last updated: 2026-10-04 17:46 UTC*
 
-**5 new role(s)** since last run · 5 total in last 2h
+**6 new role(s)** since last run · 6 total in last 2h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4473897921/) — Uplevyl
-- 📍 **Location:** Noida, Uttar Pradesh, India
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475505295/) — HRM Counsel
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-04
 
-### [Forward Deployed Engineer (India)](https://www.linkedin.com/jobs/view/4378095026/) — Cartesia
-- 📍 **Location:** Greater Bengaluru Area
+### [Generative AI Intern (Python, Prompting, AI APIs)](https://www.linkedin.com/jobs/view/4474226029/) — MediNex Workforce
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer, Persistent Disk, PhD, Early Career, 2026](https://www.linkedin.com/jobs/view/4388950665/) — Google
+### [Backend Engineer (Python)](https://www.linkedin.com/jobs/view/4473441735/) — Turinton
+- 📍 **Location:** Pune District, Maharashtra, India
+- 🕒 **Posted:** 2026-10-04
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447044195/) — Coinbase
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer II - Connector Engineering](https://www.linkedin.com/jobs/view/4217131706/) — Arcadia
-- 📍 **Location:** Chennai, Tamil Nadu, India
+### [Software Engineer, Evals](https://www.linkedin.com/jobs/view/4437995479/) — Glean
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer-Salesforce](https://www.linkedin.com/jobs/view/4457883566/) — PTC
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Software Engineer](https://www.linkedin.com/jobs/view/4429627835/) — ACI Worldwide
+- 📍 **Location:** Pune Division, Maharashtra, India
 - 🕒 **Posted:** 2026-10-04
