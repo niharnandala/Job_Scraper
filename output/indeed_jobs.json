@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 13:23 UTC",
-  "total": 4,
-  "new_count": 1,
+  "scraped_at": "2026-10-04 17:47 UTC",
+  "total": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Unknown",
@@ -13,24 +13,6 @@
       "date_posted": "2026-10-04",
       "description": "**ob Overview**\n\nAn artificial intelligence (AI) engineer is responsible for designing, developing, and deploying AI solutions that enhance business processes and solve complex problems. These professionals combine expertise in machine learning, deep learning, and data science to create systems capable of learning, adapting, and optimizing over time. Collaborating with cross-functional teams, AI engineers build and train machine learning models, develop algorithms, and integrate AI systems into existing software and infrastructure.\n\nIn addition to technical responsibilities, AI engineers play a strategic role by identifying opportunities for AI applications and driving innovation across industries. They work closely with data scientists, software engineers, and stakeholders to ensure AI models align with organizational goals and deliver real-world value. With a focus on continuous improvement, AI engineers stay updated on advancements in artificial intelligence, exploring tools like PyTorch, TensorFlow, and AWS to enhance scalability and efficiency. This dynamic role is essential for organizations looking to remain competitive in a rapidly evolving technological landscape.\n\n**Key Responsibilities**\n\n* **Develop and implement AI models.** Design machine learning models and algorithms to solve problems and enhance functionality.\n* **Collaborate with cross-functional teams.** Work with data scientists, stakeholders, and product managers to build and deploy AI solutions.\n* **Optimize AI systems.** Improve the performance of AI models and systems for scalability and real-time applications.\n* **Conduct data analysis.** Analyze large data sets to identify patterns and insights that inform AI development.\n* **Prototyping and testing.** Create prototypes to test AI applications and refine machine learning techniques.\n* **Maintain AI pipelines.** Develop and maintain pipelines for deploying AI models into production environments.\n* **Stay updated on advancements.** Research and implement the latest advancements in AI and machine learning frameworks.\n* **Integrate AI solutions.** Implement AI into existing software systems to enhance functionality and user experience.\n\n**Qualifications and Skills**\n\n* **Education.** A bachelor’s degree in computer science, data science, or a related field; a master’s degree is preferred.\n* **Work experience.** Hands-on experience in AI development, data analysis, and machine learning techniques.\n* **Technical skills.** Proficiency in programming languages like Python, Java, and TensorFlow; familiarity with PyTorch and AWS.\n* **Soft skills.** Strong communication skills and problem-solving abilities to work effectively with stakeholders and cross-functional teams.\n* **Certifications.** Relevant certifications in AI and machine learning enhance a candidate’s skill set.\n* **Knowledge base.** Expertise in neural networks, natural language processing, and predictive models.\n* **Data engineering.** Experience working with big data, pipelines, and statistical analysis tools.\n\nPay: ₹479,000.00 - ₹1,770,000.00 per year\n\nWork Location: In person",
       "salary": "$479k–$1770k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "INR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Queberry",
-      "title": "Junior Software Engineer",
-      "location": "KL, IN",
-      "url": "https://in.indeed.com/viewjob?jk=4818b26bdb3aeb2d",
-      "direct_url": "http://in.indeed.com/job/junior-software-engineer-4818b26bdb3aeb2d",
-      "company_url": "https://in.indeed.com/cmp/Queberry",
-      "date_posted": "2026-10-03",
-      "description": "**Junior Software Engineer**\n\n**Location:** Kochi - Work from Office\n\n**Job Type:** Full-Time\n\n**Experience:** 2 - 4 Years\n\n**Department:** Product Engineering\n\n**Salary Range:** INR 35,000 - 40,000/-\n\n**The Role**\n\nAs a Junior Software Engineer, you will be responsible for implementing end-to-end features, working alongside Tech Leads and Associate Engineers to translate architectural blueprints into production-ready code. You will play a crucial role in building out our Core Notification Engine, multi-tenant routing handlers, and product microservices.\n\n**Key Responsibilities**\n\n**Feature Delivery:** Develop robust, scalable microservices in Java/Spring Boot and dynamic, responsive UIs in Angular**.**\n\n**Database Management:** Write database-agnostic code using Spring Data JPA/Hibernate and assist in creating portable schema migration scripts via Flyway/Liquibase.\n\n**Micro-Frontend Integration:** Build independent Angular modules that plug seamlessly into our federated host shell, adhering to our central design system.\n\n**Event-Driven Integration:** Implement notification adapters (Email, WebSockets/SSE) and publish/consume events via our central message broker.\n\n**Code Review & Standards:** Write clean, maintainable code, actively participate in peer code reviews, and ensure high test coverage (Unit, Integration, and Contract testing).\n\n**Agile Execution:** Collaborate closely with QA, DevOps, and Product Management to unblock features and deliver sprint commitments.\n\n**Required Qualifications**\n\n2 to 4 years of professional experience as a Software Engineer.\n\nProven commercial experience building backend services with Java and Spring Boot.\n\nHands-on experience developing Single Page Applications (SPAs) using Angular (TypeScript).\n\nSolid understanding of relational database design and experience working with at least one major RDBMS (PostgreSQL, MySQL, or MS SQL Server).\n\nExperience with RESTful API design, implementation, and security (JWT, OAuth2). Experience writing unit tests (JUnit, Mockito, Jasmine/Karma).\n\n**Nice-to-Haves**\n\nExperience with cloud-native deployment tools (Docker, Docker Compose, basic Kubernetes).\n\nFamiliarity with Multi-Tenancy architectures or SaaS building blocks.\n\nExposure to Event-Driven Architecture (RabbitMQ, Kafka) or real-time web protocols (SSE/WebSockets).\n\nExperience with Angular Module Federation or Micro-Frontend concepts. AI & Agentic\n\n**Framework Exposure:**\n\nExperience leveraging AI development tools (e.g., GitHub Copilot, Cursor, Claude Code) to accelerate delivery. Familiarity with or interest in Agentic AI frameworks (such as LangChain, AutoGen, or CrewAI) is a strong plus as we explore embedding autonomous, goal-directed AI workflows into our product suite.\n\nPay: ₹35,000.00 - ₹40,000.00 per month\n\nApplication Question(s):\n\n* How many years of experience do you have in the similar field?\n* This position is based in Kochi, Kerala. Are you willing to commute and/or relocate for the same ?\n* Are you willing to accept the offered salary range?\n\nWork Location: In person",
-      "salary": "$35k–$40k/mo",
       "salary_source": "direct_data",
       "salary_currency": "INR",
       "job_type": "fulltime",
@@ -76,24 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "AI Engineer",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=783a489d66812d2c",
-      "direct_url": "http://in.indeed.com/job/ai-engineer-783a489d66812d2c",
-      "company_url": "https://in.indeed.comNone",
-      "date_posted": "2026-10-04",
-      "description": "**ob Overview**\n\nAn artificial intelligence (AI) engineer is responsible for designing, developing, and deploying AI solutions that enhance business processes and solve complex problems. These professionals combine expertise in machine learning, deep learning, and data science to create systems capable of learning, adapting, and optimizing over time. Collaborating with cross-functional teams, AI engineers build and train machine learning models, develop algorithms, and integrate AI systems into existing software and infrastructure.\n\nIn addition to technical responsibilities, AI engineers play a strategic role by identifying opportunities for AI applications and driving innovation across industries. They work closely with data scientists, software engineers, and stakeholders to ensure AI models align with organizational goals and deliver real-world value. With a focus on continuous improvement, AI engineers stay updated on advancements in artificial intelligence, exploring tools like PyTorch, TensorFlow, and AWS to enhance scalability and efficiency. This dynamic role is essential for organizations looking to remain competitive in a rapidly evolving technological landscape.\n\n**Key Responsibilities**\n\n* **Develop and implement AI models.** Design machine learning models and algorithms to solve problems and enhance functionality.\n* **Collaborate with cross-functional teams.** Work with data scientists, stakeholders, and product managers to build and deploy AI solutions.\n* **Optimize AI systems.** Improve the performance of AI models and systems for scalability and real-time applications.\n* **Conduct data analysis.** Analyze large data sets to identify patterns and insights that inform AI development.\n* **Prototyping and testing.** Create prototypes to test AI applications and refine machine learning techniques.\n* **Maintain AI pipelines.** Develop and maintain pipelines for deploying AI models into production environments.\n* **Stay updated on advancements.** Research and implement the latest advancements in AI and machine learning frameworks.\n* **Integrate AI solutions.** Implement AI into existing software systems to enhance functionality and user experience.\n\n**Qualifications and Skills**\n\n* **Education.** A bachelor’s degree in computer science, data science, or a related field; a master’s degree is preferred.\n* **Work experience.** Hands-on experience in AI development, data analysis, and machine learning techniques.\n* **Technical skills.** Proficiency in programming languages like Python, Java, and TensorFlow; familiarity with PyTorch and AWS.\n* **Soft skills.** Strong communication skills and problem-solving abilities to work effectively with stakeholders and cross-functional teams.\n* **Certifications.** Relevant certifications in AI and machine learning enhance a candidate’s skill set.\n* **Knowledge base.** Expertise in neural networks, natural language processing, and predictive models.\n* **Data engineering.** Experience working with big data, pipelines, and statistical analysis tools.\n\nPay: ₹479,000.00 - ₹1,770,000.00 per year\n\nWork Location: In person",
-      "salary": "$479k–$1770k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "INR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
