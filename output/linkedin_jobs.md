@@ -1,16 +1,6 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-03 21:23 UTC*
+*Last updated: 2026-10-04 00:44 UTC*
 
-**3 new role(s)** since last run · 3 total in last 2h
+**0 new role(s)** since last run · 0 total in last 2h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475343477/) — Flexiple
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-03
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475351035/) — HRM Counsel
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-03
-
-### [Software Engineer 3, AI Framework Integrations](https://www.linkedin.com/jobs/view/4466341552/) — MongoDB
-- 📍 **Location:** Gurugram, Haryana, India
-- 🕒 **Posted:** 2026-10-03
+No new roles since the last run.
