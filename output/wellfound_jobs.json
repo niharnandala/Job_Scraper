@@ -1,42 +1,7 @@
 {
-  "scraped_at": "2026-10-04 18:05 UTC",
-  "total": 2,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "Machine Learning Engineer II- ML Systems, Models and Analysis",
-      "location": "India",
-      "url": "https://wellfound.com/jobs/4701959-machine-learning-engineer-ii-ml-systems-models-and-analysis",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "Machine Learning Engineer II- ML Systems, Models and Analysis Full-time ₹26L – ₹35L • No equity Remote only • India 5 years of exp 3 weeks ago 3 weeks ago Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI ML Engineer",
-      "location": "Bengaluru + 1",
-      "url": "https://wellfound.com/jobs/4656833-ai-ml-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI ML Engineer Full-time ₹18L – ₹36L • No equity In office • Bengaluru + 1 4 years of exp 1 month ago 1 month ago Save Apply"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "Machine Learning Engineer II- ML Systems, Models and Analysis",
-      "location": "India",
-      "url": "https://wellfound.com/jobs/4701959-machine-learning-engineer-ii-ml-systems-models-and-analysis",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "Machine Learning Engineer II- ML Systems, Models and Analysis Full-time ₹26L – ₹35L • No equity Remote only • India 5 years of exp 3 weeks ago 3 weeks ago Save Apply"
-    }
-  ]
+  "scraped_at": "2026-10-04 22:18 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
