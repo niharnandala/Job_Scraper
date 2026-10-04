@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-03 21:28 UTC",
-  "total": 8,
-  "new_count": 1,
+  "scraped_at": "2026-10-04 01:21 UTC",
+  "total": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Queberry",
@@ -34,60 +34,6 @@
       "salary_source": "direct_data",
       "salary_currency": "INR",
       "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Infosys",
-      "title": "AI Engineer",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=a0fd77712be0af7b",
-      "direct_url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-254292&sourceId=4010",
-      "company_url": "https://in.indeed.com/cmp/Infosys",
-      "date_posted": "2026-10-01",
-      "description": "**Job Description:**\n--------------------\n\n  \n\n* AI Engineer designing scalable LLM and NLP solutions for high volume customer interactions\n* This role will drive architecture best practices and innovation across voice AI systems\n\n  \n\n**Key Responsibilities:**\n-------------------------\n\n  \n\n* Key Responsibilities\n* Architect and develop AI driven IVR and conversational systems using Python\n* Build NLP models for text classification and clustering to support intent detection and call routing\n* Perform data analysis using SQL\n* Design and deploy LLM workflows prompt engineering RAG evaluation for voice and chat use cases\n* Lead development of agentic AI workflows for multi step customer interactions\n* Establish LLMOps best practices including monitoring evaluation and lifecycle management\n* Partner with IVR platform speech engineering and product teams\n* Mentor offshore and junior AI engineers\n\n  \n\n**Technical Requirements:**\n---------------------------\n\n  \n\n* 1 years of experience in AI ML\n* Very strong proficiency in Python\n* Proven expertise in NLP including\n* o Text classification\n* o Clustering\n* Strong experience in data analysis using SQL\n* Hands on experience with LLMs\n* o Prompt engineering\n* o Evaluation frameworks\n* o Retrieval Augmented Generation RAG\n* Good to Have\n* Experience with Agentic AI and multi agent orchestration\n* Experience with LLMOps MLOps in production environments\n* Cloud Experience\n* Libraries Tools\n* Python ML NumPy Pandas Scikit learn XGBoost\n* NLP spaCy Hugging Face Transformers NLTK Sentence Transformers\n* LLM Frameworks LangChain LlamaIndex OpenAI SDK\n* Agentic AI Good to Have LangGraph AutoGen CrewAI\n* Data SQL Oracle MySQL SQLAlchemy\n* Vector Databases FAISS Pinecone Weaviate Qdrant\n* LLMOps MLOps Good to Have MLflow Weights Biases BentoML Airflow\n\n  \n\n**Preferred Skills:**\n---------------------\n\nTechnology->OpenSystem->Python - OpenSystem->Python,Technology->AI-Agentic AI->Agent Engineering,Technology->AI-Traditional AI->NLP-Text Analytics",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Infosys",
-      "title": "AI Engineer",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=7903fb76222b5e06",
-      "direct_url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-254287&sourceId=4010",
-      "company_url": "https://in.indeed.com/cmp/Infosys",
-      "date_posted": "2026-10-01",
-      "description": "**Job Description:**\n--------------------\n\n  \n\n* AI Engineer designing scalable LLM and NLP solutions for high volume customer interactions\n* This role will drive architecture best practices and innovation across voice AI systems\n\n  \n\n**Key Responsibilities:**\n-------------------------\n\n  \n\n* Key Responsibilities\n* Architect and develop AI driven IVR and conversational systems using Python\n* Build NLP models for text classification and clustering to support intent detection and call routing\n* Perform data analysis using SQL\n* Design and deploy LLM workflows prompt engineering RAG evaluation for voice and chat use cases\n* Lead development of agentic AI workflows for multi step customer interactions\n* Establish LLMOps best practices including monitoring evaluation and lifecycle management\n* Partner with IVR platform speech engineering and product teams\n* Mentor offshore and junior AI engineers\n\n  \n\n**Technical Requirements:**\n---------------------------\n\n  \n\n* 2 years of experience in AI ML\n* Very strong proficiency in Python\n* Proven expertise in NLP including\n* o Text classification\n* o Clustering\n* Strong experience in data analysis using SQL\n* Hands on experience with LLMs\n* o Prompt engineering\n* o Evaluation frameworks\n* o Retrieval Augmented Generation RAG\n* Good to Have\n* Experience with Agentic AI and multi agent orchestration\n* Experience with LLMOps MLOps in production environments\n* Cloud Experience\n* Libraries Tools\n* Python ML NumPy Pandas Scikit learn XGBoost\n* NLP spaCy Hugging Face Transformers NLTK Sentence Transformers\n* LLM Frameworks LangChain LlamaIndex OpenAI SDK\n* Agentic AI Good to Have LangGraph AutoGen CrewAI\n* Data SQL Oracle MySQL SQLAlchemy\n* Vector Databases FAISS Pinecone Weaviate Qdrant\n* LLMOps MLOps Good to Have MLflow Weights Biases BentoML Airflow\n\n  \n\n**Preferred Skills:**\n---------------------\n\nTechnology->OpenSystem->Python - OpenSystem->Python,Technology->AI-Agentic AI->Agent Engineering,Technology->Database->SQL tuning,Technology->AI-Traditional AI->NLP-Text Analytics",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Infosys",
-      "title": "AI Engineer",
-      "location": "KA, IN",
-      "url": "https://in.indeed.com/viewjob?jk=326865c04b83300e",
-      "direct_url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-254282&sourceId=4010",
-      "company_url": "https://in.indeed.com/cmp/Infosys",
-      "date_posted": "2026-10-01",
-      "description": "**Job Description:**\n--------------------\n\n  \n\n* AI Engineer designing scalable LLM and NLP solutions for high volume customer interactions\n* This role will drive architecture best practices and innovation across voice AI systems\n\n  \n\n**Key Responsibilities:**\n-------------------------\n\n  \n\n* Key Responsibilities\n* Architect and develop AI driven IVR and conversational systems using Python\n* Build NLP models for text classification and clustering to support intent detection and call routing\n* Perform data analysis using SQL\n* Design and deploy LLM workflows prompt engineering RAG evaluation for voice and chat use cases\n* Lead development of agentic AI workflows for multi step customer interactions\n* Establish LLMOps best practices including monitoring evaluation and lifecycle management\n* Partner with IVR platform speech engineering and product teams\n* Mentor offshore and junior AI engineers\n\n  \n\n**Technical Requirements:**\n---------------------------\n\n  \n\n* 9 years of experience in AI ML\n* Very strong proficiency in Python\n* Proven expertise in NLP including\n* o Text classification\n* o Clustering\n* Strong experience in data analysis using SQL\n* Hands on experience with LLMs\n* o Prompt engineering\n* o Evaluation frameworks\n* o Retrieval Augmented Generation RAG\n* Good to Have\n* Experience with Agentic AI and multi agent orchestration\n* Experience with LLMOps MLOps in production environments\n* Cloud Experience\n* Libraries Tools\n* Python ML NumPy Pandas Scikit learn XGBoost\n* NLP spaCy Hugging Face Transformers NLTK Sentence Transformers\n* LLM Frameworks LangChain LlamaIndex OpenAI SDK\n* Agentic AI Good to Have LangGraph AutoGen CrewAI\n* Data SQL Oracle MySQL SQLAlchemy\n* Vector Databases FAISS Pinecone Weaviate Qdrant\n* LLMOps MLOps Good to Have MLflow Weights Biases BentoML Airflow\n\n  \n\n**Preferred Skills:**\n---------------------\n\nTechnology->OpenSystem->Python - OpenSystem->Python,Technology->AI-Agentic AI->Agent Engineering,Technology->AI-AI Hyperscalers->Azure Agentic AI Services->Azure NLP,Technology->Database->SQL tuning",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
@@ -148,24 +94,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Queberry",
-      "title": "Junior Software Engineer",
-      "location": "KL, IN",
-      "url": "https://in.indeed.com/viewjob?jk=4818b26bdb3aeb2d",
-      "direct_url": "http://in.indeed.com/job/junior-software-engineer-4818b26bdb3aeb2d",
-      "company_url": "https://in.indeed.com/cmp/Queberry",
-      "date_posted": "2026-10-03",
-      "description": "**Junior Software Engineer**\n\n**Location:** Kochi - Work from Office\n\n**Job Type:** Full-Time\n\n**Experience:** 2 - 4 Years\n\n**Department:** Product Engineering\n\n**Salary Range:** INR 35,000 - 40,000/-\n\n**The Role**\n\nAs a Junior Software Engineer, you will be responsible for implementing end-to-end features, working alongside Tech Leads and Associate Engineers to translate architectural blueprints into production-ready code. You will play a crucial role in building out our Core Notification Engine, multi-tenant routing handlers, and product microservices.\n\n**Key Responsibilities**\n\n**Feature Delivery:** Develop robust, scalable microservices in Java/Spring Boot and dynamic, responsive UIs in Angular**.**\n\n**Database Management:** Write database-agnostic code using Spring Data JPA/Hibernate and assist in creating portable schema migration scripts via Flyway/Liquibase.\n\n**Micro-Frontend Integration:** Build independent Angular modules that plug seamlessly into our federated host shell, adhering to our central design system.\n\n**Event-Driven Integration:** Implement notification adapters (Email, WebSockets/SSE) and publish/consume events via our central message broker.\n\n**Code Review & Standards:** Write clean, maintainable code, actively participate in peer code reviews, and ensure high test coverage (Unit, Integration, and Contract testing).\n\n**Agile Execution:** Collaborate closely with QA, DevOps, and Product Management to unblock features and deliver sprint commitments.\n\n**Required Qualifications**\n\n2 to 4 years of professional experience as a Software Engineer.\n\nProven commercial experience building backend services with Java and Spring Boot.\n\nHands-on experience developing Single Page Applications (SPAs) using Angular (TypeScript).\n\nSolid understanding of relational database design and experience working with at least one major RDBMS (PostgreSQL, MySQL, or MS SQL Server).\n\nExperience with RESTful API design, implementation, and security (JWT, OAuth2). Experience writing unit tests (JUnit, Mockito, Jasmine/Karma).\n\n**Nice-to-Haves**\n\nExperience with cloud-native deployment tools (Docker, Docker Compose, basic Kubernetes).\n\nFamiliarity with Multi-Tenancy architectures or SaaS building blocks.\n\nExposure to Event-Driven Architecture (RabbitMQ, Kafka) or real-time web protocols (SSE/WebSockets).\n\nExperience with Angular Module Federation or Micro-Frontend concepts. AI & Agentic\n\n**Framework Exposure:**\n\nExperience leveraging AI development tools (e.g., GitHub Copilot, Cursor, Claude Code) to accelerate delivery. Familiarity with or interest in Agentic AI frameworks (such as LangChain, AutoGen, or CrewAI) is a strong plus as we explore embedding autonomous, goal-directed AI workflows into our product suite.\n\nPay: ₹35,000.00 - ₹40,000.00 per month\n\nApplication Question(s):\n\n* How many years of experience do you have in the similar field?\n* This position is based in Kochi, Kerala. Are you willing to commute and/or relocate for the same ?\n* Are you willing to accept the offered salary range?\n\nWork Location: In person",
-      "salary": "$35k–$40k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "INR",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
