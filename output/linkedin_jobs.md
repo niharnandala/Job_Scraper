@@ -1,24 +1,24 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-04 07:03 UTC*
+*Last updated: 2026-10-04 13:22 UTC*
 
 **5 new role(s)** since last run · 5 total in last 2h
 
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4473895621/) — Talentgigs
-- 📍 **Location:** Coimbatore, Tamil Nadu, India
+### [AI Engineer](https://www.linkedin.com/jobs/view/4473897921/) — Uplevyl
+- 📍 **Location:** Noida, Uttar Pradesh, India
 - 🕒 **Posted:** 2026-10-04
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4473177329/) — Trusys
-- 📍 **Location:** Hyderabad, Telangana, India
+### [Forward Deployed Engineer (India)](https://www.linkedin.com/jobs/view/4378095026/) — Cartesia
+- 📍 **Location:** Greater Bengaluru Area
 - 🕒 **Posted:** 2026-10-04
 
-### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4474208168/) — Talentgigs
-- 📍 **Location:** Hyderabad, Telangana, India
+### [Software Engineer, Persistent Disk, PhD, Early Career, 2026](https://www.linkedin.com/jobs/view/4388950665/) — Google
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-04
 
-### [AI Engineer - Cloud & MLops](https://www.linkedin.com/jobs/view/4474200436/) — Talentgigs
-- 📍 **Location:** Hyderabad, Telangana, India
+### [Software Engineer II - Connector Engineering](https://www.linkedin.com/jobs/view/4217131706/) — Arcadia
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-10-04
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475351035/) — HRM Counsel
-- 📍 **Location:** India
+### [Software Engineer-Salesforce](https://www.linkedin.com/jobs/view/4457883566/) — PTC
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-04
