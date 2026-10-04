@@ -4413,3 +4413,4 @@
 {"workflow": "yc", "timestamp": "2026-10-04T17:33:22Z", "job_count": 0, "run_id": "37220922776"}
 {"job_count": 6, "run_attempt": "1", "run_id": "37221166824", "timestamp": "2026-10-04T17:46:49Z", "workflow": "linkedin"}
 {"job_count": 3, "run_attempt": "1", "run_id": "37221422005", "timestamp": "2026-10-04T17:47:22Z", "workflow": "indeed"}
+{"workflow": "wellfound", "timestamp": "2026-10-04T18:05:20Z", "job_count": 2, "run_id": "37222995223"}
