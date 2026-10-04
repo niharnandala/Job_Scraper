@@ -1,19 +1,7 @@
 {
-  "scraped_at": "2026-10-04 06:45 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-04 13:08 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "AI/ML Engineer",
-      "location": "Hyderabad",
-      "url": "https://wellfound.com/jobs/3301819-ai-ml-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI/ML Engineer Full-time ₹6L – ₹10L • No equity In office • Hyderabad 1 year of exp 3 months ago 3 months ago Save Apply"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
