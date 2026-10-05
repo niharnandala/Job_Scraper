@@ -1,5 +1,5 @@
 # ☕ HiringCafe — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-05 16:24 UTC*
+*Last updated: 2026-10-05 23:09 UTC*
 
 **0 new role(s)** since last run · 0 total in last 30d
 

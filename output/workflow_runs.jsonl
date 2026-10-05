@@ -4451,3 +4451,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "37383172623", "timestamp": "2026-10-05T22:33:22Z", "workflow": "glassdoor"}
 {"workflow": "yc", "timestamp": "2026-10-05T22:35:44Z", "job_count": 0, "run_id": "37383413066"}
 {"job_count": 5, "run_attempt": "1", "run_id": "37383881414", "timestamp": "2026-10-05T23:09:07Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37385477012", "timestamp": "2026-10-05T23:09:31Z", "workflow": "hiringcafe"}
