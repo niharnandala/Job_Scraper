@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-10-04 21:39 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-10-05 01:03 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Pragati Training Services",
+      "title": "AI Engineer",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=08d8a8b00ece6730",
+      "direct_url": "http://in.indeed.com/job/ai-engineer-08d8a8b00ece6730",
+      "company_url": "https://in.indeed.com/cmp/Pragati-Training-Services",
+      "date_posted": "2026-10-04",
+      "description": "**Requirements**\n\n* **Core Experience:** 2+ years in AI Engineering, NLP, or applied Machine Learning, with a track record of deploying production-grade LLM applications.\n* **LLM & RAG Systems:** Deep expertise in RAG architectures, vector databases (e.g., pgvector), hybrid search, embedding pipelines, retrieval optimization, and hallucination mitigation.\n* **Agentic Workflows:** Practical experience designing autonomous agents, multi-step orchestration, tool-calling pipelines, grounding techniques, and structured prompt engineering.\n* **Backend Engineering:** Strong proficiency in Java or Kotlin with Spring Boot, specializing in scalable REST API development and distributed system design.\n* **Azure Cloud & Data:** Hands-on experience with Azure OpenAI, Azure AI services, PostgreSQL, Service Bus, and Azure Container Apps within event-driven architectures.\n* **Infrastructure & Security:** Solid foundation in Infrastructure as Code (Terraform), CI/CD pipelines, managed identities, Key Vault, autoscaling, and enterprise cloud security.\n* **LLM Ops & Observability:** Proven ability to implement LLM evaluation frameworks, production telemetry, integration testing, cost governance, and real-time troubleshooting.\n\nPay: From ₹20,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* Have you deployed an LLM application to end-users that runs in real-time? What was the primary model and use case?\n\nExperience:\n\n* Ai Engineering: 2 years (Preferred)\n\nLanguage:\n\n* English (Preferred)\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "INR",
+      "job_type": "parttime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "Unknown",
       "title": "AI Engineer",
@@ -20,43 +38,26 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "nature craft organica",
-      "title": "Generative AI Intern",
-      "location": "PB, IN",
-      "url": "https://in.indeed.com/viewjob?jk=7da4604efa5de529",
-      "direct_url": "http://in.indeed.com/job/generative-ai-intern-7da4604efa5de529",
-      "company_url": "https://in.indeed.com/cmp/Nature-Craft-Organica-1",
+      "company": "Pragati Training Services",
+      "title": "AI Engineer",
+      "location": "Remote, IN",
+      "url": "https://in.indeed.com/viewjob?jk=08d8a8b00ece6730",
+      "direct_url": "http://in.indeed.com/job/ai-engineer-08d8a8b00ece6730",
+      "company_url": "https://in.indeed.com/cmp/Pragati-Training-Services",
       "date_posted": "2026-10-04",
-      "description": "**Job Title:** Generative AI Intern\n\n**Location:** Mohali (On-site)  \n**Duration:** 45 Days Internship\n\n**About the Role**\n\nWe are looking for a passionate and curious Generative AI Intern to join our team for a short-term, high-impact internship. This role is ideal for candidates who want hands-on industry exposure and practical experience in working with cutting-edge AI technologies.\n\n**Key Responsibilities**\n\n* Assist in developing and implementing Generative AI models and solutions\n* Work on real-world AI use cases including text generation, chatbots, and automation\n* Support data preparation, prompt engineering, and model testing\n* Collaborate with the development team on AI-driven projects\n* Document workflows, findings, and improvements\n\n**Eligibility Criteria**\n\n* Pursuing or recently completed a degree in Computer Science, IT, Data Science, or related field\n* Basic understanding of AI/ML concepts and Python programming\n* Familiarity with Generative AI tools (e.g., LLMs, APIs) is a plus\n* Strong problem-solving mindset and willingness to learn\n\n**What You Will Gain**\n\n* Practical industrial exposure in Generative AI applications\n* Opportunity to work on live projects and real business problems\n* Mentorship from experienced professionals\n* Internship Certificate upon successful completion\n* Experience Letter for your professional portfolio\n* Potential full-time opportunity based on performance\n\n**How to Apply**\n\nInterested candidates can apply through Indeed or share their updated resume.\n\n**Kickstart your career in Generative AI and gain real-world experience in just 45 days!**\n\nJob Type: Internship\n\nPay: ₹5,000.00 - ₹8,000.00 per month\n\nWork Location: In person",
-      "salary": "$5000–$8000/mo",
-      "salary_source": "direct_data",
+      "description": "**Requirements**\n\n* **Core Experience:** 2+ years in AI Engineering, NLP, or applied Machine Learning, with a track record of deploying production-grade LLM applications.\n* **LLM & RAG Systems:** Deep expertise in RAG architectures, vector databases (e.g., pgvector), hybrid search, embedding pipelines, retrieval optimization, and hallucination mitigation.\n* **Agentic Workflows:** Practical experience designing autonomous agents, multi-step orchestration, tool-calling pipelines, grounding techniques, and structured prompt engineering.\n* **Backend Engineering:** Strong proficiency in Java or Kotlin with Spring Boot, specializing in scalable REST API development and distributed system design.\n* **Azure Cloud & Data:** Hands-on experience with Azure OpenAI, Azure AI services, PostgreSQL, Service Bus, and Azure Container Apps within event-driven architectures.\n* **Infrastructure & Security:** Solid foundation in Infrastructure as Code (Terraform), CI/CD pipelines, managed identities, Key Vault, autoscaling, and enterprise cloud security.\n* **LLM Ops & Observability:** Proven ability to implement LLM evaluation frameworks, production telemetry, integration testing, cost governance, and real-time troubleshooting.\n\nPay: From ₹20,000.00 per month\n\nBenefits:\n\n* Work from home\n\nApplication Question(s):\n\n* Have you deployed an LLM application to end-users that runs in real-time? What was the primary model and use case?\n\nExperience:\n\n* Ai Engineering: 2 years (Preferred)\n\nLanguage:\n\n* English (Preferred)\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
       "salary_currency": "INR",
-      "job_type": "internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "BExO",
-      "title": "generative AI",
-      "location": "PB, IN",
-      "url": "https://in.indeed.com/viewjob?jk=1704923db0aad1f4",
-      "direct_url": "http://in.indeed.com/job/generative-ai-1704923db0aad1f4",
-      "company_url": "https://in.indeed.com/cmp/Bexo",
-      "date_posted": "2026-10-04",
-      "description": "We are looking for a passionate and enthusiastic **Generative AI Intern** who is eager to explore cutting-edge AI technologies, build intelligent applications, and work on real-world projects.\n\nKey Responsibilities\n\n* Develop AI-powered applications using Large Language Models (LLMs).\n* Design and optimize prompts for various AI use cases.\n* Work with OpenAI, Gemini, Claude, or other Generative AI models.\n* Build AI chatbots, assistants, and automation workflows.\n* Integrate AI APIs into web and mobile applications.\n* Assist in Retrieval-Augmented Generation (RAG) implementation.\n* Collaborate with development teams to deliver AI-based client solutions.\n* Stay updated with the latest advancements in Generative AI technologies.\n\nRequired Skills\n\n* Basic understanding of Python programming.\n* Knowledge of Generative AI concepts and Large Language Models (LLMs).\n* Familiarity with Prompt Engineering.\n* Understanding of REST APIs and API integrations.\n* Basic knowledge of Machine Learning fundamentals.\n* Knowledge of LangChain, LlamaIndex, Vector Databases, or RAG is a plus\n* Eagerness to learn and adapt to new AI technologies.\n\nWhat You'll Gain\n\n* Hands-on experience working on live client projects.\n* Mentorship from experienced AI professionals.\n* Exposure to modern AI frameworks and tools.\n* Opportunity to build an industry-ready portfolio.\n* Practical experience with Generative AI, Prompt Engineering, LLMs, and AI integrations.\n* Internship Certificate upon successful completion.\n* Outstanding performers may receive a **Pre-Placement Offer (PPO)** or full-time employment opportunity at Bexo.ai.\n\nPay: ₹5,000.00 - ₹8,000.00 per month\n\nWork Location: In person",
-      "salary": "$5000–$8000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "INR",
-      "job_type": "internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "job_type": "parttime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     }
-  ],
-  "new_jobs": []
+  ]
 }
