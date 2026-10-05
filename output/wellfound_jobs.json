@@ -1,19 +1,53 @@
 {
-  "scraped_at": "2026-10-05 08:51 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-05 18:19 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Wellfound startup",
-      "title": "AI/ML Engineer",
-      "location": "Hyderabad",
-      "url": "https://wellfound.com/jobs/3301819-ai-ml-engineer",
+      "title": "AI Engineer",
+      "location": "Chennai",
+      "url": "https://wellfound.com/jobs/4809721-ai-engineer",
+      "date_posted": "2026-10-05",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "AI Engineer Full-time ₹12L – ₹22L • No equity In office • Chennai 1 year of exp today today Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "Machine Learning Engineer II- ML Systems, Models and Analysis",
+      "location": "India",
+      "url": "https://wellfound.com/jobs/4701959-machine-learning-engineer-ii-ml-systems-models-and-analysis",
       "date_posted": "",
       "posted_age": "unknown",
       "date_source": "unknown",
       "ats": "Wellfound",
-      "description": "AI/ML Engineer Full-time ₹6L – ₹10L • No equity In office • Hyderabad 1 year of exp 3 months ago 3 months ago Save Apply"
+      "description": "Machine Learning Engineer II- ML Systems, Models and Analysis Full-time ₹26L – ₹35L • No equity Remote only • India 5 years of exp 3 weeks ago 3 weeks ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "AI ML Engineer",
+      "location": "Bengaluru + 1",
+      "url": "https://wellfound.com/jobs/4656833-ai-ml-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI ML Engineer Full-time ₹18L – ₹36L • No equity In office • Bengaluru + 1 4 years of exp 1 month ago 1 month ago Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "AI Engineer",
+      "location": "Chennai",
+      "url": "https://wellfound.com/jobs/4809721-ai-engineer",
+      "date_posted": "2026-10-05",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "AI Engineer Full-time ₹12L – ₹22L • No equity In office • Chennai 1 year of exp today today Save Apply"
+    }
+  ]
 }
