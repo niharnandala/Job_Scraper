@@ -1,30 +1,42 @@
 {
-  "scraped_at": "2026-10-06 15:01 UTC",
+  "scraped_at": "2026-10-06 20:12 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Wellfound startup",
       "title": "AI Engineer",
       "location": "Chennai",
       "url": "https://wellfound.com/jobs/4809721-ai-engineer",
+      "date_posted": "2026-10-05",
+      "posted_age": "1 day ago",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "AI Engineer Full-time ₹12L – ₹22L • No equity In office • Chennai 1 year of exp yesterday yesterday Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "Applied AI Engineer",
+      "location": "Mumbai",
+      "url": "https://wellfound.com/jobs/4810448-applied-ai-engineer",
       "date_posted": "2026-10-06",
       "posted_age": "today",
       "date_source": "structured",
       "ats": "Wellfound",
-      "description": "AI Engineer Full-time ₹12L – ₹22L • No equity In office • Chennai 1 year of exp today today Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "Machine Learning Engineer",
-      "location": "India",
-      "url": "https://wellfound.com/jobs/4176912-machine-learning-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "Machine Learning Engineer Full-time ₹4L – ₹6L • No equity Remote only • India 0 years of exp 2 weeks ago 2 weeks ago Save Apply"
+      "description": "Applied AI Engineer Full-time ₹10L – ₹16L • No equity In office • Mumbai 2 years of exp today today Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "Applied AI Engineer",
+      "location": "Mumbai",
+      "url": "https://wellfound.com/jobs/4810448-applied-ai-engineer",
+      "date_posted": "2026-10-06",
+      "posted_age": "today",
+      "date_source": "structured",
+      "ats": "Wellfound",
+      "description": "Applied AI Engineer Full-time ₹10L – ₹16L • No equity In office • Mumbai 2 years of exp today today Save Apply"
+    }
+  ]
 }
