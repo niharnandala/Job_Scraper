@@ -1,24 +1,23 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-05 23:09 UTC*
+*Last updated: 2026-10-06 03:09 UTC*
 
-**5 new role(s)** since last run · 5 total in last 2h
+**4 new role(s)** since last run · 4 total in last 2h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475863559/) — Flexiple
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-05
-
-### [Full stack Developer / AI developer (java , angular , spring boot)](https://www.linkedin.com/jobs/view/4473687433/) — NetApp
+### [Software Engineer – Machine Learning (AI Training)](https://www.linkedin.com/jobs/view/4476117366/) — Alignerr
 - 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $90.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Generative AI Reporting Solutions SVP](https://www.linkedin.com/jobs/view/4474626811/) — Citi
+### [Agentic AI & Generative AI Trainer](https://www.linkedin.com/jobs/view/4473658930/) — weguide technologies
 - 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4474629728/) — Superfan.ng
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-05
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476110580/) — Alignerr
+- 📍 **Location:** Delhi, Delhi, India
+- 💰 **Salary:** $50.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Forward Deployed Engineer - Agents(Remote)](https://www.linkedin.com/jobs/view/4475898137/) — Level AI
+### [Software Engineer - Ruby](https://www.linkedin.com/jobs/view/4476103975/) — Alignerr
 - 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $40.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-06
