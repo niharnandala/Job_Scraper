@@ -4481,3 +4481,4 @@
 {"workflow": "yc", "timestamp": "2026-10-06T21:37:16Z", "job_count": 0, "run_id": "37535036881"}
 {"job_count": 13, "run_attempt": "1", "run_id": "37535434694", "timestamp": "2026-10-06T21:53:12Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37536905491", "timestamp": "2026-10-06T21:53:51Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37537073176", "timestamp": "2026-10-06T21:54:22Z", "workflow": "hiringcafe"}
