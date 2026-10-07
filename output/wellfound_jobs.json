@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-06 20:12 UTC",
+  "scraped_at": "2026-10-07 00:35 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wellfound startup",
       "title": "AI Engineer",
       "location": "Chennai",
       "url": "https://wellfound.com/jobs/4809721-ai-engineer",
-      "date_posted": "2026-10-05",
+      "date_posted": "2026-10-06",
       "posted_age": "1 day ago",
       "date_source": "structured",
       "ats": "Wellfound",
@@ -19,24 +19,12 @@
       "title": "Applied AI Engineer",
       "location": "Mumbai",
       "url": "https://wellfound.com/jobs/4810448-applied-ai-engineer",
-      "date_posted": "2026-10-06",
+      "date_posted": "2026-10-07",
       "posted_age": "today",
       "date_source": "structured",
       "ats": "Wellfound",
       "description": "Applied AI Engineer Full-time ₹10L – ₹16L • No equity In office • Mumbai 2 years of exp today today Save Apply"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Wellfound startup",
-      "title": "Applied AI Engineer",
-      "location": "Mumbai",
-      "url": "https://wellfound.com/jobs/4810448-applied-ai-engineer",
-      "date_posted": "2026-10-06",
-      "posted_age": "today",
-      "date_source": "structured",
-      "ats": "Wellfound",
-      "description": "Applied AI Engineer Full-time ₹10L – ₹16L • No equity In office • Mumbai 2 years of exp today today Save Apply"
-    }
-  ]
+  "new_jobs": []
 }
