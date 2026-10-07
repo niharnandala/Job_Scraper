@@ -1,88 +1,92 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-07 08:56 UTC*
+*Last updated: 2026-10-07 16:45 UTC*
 
-**21 new role(s)** since last run · 21 total in last 2h
+**22 new role(s)** since last run · 22 total in last 2h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4475177869/) — Franklin Templeton
-- 📍 **Location:** Greater Hyderabad Area
+### [GenAI / Agentic AI Engineer](https://www.linkedin.com/jobs/view/4466861991/) — Infosys
+- 📍 **Location:** Bengaluru East, Karnataka, India
 - 🕒 **Posted:** 2026-10-07
 
-### [Gen AI Developer Specialist](https://www.linkedin.com/jobs/view/4476570636/) — APRIDEN
+### [AI Engineer](https://www.linkedin.com/jobs/view/4474456301/) — Deqode
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Expert Machine Learning Engineer (Agentic AI, SAP BTP)](https://www.linkedin.com/jobs/view/4457695858/) — SAP
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-07
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476585006/) — Korza
+### [Software Engineer](https://www.linkedin.com/jobs/view/4475436564/) — Tuning Research (WorkableAI)
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer 2 - AI Transformation Engineering](https://www.linkedin.com/jobs/view/4466865371/) — Abnormal AI
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [AI Engineer - L4](https://www.linkedin.com/jobs/view/4476743946/) — Korza
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-07
 
-### [AI Engineer (Agentic AI)](https://www.linkedin.com/jobs/view/4476565818/) — Rubix Network
+### [ML Engineer (Training Infra), Foundational Models](https://www.linkedin.com/jobs/view/4475457018/) — Sarvam
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [IT Digital Solutions AI Engineer](https://www.linkedin.com/jobs/view/4466519104/) — Infosys
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Backend Developer (Java / Spring)](https://www.linkedin.com/jobs/view/4476770272/) — Uplers
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-10-07
+
+### [Applied AI Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4475423121/) — Marxen
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer II, AI/ML](https://www.linkedin.com/jobs/view/4475448765/) — Google
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-07
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476564071/) — HRM Counsel
+### [Forward Deployed Engineer, AI Solutions (Night Shift)](https://www.linkedin.com/jobs/view/4474461327/) — Nextiva
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Custom Software Engineer](https://www.linkedin.com/jobs/view/4476780008/) — Accenture in India
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer , Selection Monitoring](https://www.linkedin.com/jobs/view/4467995444/) — Amazon
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [ML Engineer I](https://www.linkedin.com/jobs/view/4474461009/) — UST
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4474447886/) — Johnson Controls
+- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer - AI Hub](https://www.linkedin.com/jobs/view/4459040791/) — Linde@India
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer - AI Hub](https://www.linkedin.com/jobs/view/4459146591/) — Linde
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4474446563/) — IBM
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-07
+
+### [AI Developer](https://www.linkedin.com/jobs/view/4474467250/) — Accellor
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer – 25+ Positions](https://www.linkedin.com/jobs/view/4474461171/) — Seceon Inc.
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Scientist & AI Developer](https://www.linkedin.com/jobs/view/4437157844/) — TE Connectivity
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4476571670/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [AI Engineer – AI Agents & Infrastructure](https://www.linkedin.com/jobs/view/4475198038/) — Tilda Research
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-07
-
-### [[Backend, Onsite] Software Engineering Intern](https://www.linkedin.com/jobs/view/4476581378/) — Enterpret
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer III- Eng - .Net + AI](https://www.linkedin.com/jobs/view/4476576401/) — UKG
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4474448996/) — Mastercard
 - 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4475143530/) — EL SHADDAI GLOBAL SOLUTIONS PVT LTD
-- 📍 **Location:** Tiruchirappalli, Tamil Nadu, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4476588065/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Forward Deployed AI Engineer](https://www.linkedin.com/jobs/view/4465650099/) — TE Connectivity
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4476584165/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Application Software Engineer](https://www.linkedin.com/jobs/view/4475403078/) — Saatvik Agro
-- 📍 **Location:** Morena, Madhya Pradesh, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Forward Deployed AI Scientist](https://www.linkedin.com/jobs/view/4452446284/) — TE Connectivity
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4476573632/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [AI Engineer - Google ADK](https://www.linkedin.com/jobs/view/4476569967/) — Miracle Software Systems, Inc
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4476574574/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer- Golang](https://www.linkedin.com/jobs/view/4475189862/) — Infoblox
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-07
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4476588064/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-07
