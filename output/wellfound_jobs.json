@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 00:35 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-10-07 07:07 UTC",
+  "total": 4,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Wellfound startup",
@@ -16,15 +16,49 @@
     },
     {
       "company": "Wellfound startup",
+      "title": "AI Engineer",
+      "location": "New Delhi",
+      "url": "https://wellfound.com/jobs/4763403-ai-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "AI Engineer Full-time ₹40L – ₹50L • No equity In office • New Delhi 5 years of exp 1 week ago 1 week ago Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
       "title": "Applied AI Engineer",
       "location": "Mumbai",
       "url": "https://wellfound.com/jobs/4810448-applied-ai-engineer",
-      "date_posted": "2026-10-07",
-      "posted_age": "today",
-      "date_source": "structured",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
       "ats": "Wellfound",
       "description": "Applied AI Engineer Full-time ₹10L – ₹16L • No equity In office • Mumbai 2 years of exp today today Save Apply"
+    },
+    {
+      "company": "Wellfound startup",
+      "title": "Generative AI Engineer",
+      "location": "Hyderabad",
+      "url": "https://wellfound.com/jobs/4522703-generative-ai-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "Generative AI Engineer Full-time ₹5L – ₹6L • No equity In office • Hyderabad 2 years of exp 2 months ago 2 months ago Save Apply"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Wellfound startup",
+      "title": "Generative AI Engineer",
+      "location": "Hyderabad",
+      "url": "https://wellfound.com/jobs/4522703-generative-ai-engineer",
+      "date_posted": "",
+      "posted_age": "unknown",
+      "date_source": "unknown",
+      "ats": "Wellfound",
+      "description": "Generative AI Engineer Full-time ₹5L – ₹6L • No equity In office • Hyderabad 2 years of exp 2 months ago 2 months ago Save Apply"
+    }
+  ]
 }
