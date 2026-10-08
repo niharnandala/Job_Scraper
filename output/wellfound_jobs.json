@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08 16:22 UTC",
-  "total": 4,
+  "scraped_at": "2026-10-08 21:59 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -12,18 +12,7 @@
       "posted_age": "1 day ago",
       "date_source": "structured",
       "ats": "Wellfound",
-      "description": "AI Engineer Full-time In office • Hyderabad 2 years of exp today today Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI Engineer",
-      "location": "Chennai",
-      "url": "https://wellfound.com/jobs/4809721-ai-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI Engineer Full-time ₹12L – ₹22L • No equity In office • Chennai 1 year of exp 2 days ago 2 days ago Save Apply"
+      "description": "AI Engineer Full-time In office • Hyderabad 2 years of exp yesterday yesterday Save Apply"
     },
     {
       "company": "Wellfound startup",
@@ -34,18 +23,7 @@
       "posted_age": "1 day ago",
       "date_source": "structured",
       "ats": "Wellfound",
-      "description": "Forward Deployed AI Engineer Full-time No equity In office • Gurgaon 2 years of exp today today Save Apply"
-    },
-    {
-      "company": "Wellfound startup",
-      "title": "AI Backend Engineer",
-      "location": "Mumbai + 1",
-      "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
-      "date_posted": "",
-      "posted_age": "unknown",
-      "date_source": "unknown",
-      "ats": "Wellfound",
-      "description": "AI Backend Engineer Full-time ₹12L – ₹25L • 0.01% – 0.2% Onsite or remote • Mumbai + 1 2 years of exp 1 month ago 1 month ago Save Apply"
+      "description": "Forward Deployed AI Engineer Full-time No equity In office • Gurgaon 2 years of exp yesterday yesterday Save Apply"
     }
   ],
   "new_jobs": []
