@@ -1,80 +1,80 @@
 # 🔥 LinkedIn — India Entry-Level AI Job Radar Roles
-*Last updated: 2026-10-08 09:41 UTC*
+*Last updated: 2026-10-08 16:45 UTC*
 
 **19 new role(s)** since last run · 19 total in last 2h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4477126113/) — Inspire Infosol Pvt Ltd. India
-- 📍 **Location:** Hyderabad, Telangana, India
+### [AI Engineer](https://www.linkedin.com/jobs/view/4477405043/) — Shuru
+- 📍 **Location:** Gurgaon, Haryana, India
 - 🕒 **Posted:** 2026-10-08
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4475779146/) — Kodo
+### [Software Engineer II, AI Solutions & Platforms](https://www.linkedin.com/jobs/view/4458346179/) — Thermo Fisher Scientific
+- 📍 **Location:** Bengaluru East, Karnataka, India
+- 🕒 **Posted:** 2026-10-08
+
+### [AI Engineer_Full Stack Generative AI](https://www.linkedin.com/jobs/view/4458642235/) — Burns & McDonnell India
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-08
+
+### [AI ML Engineer](https://www.linkedin.com/jobs/view/4477192482/) — HERE Technologies
 - 📍 **Location:** Mumbai Metropolitan Region
 - 🕒 **Posted:** 2026-10-08
 
-### [Artificial Intelligence Engineer/ AI Engineer](https://www.linkedin.com/jobs/view/4474025704/) — Pixelvide
+### [Gen AI Developer- Python, FAST API](https://www.linkedin.com/jobs/view/4468620394/) — Verisk
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Python AI Engineer](https://www.linkedin.com/jobs/view/4475768646/) — techolution
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4465383556/) — Amgen
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-10-08
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4422428597/) — Coralogix
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - AI Hub](https://www.linkedin.com/jobs/view/4468647570/) — Linde
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-08
+
+### [QA Engineer – Generative AI & Agentic AI](https://www.linkedin.com/jobs/view/4474835013/) — UST
+- 📍 **Location:** Trivandrum, Kerala, India
+- 🕒 **Posted:** 2026-10-08
+
+### [Gen AI Engineer](https://www.linkedin.com/jobs/view/4475975231/) — placeholderworks
+- 📍 **Location:** Gurugram, Haryana, India
+- 🕒 **Posted:** 2026-10-08
+
+### [AI/ML Platform Engineer](https://www.linkedin.com/jobs/view/4474839217/) — The Corporate Matchmakers
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-08
+
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4475980395/) — internmo
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Data & AI Platforms](https://www.linkedin.com/jobs/view/4477130257/) — DeepArc Tech
-- 📍 **Location:** Pune City, Maharashtra, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4477122794/) — IBM
+### [Software Engineer(3-4 years) (Python, Appium, AI(knowlegde))](https://www.linkedin.com/jobs/view/4450255851/) — Motorola Solutions
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4475790088/) — WTW
-- 📍 **Location:** Mumbai, Maharashtra, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4477121762/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer - II](https://www.linkedin.com/jobs/view/4466850517/) — Teradata
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4477128525/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer - II](https://www.linkedin.com/jobs/view/4466837993/) — Teradata
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Cloud & AI Engineer](https://www.linkedin.com/jobs/view/4477120927/) — IBM
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Voice AI Engineer](https://www.linkedin.com/jobs/view/4475788165/) — Revspot
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4475769956/) — Saatvik Agro
-- 📍 **Location:** Morena, Madhya Pradesh, India
-- 🕒 **Posted:** 2026-10-08
-
-### [Forward Deployed Engineer – Customer Support Engineering](https://www.linkedin.com/jobs/view/4475790192/) — Fabric
-- 📍 **Location:** Greater Bengaluru Area
-- 🕒 **Posted:** 2026-10-08
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4477102576/) — HRM Counsel
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4475989055/) — internmo
 - 📍 **Location:** India
 - 🕒 **Posted:** 2026-10-08
 
-### [Applied AI Engineer II](https://www.linkedin.com/jobs/view/4457653068/) — Deloitte
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4475975047/) — Seismic
 - 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Applied AI Engineer II](https://www.linkedin.com/jobs/view/4457640871/) — Deloitte
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Consultant - AI Engineer](https://www.linkedin.com/jobs/view/4477406652/) — HCA Healthcare - India
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineering PMTS](https://www.linkedin.com/jobs/view/4477145151/) — SalesForce-ad
-- 📍 **Location:** Hyderabad, Telangana, India
+### [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4475978410/) — internmo
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-10-08
+
+### [Presales Solutions Engineer](https://www.linkedin.com/jobs/view/4475966599/) — Jobgether
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Production AI Applications - Pan India](https://www.linkedin.com/jobs/view/4474463219/) — Layam Group
+- 📍 **Location:** Chennai, Tamil Nadu, India
 - 🕒 **Posted:** 2026-10-08
